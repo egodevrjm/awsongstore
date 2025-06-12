@@ -1,0 +1,1899 @@
+{
+  "metadata": {
+    "total_songs": 86,
+    "last_updated": "2025-06-13T00:19:55.275159",
+    "generated_by": "song_database_splitter.py"
+  },
+  "songs": {
+    "a_song_and_a_beer": {
+      "title": "A Song and a Beer",
+      "status": "private",
+      "themes": [
+        "bar_setting",
+        "freedom_wandering",
+        "music_songwriting",
+        "nostalgia",
+        "partying_celebration",
+        "resilience_survival"
+      ],
+      "suggested_venues": [
+        "coffee_shop",
+        "dive_bar",
+        "festival",
+        "honky_tonk",
+        "listening_room",
+        "roadhouse",
+        "small_theater"
+      ],
+      "sounds_like_acoustic": "Warm, inviting acoustic guitar and vocals with a gentle, folksy feel; reminiscent of a cozy, intimate dive bar setting.",
+      "sounds_like_recording": "Mid-tempo, polished country-rock production with crisp electric and acoustic guitars, steady drums, and bright, layered vocals;  anthemic and feel-good."
+    },
+    "be_better_for_the_next_guy": {
+      "title": "Be Better for the Next Guy",
+      "status": "private",
+      "themes": [
+        "abuse_trauma",
+        "bar_setting",
+        "heartbreak_loss",
+        "hometown_roots",
+        "love_romance",
+        "music_songwriting"
+      ],
+      "suggested_venues": [
+        "coffee_shop",
+        "dive_bar",
+        "honky_tonk",
+        "listening_room",
+        "roadhouse",
+        "small_theater"
+      ],
+      "sounds_like_acoustic": "Stripped-down, raw acoustic performance with a focus on vocals, acoustic guitar, and light percussion.  The feel is intimate and slightly melancholic, with a touch of defiance.",
+      "sounds_like_recording": "Modern country production with polished vocals, electric and acoustic guitars, bass, drums, and possibly some pedal steel or banjo.  The overall style is upbeat and driving, with a strong rhythmic foundation and a radio-friendly sheen."
+    },
+    "blackberry_creek_revival": {
+      "title": "Blackberry Creek Revival",
+      "status": "private",
+      "themes": [
+        "faith_spirituality",
+        "heartbreak_loss",
+        "hometown_roots",
+        "music_songwriting",
+        "nature_outdoors",
+        "resilience_survival",
+        "working_class_labor"
+      ],
+      "suggested_venues": [
+        "amphitheater",
+        "church",
+        "coffee_shop",
+        "house_concert",
+        "listening_room",
+        "outdoor_venue",
+        "revival",
+        "small_theater"
+      ],
+      "sounds_like_acoustic": "A simple, folksy acoustic sound with banjo, acoustic guitar, and handclaps, evoking a raw, intimate, and communal feel.",
+      "sounds_like_recording": "A rootsy Americana recording with warm, layered vocals, driving banjo and acoustic guitar rhythms, subtle fiddle and mandolin accents, and a powerful, uplifting chorus."
+    },
+    "born_in_hell": {
+      "title": "Born in Hell",
+      "status": "private",
+      "themes": [
+        "abuse_trauma",
+        "bar_setting",
+        "family",
+        "faith_spirituality",
+        "freedom_wandering",
+        "hometown_roots",
+        "nature_outdoors",
+        "rebellion_outlaw",
+        "resilience_survival",
+        "working_class_labor"
+      ],
+      "suggested_venues": [
+        "arena",
+        "coffee_shop",
+        "dive_bar",
+        "honky_tonk",
+        "house_concert",
+        "listening_room",
+        "roadhouse",
+        "stadium"
+      ],
+      "sounds_like_acoustic": "Raw and intimate with a fingerpicked acoustic guitar, mournful harmonica, and gravelly vocals, conveying a sense of weary resilience.",
+      "sounds_like_recording": "A driving, blues-rock anthem with distorted electric guitars, heavy drums, and soaring, impassioned vocals, creating a dark and powerful atmosphere."
+    },
+    "embers_to_inferno": {
+      "title": "Embers to Inferno",
+      "status": "private",
+      "themes": [
+        "faith_spirituality",
+        "freedom_wandering",
+        "love_romance",
+        "nature_outdoors",
+        "rebellion_outlaw"
+      ],
+      "suggested_venues": [
+        "coffee_shop",
+        "house_concert",
+        "listening_room",
+        "small_theater"
+      ],
+      "sounds_like_acoustic": "Fingerpicked acoustic guitar, light percussion, and warm bass create a sensual, intimate feel, building intensity as the song progresses.",
+      "sounds_like_recording": "Sultry vocals layered over a driving drumbeat, electric guitar accents, and synthesized strings, creating a dark, passionate atmosphere with a pop sensibility."
+    },
+    "feels_like_home": {
+      "title": "Feels Like Home",
+      "status": "private",
+      "themes": [
+        "faith_spirituality",
+        "freedom_wandering",
+        "heartbreak_loss",
+        "hometown_roots",
+        "music_songwriting",
+        "nature_outdoors",
+        "rebellion_outlaw",
+        "resilience_survival",
+        "working_class_labor"
+      ],
+      "suggested_venues": [
+        "amphitheater",
+        "coffee_shop",
+        "house_concert",
+        "listening_room",
+        "outdoor_venue",
+        "small_theater"
+      ],
+      "sounds_like_acoustic": "A raw, intimate performance with acoustic guitar, fiddle, and harmonica, evoking a folk/Americana feel with a touch of blues.",
+      "sounds_like_recording": "A warm, rootsy production with layered acoustic and electric guitars, subtle drums and bass, featuring a prominent fiddle and steel guitar adding a touch of country grit."
+    },
+    "broken_hallelujah": {
+      "title": "Broken Hallelujah",
+      "status": "private",
+      "themes": [
+        "abuse_trauma",
+        "family",
+        "faith_spirituality",
+        "freedom_wandering",
+        "hometown_roots",
+        "music_songwriting",
+        "nature_outdoors",
+        "resilience_survival",
+        "working_class_labor"
+      ],
+      "suggested_venues": [
+        "church",
+        "coffee_shop",
+        "house_concert",
+        "listening_room",
+        "revival",
+        "small_theater"
+      ],
+      "sounds_like_acoustic": "Raw and intimate, featuring fingerpicked acoustic guitar with a gravelly vocal delivery conveying a sense of weathered hope.",
+      "sounds_like_recording": "Rootsy Americana with a touch of grit, layering warm electric guitar, subtle bass, and brushed drums to create a hopeful yet world-weary atmosphere."
+    },
+    "georgia_makes_the_devil_her_toy": {
+      "title": "Georgia Makes the Devil Her Toy",
+      "status": "private",
+      "themes": [
+        "faith_spirituality",
+        "hometown_roots",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors",
+        "rebellion_outlaw",
+        "resilience_survival"
+      ],
+      "suggested_venues": [
+        "amphitheater",
+        "honky_tonk",
+        "outdoor_venue",
+        "roadhouse"
+      ],
+      "sounds_like_acoustic": "",
+      "sounds_like_recording": ""
+    },
+    "get_it_on": {
+      "title": "Get it On",
+      "status": "private",
+      "themes": [
+        "bar_setting",
+        "faith_spirituality",
+        "love_romance",
+        "nature_outdoors",
+        "partying_celebration",
+        "rebellion_outlaw"
+      ],
+      "suggested_venues": [
+        "festival",
+        "honky_tonk",
+        "roadhouse"
+      ],
+      "sounds_like_acoustic": "",
+      "sounds_like_recording": ""
+    },
+    "guilt_and_grief": {
+      "title": "Guilt and Grief",
+      "status": "private",
+      "themes": [
+        "abuse_trauma",
+        "family",
+        "faith_spirituality",
+        "heartbreak_loss",
+        "love_romance",
+        "music_songwriting",
+        "working_class_labor"
+      ],
+      "suggested_venues": [
+        "church",
+        "coffee_shop",
+        "listening_room",
+        "small_theater"
+      ],
+      "sounds_like_acoustic": "",
+      "sounds_like_recording": ""
+    },
+    "heres_to_the_ghosts_i_leave_behind": {
+      "title": "Here’s to the Ghosts I Leave Behind",
+      "status": "private",
+      "themes": [
+        "abuse_trauma",
+        "family",
+        "faith_spirituality",
+        "freedom_wandering",
+        "heartbreak_loss",
+        "hometown_roots",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors",
+        "partying_celebration",
+        "resilience_survival",
+        "working_class_labor"
+      ],
+      "suggested_venues": [
+        "amphitheater",
+        "coffee_shop",
+        "festival",
+        "house_concert",
+        "listening_room",
+        "outdoor_venue",
+        "small_theater"
+      ],
+      "sounds_like_acoustic": "A raw and intimate acoustic performance with fingerpicked acoustic guitar and a gravelly, emotive vocal delivery, evoking a sense of reflection and resilience.",
+      "sounds_like_recording": "A rootsy Americana recording with warm acoustic guitars, subtle bass, light percussion, and layered harmonies, creating a bittersweet and anthemic feel."
+    },
+    "i_raised_myself": {
+      "title": "I Raised Myself",
+      "status": "private",
+      "themes": [
+        "abuse_trauma",
+        "family",
+        "faith_spirituality",
+        "heartbreak_loss",
+        "hometown_roots",
+        "music_songwriting",
+        "rebellion_outlaw",
+        "resilience_survival",
+        "working_class_labor"
+      ],
+      "suggested_venues": [
+        "coffee_shop",
+        "honky_tonk",
+        "listening_room",
+        "roadhouse",
+        "small_theater"
+      ],
+      "sounds_like_acoustic": "A traditional honky-tonk ballad with mournful steel guitar and a raw, powerful vocal delivery reminiscent of Merle Haggard.  Alex Wilson tells a hard-luck story of self-reliance, echoing classic country themes of struggle and survival, with driving acoustic guitar and subtle fiddle accents creating a timeless, authentic sound.",
+      "sounds_like_recording": ""
+    },
+    "it_took_losing_you_to_find_me": {
+      "title": "It Took Losing You to Find Me",
+      "status": "private",
+      "themes": [
+        "faith_spirituality",
+        "freedom_wandering",
+        "heartbreak_loss",
+        "love_romance",
+        "nature_outdoors",
+        "resilience_survival",
+        "working_class_labor"
+      ],
+      "suggested_venues": [
+        "amphitheater",
+        "outdoor_venue"
+      ],
+      "sounds_like_acoustic": "",
+      "sounds_like_recording": ""
+    },
+    "kentucky_steel": {
+      "title": "Kentucky Steel",
+      "status": "private",
+      "themes": [
+        "abuse_trauma",
+        "family",
+        "faith_spirituality",
+        "hometown_roots",
+        "music_songwriting",
+        "nature_outdoors",
+        "resilience_survival",
+        "working_class_labor"
+      ],
+      "suggested_venues": [
+        "amphitheater",
+        "church",
+        "outdoor_venue",
+        "revival"
+      ],
+      "sounds_like_acoustic": "",
+      "sounds_like_recording": ""
+    },
+    "love_aint_enough": {
+      "title": "Love Ain’t Enough",
+      "status": "private",
+      "themes": [
+        "bar_setting",
+        "faith_spirituality",
+        "heartbreak_loss",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors",
+        "resilience_survival"
+      ],
+      "suggested_venues": [
+        "dive_bar"
+      ],
+      "sounds_like_acoustic": "",
+      "sounds_like_recording": ""
+    },
+    "my_mothers_eyes": {
+      "title": "My Mother’s Eyes",
+      "status": "private",
+      "themes": [
+        "family",
+        "heartbreak_loss",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors",
+        "nostalgia",
+        "resilience_survival"
+      ],
+      "suggested_venues": [
+        "coffee_shop",
+        "house_concert",
+        "listening_room",
+        "small_theater"
+      ],
+      "sounds_like_acoustic": "Fingerpicked acoustic guitar, gentle and melancholic, with a focus on raw vocals and emotional delivery.  The bridge and outro would feature slightly more intricate fingerstyle.",
+      "sounds_like_recording": "A warm, intimate studio recording with acoustic guitar as the foundation, layered with subtle strings, piano, and light percussion.  The production emphasizes the vulnerability of the vocals and builds to a powerful, yet restrained, chorus."
+    },
+    "running_free": {
+      "title": "Running Free",
+      "status": "private",
+      "themes": [
+        "abuse_trauma",
+        "bar_setting",
+        "faith_spirituality",
+        "freedom_wandering",
+        "heartbreak_loss",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors",
+        "resilience_survival"
+      ],
+      "suggested_venues": [
+        "amphitheater",
+        "outdoor_venue",
+        "roadhouse"
+      ],
+      "sounds_like_acoustic": "",
+      "sounds_like_recording": ""
+    },
+    "saturday_night_salvation": {
+      "title": "Saturday Night Salvation",
+      "status": "private",
+      "themes": [
+        "bar_setting",
+        "faith_spirituality",
+        "freedom_wandering",
+        "hometown_roots",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors",
+        "partying_celebration",
+        "rebellion_outlaw"
+      ],
+      "suggested_venues": [
+        "amphitheater",
+        "festival",
+        "honky_tonk",
+        "outdoor_venue",
+        "roadhouse"
+      ],
+      "sounds_like_acoustic": "",
+      "sounds_like_recording": ""
+    },
+    "skin_on_mine": {
+      "title": "Skin On Mine",
+      "status": "private",
+      "themes": [
+        "abuse_trauma",
+        "faith_spirituality",
+        "freedom_wandering",
+        "heartbreak_loss",
+        "hometown_roots",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors",
+        "rebellion_outlaw"
+      ],
+      "suggested_venues": [
+        "amphitheater",
+        "coffee_shop",
+        "house_concert",
+        "listening_room",
+        "outdoor_venue",
+        "small_theater"
+      ],
+      "sounds_like_acoustic": "Intimate fingerpicked acoustic guitar and warm vocals, with a raw and vulnerable feel, reminiscent of Damien Rice or Iron & Wine.",
+      "sounds_like_recording": "Lush, atmospheric production with acoustic guitar, subtle strings, light percussion, and reverb-drenched vocals, evoking a sense of intimacy and emotional depth, similar to The Lumineers or Lord Huron."
+    },
+    "sometimes_cowboys_stay": {
+      "title": "Sometimes Cowboys Stay",
+      "status": "private",
+      "themes": [
+        "abuse_trauma",
+        "faith_spirituality",
+        "freedom_wandering",
+        "heartbreak_loss",
+        "hometown_roots",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors"
+      ],
+      "suggested_venues": [
+        "amphitheater",
+        "outdoor_venue"
+      ],
+      "sounds_like_acoustic": "",
+      "sounds_like_recording": ""
+    },
+    "tailgate_nights": {
+      "title": "Tailgate Nights",
+      "status": "private",
+      "themes": [
+        "hometown_roots",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors",
+        "partying_celebration",
+        "resilience_survival"
+      ],
+      "suggested_venues": [
+        "amphitheater",
+        "festival",
+        "outdoor_venue"
+      ],
+      "sounds_like_acoustic": "A lively, folksy tune driven by acoustic guitar, fiddle, and hand claps, with a warm, inviting feel.",
+      "sounds_like_recording": "A polished country track with prominent fiddle, banjo, and driving drums, featuring a bright, anthemic chorus and a slightly echoey production to evoke the open-air setting."
+    },
+    "tailgate_testament": {
+      "title": "Tailgate Testament",
+      "status": "private",
+      "themes": [
+        "faith_spirituality",
+        "freedom_wandering",
+        "heartbreak_loss",
+        "hometown_roots",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors",
+        "partying_celebration",
+        "resilience_survival",
+        "working_class_labor"
+      ],
+      "suggested_venues": [
+        "amphitheater",
+        "coffee_shop",
+        "festival",
+        "house_concert",
+        "listening_room",
+        "outdoor_venue"
+      ],
+      "sounds_like_acoustic": "Gentle fingerpicked acoustic guitar and warm vocal harmonies, evoking a nostalgic and intimate feel.  A light banjo or mandolin might add to the folksy charm.",
+      "sounds_like_recording": "A polished country recording with a driving, rhythmic feel, featuring electric guitar, bass, drums, and prominent vocal harmonies. Steel guitar and fiddle could add a classic country texture."
+    },
+    "the_devil_went_down_on_georgia": {
+      "title": "The Devil Went Down on Georgia",
+      "status": "private",
+      "themes": [
+        "faith_spirituality",
+        "freedom_wandering",
+        "hometown_roots",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors",
+        "rebellion_outlaw",
+        "resilience_survival",
+        "working_class_labor"
+      ],
+      "suggested_venues": [
+        "amphitheater",
+        "honky_tonk",
+        "outdoor_venue",
+        "roadhouse",
+        "stadium"
+      ],
+      "sounds_like_acoustic": "Bluesy acoustic guitar with a slide, maybe a touch of harmonica, and a sultry, confident vocal delivery.  A driving rhythm suggests Georgia's defiance.",
+      "sounds_like_recording": "Swampy blues-rock with electric guitar, bass, and drums, accented by slide guitar and organ. Production emphasizes a smoky, sensual atmosphere with Georgia's powerful vocals taking center stage."
+    },
+    "the_girl_in_the_summer_dress": {
+      "title": "The Girl In The Summer Dress",
+      "status": "private",
+      "themes": [
+        "faith_spirituality",
+        "love_romance",
+        "partying_celebration",
+        "rebellion_outlaw"
+      ],
+      "suggested_venues": [
+        "coffee_shop",
+        "festival",
+        "honky_tonk",
+        "house_concert",
+        "roadhouse",
+        "stadium"
+      ],
+      "sounds_like_acoustic": "Fingerpicked acoustic guitar, upright bass, and light brushed drums create a warm, intimate feel with a touch of bluesy swagger.",
+      "sounds_like_recording": "A polished, roots-rock production with electric guitars, driving drums, and possibly some organ or harmonica, creating a vibrant and energetic sound."
+    },
+    "the_mourning_after": {
+      "title": "The Mourning After",
+      "status": "private",
+      "themes": [
+        "abuse_trauma",
+        "bar_setting",
+        "faith_spirituality",
+        "freedom_wandering",
+        "heartbreak_loss",
+        "hometown_roots",
+        "love_romance",
+        "nature_outdoors",
+        "nostalgia",
+        "resilience_survival"
+      ],
+      "suggested_venues": [
+        "dive_bar"
+      ],
+      "sounds_like_acoustic": "",
+      "sounds_like_recording": ""
+    },
+    "the_music": {
+      "title": "The Music",
+      "status": "private",
+      "themes": [
+        "abuse_trauma",
+        "family",
+        "faith_spirituality",
+        "freedom_wandering",
+        "heartbreak_loss",
+        "hometown_roots",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors",
+        "resilience_survival",
+        "working_class_labor"
+      ],
+      "suggested_venues": [
+        "church",
+        "coffee_shop",
+        "house_concert",
+        "listening_room",
+        "revival",
+        "small_theater"
+      ],
+      "sounds_like_acoustic": "Raw and intimate, featuring a lone acoustic guitar with a bluesy, folk-inspired fingerpicking style, conveying a sense of vulnerability and resilience.",
+      "sounds_like_recording": "A warm, slightly gritty Americana recording with acoustic guitar as the centerpiece, potentially layered with subtle instrumentation like banjo, harmonica, or light percussion, emphasizing the emotional depth of the lyrics."
+    },
+    "the_way_you_make_me_feel": {
+      "title": "The Way You Make Me Feel",
+      "status": "private",
+      "themes": [
+        "abuse_trauma",
+        "bar_setting",
+        "faith_spirituality",
+        "love_romance",
+        "nature_outdoors",
+        "rebellion_outlaw"
+      ],
+      "suggested_venues": [
+        "coffee_shop",
+        "house_concert",
+        "listening_room",
+        "small_theater"
+      ],
+      "sounds_like_acoustic": "Intimate and raw, featuring a fingerpicked acoustic guitar, a steady bass drum beat, and potentially a mournful harmonica, evoking a bluesy, folk-rock feel.",
+      "sounds_like_recording": "Sultry and driving, with a blend of electric guitar, bass, and drums creating a dark, bluesy-rock atmosphere, layered with possibly some strings or a Hammond organ for added drama."
+    },
+    "the_weight_of_silence": {
+      "title": "The Weight of Silence",
+      "status": "private",
+      "themes": [
+        "abuse_trauma",
+        "family",
+        "faith_spirituality",
+        "heartbreak_loss",
+        "music_songwriting",
+        "resilience_survival",
+        "working_class_labor"
+      ],
+      "suggested_venues": [],
+      "sounds_like_acoustic": "",
+      "sounds_like_recording": ""
+    },
+    "what_dad_left_behind": {
+      "title": "What Dad Left Behind",
+      "status": "private",
+      "themes": [
+        "abuse_trauma",
+        "family",
+        "freedom_wandering",
+        "heartbreak_loss",
+        "music_songwriting",
+        "resilience_survival"
+      ],
+      "suggested_venues": [],
+      "sounds_like_acoustic": "",
+      "sounds_like_recording": ""
+    },
+    "when_mountains_weep": {
+      "title": "When Mountains Weep",
+      "status": "private",
+      "themes": [
+        "abuse_trauma",
+        "family",
+        "faith_spirituality",
+        "heartbreak_loss",
+        "hometown_roots",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors",
+        "working_class_labor"
+      ],
+      "suggested_venues": [
+        "amphitheater",
+        "church",
+        "coffee_shop",
+        "listening_room",
+        "outdoor_venue",
+        "small_theater"
+      ],
+      "sounds_like_acoustic": "Fingerpicked acoustic guitar, mournful vocals, and possibly a subtle cello or fiddle create a raw, Appalachian folk feel.",
+      "sounds_like_recording": "A layered recording with acoustic guitar, strings, subtle percussion, and echoing vocals evokes a cinematic Americana soundscape, emphasizing the song's emotional depth."
+    },
+    "yes_boys_do_cry_sometimes": {
+      "title": "Yes, Boys Do Cry Sometimes",
+      "status": "private",
+      "themes": [
+        "abuse_trauma",
+        "family",
+        "freedom_wandering",
+        "heartbreak_loss",
+        "hometown_roots",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors",
+        "resilience_survival",
+        "working_class_labor"
+      ],
+      "suggested_venues": [
+        "coffee_shop",
+        "listening_room",
+        "small_theater"
+      ],
+      "sounds_like_acoustic": "A traditional country ballad reminiscent of Hank Williams and George Jones, \"Yes, Boys Do Cry Sometimes\" features mournful steel guitar and fiddle weaving around Alex Wilson's raw, emotive vocals.  Honest storytelling about heartbreak and hardship unfolds through classic country instrumentation, creating a somber yet hopeful atmosphere.",
+      "sounds_like_recording": ""
+    },
+    "hollow_turns_hallelujah": {
+      "title": "Hollow Turns Hallelujah",
+      "status": "private",
+      "themes": [
+        "abuse_trauma",
+        "faith_spirituality",
+        "heartbreak_loss",
+        "hometown_roots",
+        "music_songwriting",
+        "nature_outdoors",
+        "nostalgia",
+        "resilience_survival"
+      ],
+      "suggested_venues": [
+        "amphitheater",
+        "church",
+        "outdoor_venue",
+        "revival"
+      ],
+      "sounds_like_acoustic": "",
+      "sounds_like_recording": ""
+    },
+    "lantern_i_left_behind": {
+      "title": "Lantern I Left Behind",
+      "status": "private",
+      "themes": [
+        "abuse_trauma",
+        "freedom_wandering",
+        "heartbreak_loss",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors",
+        "nostalgia",
+        "working_class_labor"
+      ],
+      "suggested_venues": [
+        "amphitheater",
+        "outdoor_venue"
+      ],
+      "sounds_like_acoustic": "",
+      "sounds_like_recording": ""
+    },
+    "morning_after_rain": {
+      "title": "Morning After Rain",
+      "status": "private",
+      "themes": [
+        "abuse_trauma",
+        "faith_spirituality",
+        "heartbreak_loss",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors",
+        "nostalgia",
+        "resilience_survival"
+      ],
+      "suggested_venues": [
+        "amphitheater",
+        "church",
+        "coffee_shop",
+        "house_concert",
+        "listening_room",
+        "outdoor_venue",
+        "revival",
+        "small_theater"
+      ],
+      "sounds_like_acoustic": "Gentle fingerpicked acoustic guitar, warm cello, and light harmonies create a folk-inspired ballad with a hopeful, reflective feel.",
+      "sounds_like_recording": "A polished studio recording with lush strings, piano accents, and a subtle drum beat supporting a clear, emotive vocal performance in a contemporary Christian style."
+    },
+    "if_youre_breathing_youre_worth_saving": {
+      "title": "If You’re Breathing, You’re Worth Saving",
+      "status": "private",
+      "themes": [
+        "abuse_trauma",
+        "faith_spirituality",
+        "heartbreak_loss",
+        "love_romance",
+        "nature_outdoors",
+        "resilience_survival",
+        "working_class_labor"
+      ],
+      "suggested_venues": [],
+      "sounds_like_acoustic": "",
+      "sounds_like_recording": ""
+    },
+    "red_dirt_road": {
+      "title": "Red Dirt Road",
+      "status": "private",
+      "themes": [
+        "abuse_trauma",
+        "family",
+        "faith_spirituality",
+        "freedom_wandering",
+        "heartbreak_loss",
+        "hometown_roots",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors",
+        "nostalgia",
+        "rebellion_outlaw",
+        "working_class_labor"
+      ],
+      "suggested_venues": [
+        "amphitheater",
+        "outdoor_venue"
+      ],
+      "sounds_like_acoustic": "",
+      "sounds_like_recording": ""
+    },
+    "scars_and_smoke": {
+      "title": "Scars and Smoke",
+      "status": "private",
+      "themes": [
+        "abuse_trauma",
+        "faith_spirituality",
+        "freedom_wandering",
+        "heartbreak_loss",
+        "hometown_roots",
+        "nature_outdoors",
+        "nostalgia",
+        "rebellion_outlaw",
+        "resilience_survival",
+        "working_class_labor"
+      ],
+      "suggested_venues": [
+        "amphitheater",
+        "outdoor_venue",
+        "roadhouse"
+      ],
+      "sounds_like_acoustic": "",
+      "sounds_like_recording": ""
+    },
+    "the_reveal": {
+      "title": "The Reveal",
+      "status": "private",
+      "themes": [],
+      "suggested_venues": [],
+      "sounds_like_acoustic": "",
+      "sounds_like_recording": ""
+    },
+    "wildflower_heart": {
+      "title": "Wildflower Heart",
+      "status": "private",
+      "themes": [
+        "abuse_trauma",
+        "family",
+        "faith_spirituality",
+        "freedom_wandering",
+        "hometown_roots",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors",
+        "resilience_survival",
+        "working_class_labor"
+      ],
+      "suggested_venues": [
+        "amphitheater",
+        "church",
+        "outdoor_venue",
+        "revival"
+      ],
+      "sounds_like_acoustic": "",
+      "sounds_like_recording": ""
+    },
+    "phoenix_flight": {
+      "title": "Phoenix Flight",
+      "status": "private",
+      "themes": [
+        "heartbreak_loss",
+        "nature_outdoors",
+        "rebellion_outlaw",
+        "resilience_survival"
+      ],
+      "suggested_venues": [
+        "amphitheater",
+        "honky_tonk",
+        "outdoor_venue",
+        "roadhouse"
+      ],
+      "sounds_like_acoustic": "",
+      "sounds_like_recording": ""
+    },
+    "digital_bonfire": {
+      "title": "Digital Bonfire",
+      "status": "private",
+      "themes": [
+        "faith_spirituality",
+        "heartbreak_loss",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors",
+        "partying_celebration"
+      ],
+      "suggested_venues": [
+        "festival"
+      ],
+      "sounds_like_acoustic": "",
+      "sounds_like_recording": ""
+    },
+    "full_and_gone": {
+      "title": "Full and Gone",
+      "status": "private",
+      "themes": [
+        "abuse_trauma",
+        "faith_spirituality",
+        "freedom_wandering",
+        "heartbreak_loss",
+        "hometown_roots",
+        "music_songwriting",
+        "nature_outdoors",
+        "resilience_survival",
+        "working_class_labor"
+      ],
+      "suggested_venues": [
+        "amphitheater",
+        "outdoor_venue"
+      ],
+      "sounds_like_acoustic": "",
+      "sounds_like_recording": ""
+    },
+    "diner_life": {
+      "title": "Diner Life",
+      "status": "private",
+      "themes": [
+        "family",
+        "faith_spirituality",
+        "freedom_wandering",
+        "heartbreak_loss",
+        "hometown_roots",
+        "love_romance",
+        "music_songwriting",
+        "resilience_survival",
+        "working_class_labor"
+      ],
+      "suggested_venues": [
+        "coffee_shop",
+        "house_concert",
+        "listening_room",
+        "roadhouse",
+        "small_theater"
+      ],
+      "sounds_like_acoustic": "Gentle fingerpicked acoustic guitar and fiddle create a warm, nostalgic feel, reminiscent of a quiet diner.  Harmonica adds a touch of bluesy melancholy.",
+      "sounds_like_recording": "Warm, slightly reverb-drenched production with acoustic guitar, bass, drums, fiddle, and harmonica.  A blend of folk, Americana, and heartland rock styles evokes a sense of both intimacy and wide-open spaces."
+    },
+    "blackberry_creek_blues": {
+      "title": "Blackberry Creek Blues",
+      "status": "private",
+      "themes": [
+        "abuse_trauma",
+        "family",
+        "faith_spirituality",
+        "freedom_wandering",
+        "heartbreak_loss",
+        "hometown_roots",
+        "music_songwriting",
+        "nature_outdoors",
+        "resilience_survival",
+        "working_class_labor"
+      ],
+      "suggested_venues": [
+        "amphitheater",
+        "outdoor_venue"
+      ],
+      "sounds_like_acoustic": "",
+      "sounds_like_recording": ""
+    },
+    "faded_mountain_truths": {
+      "title": "Faded Mountain Truths",
+      "status": "private",
+      "themes": [
+        "abuse_trauma",
+        "family",
+        "freedom_wandering",
+        "heartbreak_loss",
+        "hometown_roots",
+        "music_songwriting",
+        "nature_outdoors",
+        "nostalgia",
+        "resilience_survival",
+        "working_class_labor"
+      ],
+      "suggested_venues": [
+        "amphitheater",
+        "outdoor_venue"
+      ],
+      "sounds_like_acoustic": "",
+      "sounds_like_recording": ""
+    },
+    "drink_to_the_family": {
+      "title": "Drink to the Family",
+      "status": "private",
+      "themes": [
+        "abuse_trauma",
+        "bar_setting",
+        "family",
+        "faith_spirituality",
+        "freedom_wandering",
+        "heartbreak_loss",
+        "hometown_roots",
+        "music_songwriting",
+        "nature_outdoors",
+        "partying_celebration",
+        "rebellion_outlaw",
+        "resilience_survival",
+        "working_class_labor"
+      ],
+      "suggested_venues": [
+        "amphitheater",
+        "festival",
+        "honky_tonk",
+        "house_concert",
+        "outdoor_venue",
+        "roadhouse",
+        "stadium"
+      ],
+      "sounds_like_acoustic": "A raw, full blown party song played on acoustic guitar. Gravelly vocals, evoking a sense of campfire camaraderie and a perfect singalong drinking song.",
+      "sounds_like_recording": "A driving, anthemic country-rock production with layered electric guitars, drums, bass, and powerful vocals, capturing a feeling of rebellious energy and heartfelt celebration."
+    },
+    "mamma_make_him_stop": {
+      "title": "Mamma Make Him Stop",
+      "status": "private",
+      "themes": [
+        "abuse_trauma",
+        "family",
+        "faith_spirituality",
+        "heartbreak_loss",
+        "hometown_roots",
+        "music_songwriting"
+      ],
+      "suggested_venues": [],
+      "sounds_like_acoustic": "",
+      "sounds_like_recording": ""
+    },
+    "hell_and_hymns": {
+      "title": "Hell and Hymns",
+      "status": "private",
+      "themes": [
+        "abuse_trauma",
+        "bar_setting",
+        "family",
+        "faith_spirituality",
+        "heartbreak_loss",
+        "music_songwriting",
+        "nature_outdoors",
+        "nostalgia",
+        "partying_celebration",
+        "rebellion_outlaw",
+        "resilience_survival",
+        "working_class_labor"
+      ],
+      "suggested_venues": [
+        "dive_bar",
+        "festival",
+        "honky_tonk",
+        "roadhouse"
+      ],
+      "sounds_like_acoustic": "",
+      "sounds_like_recording": ""
+    },
+    "when_you_cant_be_near_me": {
+      "title": "When You Can't Be Near Me",
+      "status": "private",
+      "themes": [
+        "abuse_trauma",
+        "bar_setting",
+        "faith_spirituality",
+        "freedom_wandering",
+        "heartbreak_loss",
+        "hometown_roots",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors",
+        "nostalgia",
+        "partying_celebration",
+        "rebellion_outlaw"
+      ],
+      "suggested_venues": [
+        "dive_bar",
+        "festival",
+        "honky_tonk",
+        "roadhouse"
+      ],
+      "sounds_like_acoustic": "",
+      "sounds_like_recording": ""
+    },
+    "whiskey_dont_lie": {
+      "title": "Whiskey Don't Lie",
+      "status": "private",
+      "themes": [
+        "abuse_trauma",
+        "bar_setting",
+        "faith_spirituality",
+        "freedom_wandering",
+        "heartbreak_loss",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors",
+        "partying_celebration",
+        "rebellion_outlaw"
+      ],
+      "suggested_venues": [
+        "dive_bar",
+        "festival",
+        "honky_tonk",
+        "roadhouse"
+      ],
+      "sounds_like_acoustic": "",
+      "sounds_like_recording": ""
+    },
+    "backroad_heart": {
+      "title": "Backroad Heart",
+      "status": "private",
+      "themes": [
+        "faith_spirituality",
+        "freedom_wandering",
+        "heartbreak_loss",
+        "hometown_roots",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors",
+        "nostalgia",
+        "partying_celebration",
+        "resilience_survival"
+      ],
+      "suggested_venues": [
+        "amphitheater",
+        "outdoor_venue"
+      ],
+      "sounds_like_acoustic": "",
+      "sounds_like_recording": ""
+    },
+    "run_from_the_reaper": {
+      "title": "Run From the Reaper",
+      "status": "private",
+      "themes": [
+        "abuse_trauma",
+        "faith_spirituality",
+        "freedom_wandering",
+        "heartbreak_loss",
+        "nature_outdoors",
+        "rebellion_outlaw"
+      ],
+      "suggested_venues": [
+        "amphitheater",
+        "arena",
+        "festival",
+        "honky_tonk",
+        "outdoor_venue",
+        "roadhouse",
+        "stadium"
+      ],
+      "sounds_like_acoustic": "",
+      "sounds_like_recording": ""
+    },
+    "under_a_southern_sky": {
+      "title": "Under a Southern Sky",
+      "status": "private",
+      "themes": [
+        "abuse_trauma",
+        "bar_setting",
+        "faith_spirituality",
+        "freedom_wandering",
+        "heartbreak_loss",
+        "hometown_roots",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors",
+        "rebellion_outlaw",
+        "resilience_survival"
+      ],
+      "suggested_venues": [
+        "amphitheater",
+        "dive_bar",
+        "honky_tonk",
+        "outdoor_venue",
+        "roadhouse"
+      ],
+      "sounds_like_acoustic": "",
+      "sounds_like_recording": ""
+    },
+    "whispers_from_the_hemlock_holler": {
+      "title": "Whispers from the Hemlock Holler",
+      "status": "private",
+      "themes": [
+        "abuse_trauma",
+        "family",
+        "faith_spirituality",
+        "heartbreak_loss",
+        "hometown_roots",
+        "music_songwriting",
+        "nature_outdoors",
+        "working_class_labor"
+      ],
+      "suggested_venues": [
+        "amphitheater",
+        "outdoor_venue"
+      ],
+      "sounds_like_acoustic": "",
+      "sounds_like_recording": ""
+    },
+    "shadows_holler": {
+      "title": "Shadow’s Holler",
+      "status": "private",
+      "themes": [
+        "abuse_trauma",
+        "freedom_wandering",
+        "hometown_roots",
+        "music_songwriting",
+        "nature_outdoors",
+        "rebellion_outlaw"
+      ],
+      "suggested_venues": [
+        "amphitheater",
+        "festival",
+        "honky_tonk",
+        "outdoor_venue",
+        "roadhouse"
+      ],
+      "sounds_like_acoustic": "",
+      "sounds_like_recording": ""
+    },
+    "canyons_cry": {
+      "title": "Canyon’s Cry",
+      "status": "private",
+      "themes": [
+        "abuse_trauma",
+        "faith_spirituality",
+        "heartbreak_loss",
+        "music_songwriting",
+        "nature_outdoors",
+        "rebellion_outlaw",
+        "resilience_survival"
+      ],
+      "suggested_venues": [
+        "amphitheater",
+        "festival",
+        "honky_tonk",
+        "outdoor_venue",
+        "roadhouse",
+        "stadium"
+      ],
+      "sounds_like_acoustic": "",
+      "sounds_like_recording": ""
+    },
+    "tumbleweed_promises": {
+      "title": "Tumbleweed Promises",
+      "status": "private",
+      "themes": [
+        "bar_setting",
+        "faith_spirituality",
+        "freedom_wandering",
+        "heartbreak_loss",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors",
+        "rebellion_outlaw"
+      ],
+      "suggested_venues": [
+        "coffee_shop",
+        "honky_tonk",
+        "house_concert",
+        "roadhouse"
+      ],
+      "sounds_like_acoustic": "A wistful, fingerpicked acoustic guitar melody with a touch of harmonica, conveying a sense of longing and regret.",
+      "sounds_like_recording": "A warm, slightly gritty production with electric and acoustic guitars, pedal steel, light drums, and a driving bassline, creating a melancholic yet hopeful atmosphere."
+    },
+    "church_of_country": {
+      "title": "Church of Country",
+      "status": "private",
+      "themes": [
+        "abuse_trauma",
+        "bar_setting",
+        "faith_spirituality",
+        "freedom_wandering",
+        "heartbreak_loss",
+        "hometown_roots",
+        "music_songwriting",
+        "nature_outdoors",
+        "partying_celebration",
+        "rebellion_outlaw",
+        "resilience_survival",
+        "working_class_labor"
+      ],
+      "suggested_venues": [
+        "arena",
+        "church",
+        "coffee_shop",
+        "dive_bar",
+        "festival",
+        "honky_tonk",
+        "house_concert",
+        "listening_room",
+        "revival",
+        "roadhouse",
+        "stadium"
+      ],
+      "sounds_like_acoustic": "A stripped-down, intimate performance with acoustic guitar, banjo, fiddle, and soulful vocals, emphasizing the raw emotion and storytelling of the lyrics.",
+      "sounds_like_recording": "A powerful, anthemic country-rock production with driving drums, soaring electric guitars, layered harmonies, prominent fiddle and steel guitar, and a dynamic vocal performance capturing the energy of a live show."
+    },
+    "workin_for_a_living": {
+      "title": "Workin' for a Living",
+      "status": "private",
+      "themes": [
+        "abuse_trauma",
+        "freedom_wandering",
+        "heartbreak_loss",
+        "music_songwriting",
+        "nature_outdoors",
+        "resilience_survival",
+        "working_class_labor"
+      ],
+      "suggested_venues": [
+        "arena",
+        "festival",
+        "honky_tonk",
+        "roadhouse",
+        "stadium"
+      ],
+      "sounds_like_acoustic": "A raw, rootsy acoustic performance with a foot-stomping rhythm, featuring acoustic guitar, lively fiddle, and a bright steel guitar hum, evoking the honest grit and heart of relentless labor.",
+      "sounds_like_recording": "A rousing country anthem with a driving beat, layered acoustic and electric guitars, punchy bass, and soaring, gravelly vocals, capturing the unyielding spirit and pride of workers everywhere."
+    },
+    "wild_la": {
+      "title": "Wild LA",
+      "status": "private",
+      "themes": [
+        "bar_setting",
+        "family",
+        "faith_spirituality",
+        "freedom_wandering",
+        "hometown_roots",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors"
+      ],
+      "suggested_venues": [
+        "coffee_shop",
+        "house_concert"
+      ],
+      "sounds_like_acoustic": "Upbeat, folksy country with a driving acoustic guitar rhythm, banjo plucking, and a prominent fiddle adding a playful, down-home feel.",
+      "sounds_like_recording": "A polished country-pop production with bright electric guitars, crisp drums, layered banjo and fiddle, and a touch of steel guitar adding a nostalgic warmth."
+    },
+    "coal_dust_sunrise": {
+      "title": "Coal Dust Sunrise",
+      "status": "private",
+      "themes": [
+        "abuse_trauma",
+        "faith_spirituality",
+        "heartbreak_loss",
+        "hometown_roots",
+        "music_songwriting",
+        "nature_outdoors",
+        "resilience_survival",
+        "working_class_labor"
+      ],
+      "suggested_venues": [
+        "amphitheater",
+        "church",
+        "coffee_shop",
+        "festival",
+        "house_concert",
+        "listening_room",
+        "outdoor_venue",
+        "revival",
+        "small_theater",
+        "stadium"
+      ],
+      "sounds_like_acoustic": "Fingerpicked acoustic guitar and a warm, resonant vocal are central, creating a raw and intimate folk sound with a touch of Americana.",
+      "sounds_like_recording": "A blend of acoustic and electric instruments, featuring slide guitar, banjo, and subtle drums, create a rootsy, Americana sound with a driving, anthemic chorus."
+    },
+    "drivin_to_you": {
+      "title": "Drivin' to You",
+      "status": "private",
+      "themes": [
+        "faith_spirituality",
+        "freedom_wandering",
+        "hometown_roots",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors"
+      ],
+      "suggested_venues": [
+        "amphitheater",
+        "arena",
+        "festival",
+        "outdoor_venue",
+        "stadium"
+      ],
+      "sounds_like_acoustic": "A high-energy, road-charged acoustic banger with Alex Wilson’s Appalachian fire, featuring a relentless acoustic guitar strum, a wild fiddle that roars like a revving engine, and a steel guitar humming like a highway’s pulse, evoking the heart-pounding rush of a cross-country love chase.",
+      "sounds_like_recording": "A thumping pop-country anthem with a turbo-charged beat, layered electric and acoustic guitars, a booming bassline, and Alex’s gravelly vocals belting a chant-ready hook, built to dominate Billboard’s Hot Country Songs with Blake Shelton’s bold swagger, perfect for highway cruises or arena-shaking sing-alongs."
+    },
+    "devil_came_back_for_georgia": {
+      "title": "Devil Came Back for Georgia",
+      "status": "private",
+      "themes": [
+        "faith_spirituality",
+        "heartbreak_loss",
+        "hometown_roots",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors",
+        "rebellion_outlaw",
+        "resilience_survival"
+      ],
+      "suggested_venues": [
+        "amphitheater",
+        "honky_tonk",
+        "outdoor_venue",
+        "roadhouse"
+      ],
+      "sounds_like_acoustic": "",
+      "sounds_like_recording": ""
+    },
+    "my_kentucky_heartbeat": {
+      "title": "My Kentucky Heartbeat",
+      "status": "private",
+      "themes": [
+        "abuse_trauma",
+        "family",
+        "faith_spirituality",
+        "freedom_wandering",
+        "heartbreak_loss",
+        "hometown_roots",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors",
+        "nostalgia",
+        "rebellion_outlaw",
+        "resilience_survival",
+        "working_class_labor"
+      ],
+      "suggested_venues": [
+        "amphitheater",
+        "honky_tonk",
+        "outdoor_venue",
+        "roadhouse"
+      ],
+      "sounds_like_acoustic": "A surprisingly intricate blend of a hard-running, percussive rhythm from a notably resonant, time-worn acoustic guitar and elegant, self-taught fingerpicking underpins a raw, deep, and gravelly lead vocal that commands attention.",
+      "sounds_like_recording": "A powerful, deep, and gravelly lead vocal soars above intricate, riff-driven acoustic guitar and sophisticated fingerpicking, all propelled by a tight, driving rhythm section and richly layered with mournful or fiery fiddle lines, weeping steel guitar, and warm, soulful keyboard textures, creating an authentic synthesis of classic outlaw country and modern Americana."
+    },
+    "going_viral": {
+      "title": "Going Viral",
+      "status": "private",
+      "themes": [
+        "family",
+        "freedom_wandering",
+        "heartbreak_loss",
+        "hometown_roots",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors",
+        "partying_celebration",
+        "resilience_survival",
+        "working_class_labor"
+      ],
+      "suggested_venues": [
+        "coffee_shop",
+        "festival",
+        "house_concert",
+        "listening_room"
+      ],
+      "sounds_like_acoustic": "Simple, honest acoustic guitar intro – maybe a few thoughtful, slightly questioning chords",
+      "sounds_like_recording": ""
+    },
+    "through_the_silence": {
+      "title": "Through the Silence",
+      "status": "private",
+      "themes": [
+        "abuse_trauma",
+        "heartbreak_loss",
+        "hometown_roots",
+        "music_songwriting",
+        "nature_outdoors",
+        "resilience_survival",
+        "working_class_labor"
+      ],
+      "suggested_venues": [
+        "amphitheater",
+        "coffee_shop",
+        "house_concert",
+        "listening_room",
+        "outdoor_venue",
+        "small_theater"
+      ],
+      "sounds_like_acoustic": "Raw and intimate, featuring acoustic guitar and possibly harmonica, with a focus on the singer's emotive vocals and a folk/Americana feel.",
+      "sounds_like_recording": "A rootsy, Americana-tinged recording with warm acoustic guitars, subtle strings, light percussion, and a spacious, slightly melancholic production that emphasizes the lyrical themes of resilience and self-discovery."
+    },
+    "forever_happy": {
+      "title": "Forever Happy",
+      "status": "private",
+      "themes": [
+        "faith_spirituality",
+        "freedom_wandering",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors",
+        "partying_celebration",
+        "resilience_survival"
+      ],
+      "suggested_venues": [
+        "amphitheater",
+        "festival",
+        "outdoor_venue"
+      ],
+      "sounds_like_acoustic": "Alex’s rusted guitar strums bright, major chords with a lively, wave-like rhythm, its gritty tone blending with his gravelly, joyful vocals. The performance is raw and intimate, with a faint string buzz and ocean waves adding a sunny, beachside charm.",
+      "sounds_like_recording": "A crisp acoustic guitar leads a full band with driving drums, twangy electric riffs, and a bouncy fiddle, creating a vibrant, radio-ready anthem. Alex’s raspy vocals soar with reverb and harmonies, backed by banjo and tambourine for a polished, summery feel."
+    },
+    "keep_singin_on": {
+      "title": "Keep Singin’ On",
+      "status": "private",
+      "themes": [
+        "abuse_trauma",
+        "family",
+        "faith_spirituality",
+        "heartbreak_loss",
+        "hometown_roots",
+        "love_romance",
+        "music_songwriting",
+        "resilience_survival",
+        "working_class_labor"
+      ],
+      "suggested_venues": [
+        "coffee_shop",
+        "house_concert",
+        "listening_room"
+      ],
+      "sounds_like_acoustic": "Alex plays on his rusted guitar, the slightly sharp strings ringing with open chords (G, C, D, Am). His gravelly vocals carry a warm, steady cadence, rising in the chorus with a hopeful lift, the song’s intimacy suiting a garage jam for Maria.",
+      "sounds_like_recording": "A clean acoustic guitar leads, backed by a gentle kick drum, upright bass, and subtle fiddle fills. Maria’s vocals (imagined as rich and soulful) soar with reverb, harmonies in the chorus, and a mandolin adding sparkle, creating a polished yet rootsy country track."
+    },
+    "going_viral_2": {
+      "title": "Going Viral",
+      "status": "private",
+      "themes": [
+        "bar_setting",
+        "hometown_roots",
+        "music_songwriting",
+        "nature_outdoors",
+        "partying_celebration",
+        "rebellion_outlaw"
+      ],
+      "suggested_venues": [
+        "amphitheater",
+        "festival",
+        "honky_tonk",
+        "outdoor_venue",
+        "roadhouse"
+      ],
+      "sounds_like_acoustic": "A high-energy country party song featuring lively acoustic guitars, banjo, and a stomping drum groove, Fiddle and twangy electric guitar riff throughout, The chorus explodes with stacked harmonies, bold bass, and crowd claps dropping on the “they say I’m going viral” hook",
+      "sounds_like_recording": ""
+    },
+    "through_the_silence_2": {
+      "title": "Through the Silence",
+      "status": "private",
+      "themes": [
+        "abuse_trauma",
+        "heartbreak_loss",
+        "hometown_roots",
+        "music_songwriting",
+        "nature_outdoors",
+        "resilience_survival",
+        "working_class_labor"
+      ],
+      "suggested_venues": [
+        "amphitheater",
+        "coffee_shop",
+        "listening_room",
+        "outdoor_venue",
+        "small_theater"
+      ],
+      "sounds_like_acoustic": "This pure country ballad opens with warm fingerpicked acoustic guitar, gently layered with upright bass, Subtle strings swell underneath, adding depth, while brushed snare and soft percussion keep time, Spacious, melancholic reverb enhances the arrangement, highlighting each instrumental nuance",
+      "sounds_like_recording": ""
+    },
+    "the_songs_that_saved_me": {
+      "title": "The Songs That Saved Me",
+      "status": "private",
+      "themes": [
+        "abuse_trauma",
+        "faith_spirituality",
+        "heartbreak_loss",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors",
+        "rebellion_outlaw",
+        "resilience_survival"
+      ],
+      "suggested_venues": [
+        "festival"
+      ],
+      "sounds_like_acoustic": "Jangly acoustic guitar sets the upbeat pace, joined by twangy electric riffs and thumping drums, Banjo and lively fiddle interweave through verses and choruses, while tambourine and organ add energy, Alex’s raspy vocals soar atop rich group harmonies, creating a polished, radio-ready anthem",
+      "sounds_like_recording": ""
+    },
+    "empty_seat": {
+      "title": "Empty Seat",
+      "status": "private",
+      "themes": [
+        "freedom_wandering",
+        "heartbreak_loss",
+        "hometown_roots",
+        "nature_outdoors",
+        "nostalgia"
+      ],
+      "suggested_venues": [
+        "coffee_shop",
+        "listening_room",
+        "small_theater"
+      ],
+      "sounds_like_acoustic": "Delicate acoustic guitar fingerpicking opens alongside soft bass and brushed drums, creating a warm underpinning, Mournful pedal steel weaves in for haunting texture, Alex’s raspy, reverberant vocals lead, subtly layered by harmonies in the chorus, crafting a polished country-blues mood",
+      "sounds_like_recording": ""
+    },
+    "coal_dust_on_the_lamb": {
+      "title": "Coal Dust on the Lamb",
+      "status": "private",
+      "themes": [
+        "abuse_trauma",
+        "bar_setting",
+        "family",
+        "faith_spirituality",
+        "freedom_wandering",
+        "heartbreak_loss",
+        "hometown_roots",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors",
+        "nostalgia",
+        "rebellion_outlaw",
+        "working_class_labor"
+      ],
+      "suggested_venues": [
+        "amphitheater",
+        "coffee_shop",
+        "dive_bar",
+        "honky_tonk",
+        "house_concert",
+        "listening_room",
+        "outdoor_venue",
+        "roadhouse",
+        "small_theater"
+      ],
+      "sounds_like_acoustic": "Opening with fingerpicked acoustic guitar and sparse banjo, the song weaves in subtle brushed drums, Layered harmonies build a haunting folk-rock atmosphere, while occasional pedal steel and gentle bass deepen the soundscape, The arrangement remains spacious, evoking lingering tension",
+      "sounds_like_recording": ""
+    },
+    "the_road_to_nashville": {
+      "title": "The Road to Nashville",
+      "status": "private",
+      "themes": [
+        "bar_setting",
+        "faith_spirituality",
+        "freedom_wandering",
+        "hometown_roots",
+        "music_songwriting",
+        "nature_outdoors",
+        "partying_celebration",
+        "resilience_survival"
+      ],
+      "suggested_venues": [
+        "arena",
+        "festival",
+        "honky_tonk",
+        "roadhouse",
+        "stadium"
+      ],
+      "sounds_like_acoustic": "Bright, jangly acoustic and twangy electric guitar riffs kick off this anthem, joined by driving drums, lively fiddle, and crisp banjo plucks, Alex’s raspy vocals ride atop, with bold group harmonies on the infectious hook, Tambourine and organ round out the arrangement, adding energy and warmth",
+      "sounds_like_recording": ""
+    },
+    "roots_torn_slow": {
+      "title": "Roots Torn Slow",
+      "status": "private",
+      "themes": [
+        "abuse_trauma",
+        "faith_spirituality",
+        "heartbreak_loss",
+        "hometown_roots",
+        "love_romance",
+        "nature_outdoors",
+        "resilience_survival",
+        "working_class_labor"
+      ],
+      "suggested_venues": [
+        "amphitheater",
+        "outdoor_venue"
+      ],
+      "sounds_like_acoustic": "The song is a mid-tempo country lament, blending traditional and modern elements, designed for a female vocalist with a powerful, emotive range",
+      "sounds_like_recording": ""
+    },
+    "keep_singing_on": {
+      "title": "Keep Singing On",
+      "status": "private",
+      "themes": [
+        "abuse_trauma",
+        "family",
+        "faith_spirituality",
+        "freedom_wandering",
+        "heartbreak_loss",
+        "love_romance",
+        "music_songwriting",
+        "resilience_survival",
+        "working_class_labor"
+      ],
+      "suggested_venues": [
+        "coffee_shop",
+        "house_concert",
+        "listening_room"
+      ],
+      "sounds_like_acoustic": "Clean acoustic guitar establishes an inviting groove, paired with gentle kick drum, upright bass for warmth, and subtle fiddle fills, Rich, soulful female country soul vocals rise with natural reverb; harmonies and mandolin brighten the choruses, The arrangement remains polished yet rootsy",
+      "sounds_like_recording": ""
+    },
+    "country_city_girl": {
+      "title": "Country City Girl",
+      "status": "private",
+      "themes": [
+        "family",
+        "freedom_wandering",
+        "hometown_roots",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors",
+        "resilience_survival"
+      ],
+      "suggested_venues": [],
+      "sounds_like_acoustic": "Upbeat, energetic country intro - bright acoustic guitar, driving rhythm, maybe a touch of mandolin or lively fiddle",
+      "sounds_like_recording": ""
+    },
+    "that_good_ol_90s_country": {
+      "title": "That Good Old 90s Country",
+      "status": "private",
+      "themes": [
+        "faith_spirituality",
+        "hometown_roots",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors",
+        "nostalgia"
+      ],
+      "suggested_venues": [
+        "coffee_shop",
+        "listening_room",
+        "small_theater"
+      ],
+      "sounds_like_acoustic": "A traditional country ballad reminiscent of George Strait and Garth Brooks, featuring crisp steel guitar, warm fiddle, and Alex Wilson's heartfelt vocals.  Honest storytelling about simpler times evokes the classic sounds of 90s country, delivered with a timeless, authentic feel and minimal production.",
+      "sounds_like_recording": ""
+    },
+    "gimme_that_black_brew": {
+      "title": "Gimme That Black Brew",
+      "status": "private",
+      "themes": [
+        "bar_setting",
+        "faith_spirituality",
+        "hometown_roots",
+        "partying_celebration",
+        "resilience_survival",
+        "working_class_labor"
+      ],
+      "suggested_venues": [
+        "bar_setting",
+        "festival",
+        "honky_tonk",
+        "roadhouse"
+      ],
+      "sounds_like_acoustic": "Alex’s rusted guitar strums bright, open chords with a fast, cheeky rhythm, his gravelly vocals belting the hook with a mischievous grin. Claps and a foot-stomp pulse add raw, barroom energy, sparking instant singalongs.",
+      "sounds_like_recording": "A jangly acoustic guitar and twangy electric riffs lead a full band with lively drums, a zippy fiddle, and banjo plucks, crafting a polished, radio-ready anthem. Alex’s raspy vocals soar with reverb on the hook, backed by tambourine for a vibrant, crowd-pleasing sound."
+    },
+    "soul_food": {
+      "title": "Soul Food",
+      "status": "private",
+      "themes": [
+        "family",
+        "faith_spirituality",
+        "hometown_roots",
+        "love_romance",
+        "music_songwriting",
+        "nostalgia",
+        "partying_celebration"
+      ],
+      "suggested_venues": [
+        "church",
+        "festival",
+        "house_concert",
+        "revival"
+      ],
+      "sounds_like_acoustic": "Alex’s rusted guitar strums bright, open chords with a lively, gospel-infused rhythm, his gravelly vocals belting the hook with warm, infectious joy. Claps and a foot-tap pulse add raw, kitchen-jam energy, sparking singalongs.",
+      "sounds_like_recording": "A jangly acoustic guitar and soulful electric riffs lead a full band with upbeat drums, a lively piano, and gospel choir harmonies, crafting a polished, radio-ready anthem. Alex’s raspy vocals soar with reverb on the hook, backed by tambourine for a vibrant, crowd-pleasing sound."
+    },
+    "miles_of_sorrow": {
+      "title": "Miles of Sorrow",
+      "status": "private",
+      "themes": [
+        "freedom_wandering",
+        "heartbreak_loss",
+        "hometown_roots",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors",
+        "nostalgia",
+        "working_class_labor"
+      ],
+      "suggested_venues": [
+        "coffee_shop",
+        "honky_tonk",
+        "listening_room",
+        "small_theater"
+      ],
+      "sounds_like_acoustic": "This song sounds like a lost track from a Hank Williams, Jr. album, with a touch of George Jones' melancholic vocals. The instrumentation would feature a mournful steel guitar weeping throughout, a steady rhythm guitar providing a melancholic pulse, a walking bassline, and subtle fiddle accents during the chorus. The overall sound is raw and emotional, focusing on the singer's heartache and the story's inherent sadness. A simple, yet effective drum beat keeps the tempo slow and deliberate, mirroring the weight of the heartbreak. Think classic Nashville sound with a focus on emotional delivery and traditional instrumentation.",
+      "sounds_like_recording": ""
+    },
+    "miles_of_heartache": {
+      "title": "Miles of Heartache",
+      "status": "private",
+      "themes": [
+        "freedom_wandering",
+        "heartbreak_loss",
+        "hometown_roots",
+        "love_romance",
+        "nature_outdoors",
+        "nostalgia"
+      ],
+      "suggested_venues": [
+        "coffee_shop",
+        "honky_tonk",
+        "listening_room",
+        "small_theater"
+      ],
+      "sounds_like_acoustic": "This song sounds like a lost Hank Williams track, with a touch of George Jones's melancholic vocals and Merle Haggard's storytelling ability. The instrumentation would be sparse but effective: a mournful steel guitar weeping throughout, a steady rhythm guitar providing a simple, heartbroken pulse, a walking bassline, and subtle fiddle flourishes in the chorus. The drums would be restrained, keeping the focus on the vocals and the instruments' emotional delivery. The overall feel is raw, honest, and steeped in the classic country traditions of heartbreak and longing.",
+      "sounds_like_recording": ""
+    },
+    "friday_night_lights_in_honky_tonk_heaven": {
+      "title": "Friday Night Lights in Honky Tonk Heaven",
+      "status": "private",
+      "themes": [
+        "bar_setting",
+        "faith_spirituality",
+        "heartbreak_loss",
+        "love_romance",
+        "music_songwriting",
+        "partying_celebration",
+        "working_class_labor"
+      ],
+      "suggested_venues": [
+        "dive_bar",
+        "honky_tonk",
+        "roadhouse"
+      ],
+      "sounds_like_acoustic": "This track sounds like a blend of classic Hank Williams heartbreak with the upbeat honky-tonk energy of George Jones. The instrumentation features a driving steel guitar, a thumping stand-up bass, crisp snare drum, and a bright, twangy electric guitar providing the rhythmic backbone. A fiddle weaves in and out, adding a touch of mournful beauty that perfectly complements the lyrics' bittersweet tone. Willie Nelson's influence is felt in the relaxed vocal delivery, and the overall feel is reminiscent of a lively Friday night at the Tootsie Orchid Lounge, with a touch of Merle Haggard's storytelling grit. The song concludes with a fading steel guitar and a final, lingering chord, leaving the listener with a sense of both celebration and melancholy.",
+      "sounds_like_recording": ""
+    },
+    "taco_town": {
+      "title": "Taco Town",
+      "status": "private",
+      "themes": [
+        "hometown_roots",
+        "love_romance",
+        "music_songwriting",
+        "partying_celebration",
+        "working_class_labor"
+      ],
+      "suggested_venues": [
+        "festival",
+        "honky_tonk",
+        "house_concert",
+        "outdoor_venue",
+        "roadhouse"
+      ],
+      "sounds_like_acoustic": "Alex’s rusted guitar strums bright, open chords with a lively, foot-tapping rhythm, his gravelly vocals belting the hook with a playful grin. Claps and a subtle string buzz add raw, front-porch energy, sparking instant singalongs.",
+      "sounds_like_recording": "A jangly acoustic guitar and twangy electric riffs lead a full band with upbeat drums, a zippy fiddle, and banjo plucks, crafting a polished, radio-ready anthem. Alex’s raspy vocals soar with group harmonies on the hook, backed by tambourine for a vibrant, crowd-pleasing sound."
+    },
+    "sound_of_silence": {
+      "title": "Sound of Silence",
+      "status": "private",
+      "themes": [
+        "bar_setting",
+        "faith_spirituality",
+        "freedom_wandering",
+        "heartbreak_loss",
+        "music_songwriting",
+        "nature_outdoors",
+        "resilience_survival"
+      ],
+      "suggested_venues": [
+        "coffee_shop",
+        "dive_bar",
+        "listening_room",
+        "small_theater"
+      ],
+      "sounds_like_acoustic": "A traditional country ballad reminiscent of George Jones and Merle Haggard, 'Sound of Silence' features mournful steel guitar and heartfelt vocals telling a story of quiet desperation. Alex Wilson's delivery is raw and authentic, showcasing classic country instrumentation and a contemplative mood over a traditional production style.",
+      "sounds_like_recording": ""
+    },
+    "runnin_late_to_church": {
+      "title": "Runnin’ Late to Church",
+      "status": "private",
+      "themes": [
+        "bar_setting",
+        "faith_spirituality",
+        "hometown_roots",
+        "love_romance",
+        "partying_celebration",
+        "rebellion_outlaw"
+      ],
+      "suggested_venues": [
+        "church",
+        "honky_tonk",
+        "revival"
+      ],
+      "sounds_like_acoustic": "Bright acoustic guitar strums with a cheeky mixed in riff, gravelly vocals delivering a foot-tapping, gospel-tinged romp, claps adding barroom charm.",
+      "sounds_like_recording": "Polished country-rock, jangly guitars, lively fiddle, and driving drums, with group harmonies on the chorus for a radio-ready, singalong vibe."
+    }
+  }
+}

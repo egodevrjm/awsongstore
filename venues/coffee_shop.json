@@ -1,0 +1,537 @@
+{
+  "venue_type": "coffee_shop",
+  "song_count": 35,
+  "songs": {
+    "a_song_and_a_beer": {
+      "title": "A Song and a Beer",
+      "status": "private",
+      "lyrics": "Verse 1\nDive bar buzzing, the city's aglow,\nPlaylist spinning songs we all know.\nBartender smiling, hands me a drink,\nTonight’s for forgetting, no time to think.\nPre-Chorus\nWearing life's marks, but the road stays clear,\nAll we need is good company and beer.\nChorus\nGive me a song and a beer, let the music play low,\nSing me a story everybody knows.\nThrough highs and lows, we find comfort right here,\nLife’s always better with a song and a beer.\nVerse 2\nWe share our laughter, let the heartaches unwind,\nMelodies lifting our hearts and our minds.\nRaise a toast to the good times we've had,\nTonight’s for the living, not feeling sad.\nPre-Chorus\nLife leaves its marks, but our spirits stay clear,\nGathered together with music and beer.\nChorus\nGive me a song and a beer, let the music play low,\nSing me a story everybody knows.\nThrough highs and lows, we find comfort right here,\nLife’s always better with a song and a beer.\nBridge\nEvery lyric’s a memory, each chorus our bond,\nFriendship and freedom, the music rolls on.\nThis place isn’t just bricks, it’s a feeling inside,\nStories unfolding beneath city lights.\nChorus\nGive me a song and a beer, let the music play low,\nSing me a story everybody knows.\nThrough highs and lows, we find comfort right here,\nLife’s always better with a song and a beer.\nOutro\nLift a glass to the night, watch the worries disappear,\nEverything’s alright with a song and a beer.",
+      "themes": [
+        "bar_setting",
+        "freedom_wandering",
+        "music_songwriting",
+        "nostalgia",
+        "partying_celebration",
+        "resilience_survival"
+      ]
+    },
+    "be_better_for_the_next_guy": {
+      "title": "Be Better for the Next Guy",
+      "status": "private",
+      "lyrics": "Verse 1\nI’m three whiskeys deep, flingin’ darts at the back wall,\nLaughin’ at your name etched on my shot glass.\nNo more lonely nights curled up by the telephone—\nI’ve found new roads past the diner where we fought.\nChorus\nSo here’s to you, sweeter than cherry pie—\nHope he buys those roses you let wither and die.\nWhen he’s pourin’ out his heart baby-blue, don’t make him cry—\nBe better for the next guy.\nVerse 2\nI’ll catch her eye across the bar when the jukebox spins our song,\nShe’ll think you’re heaven ’til your lies come undone.\nI’ll lift her up with shots of bourbon ’til she’s singin’ along,\nWhile you learn too late how to love someone.\nChorus (variation)\nSo here’s to you, spicier than a jalapeño—\nHope he feels the jagged scars you left on my chest.\nWhen he’s pouring out his soul, don’t put it to the test—\nBe better for the next guy.\nVerse 3\nSaw you last weekend at the state fair midway,\nYour eyes lit up just like they did back then.\nHe wore that nervous grin I know all too well—\nYou led him ’round like he was your only friend.\nOne prayer for that poor boy’s all I’ve got to give—\nMay you hold his hand tighter than you ever held mine.\nBridge\nAnd if he wakes up cold in your empty bed,\nOr finds your lipstick stains on someone else instead,\nTell him to head back to this Tennessee roadhouse—\nWhere broken hearts learn how to lose and forget.\nFinal Chorus\nSo here’s to you, sweeter than a Georgia peach—\nDon’t leave him sobbin’ under that big open sky.\nWhen he’s layin’ down his love, make sure you don’t lie—\nBe better for the next guy.",
+      "themes": [
+        "abuse_trauma",
+        "bar_setting",
+        "heartbreak_loss",
+        "hometown_roots",
+        "love_romance",
+        "music_songwriting"
+      ]
+    },
+    "blackberry_creek_revival": {
+      "title": "Blackberry Creek Revival",
+      "status": "private",
+      "lyrics": "Verse 1\nNo shoes on our feet, but we danced in the mud,\nSang hymns to the stars with our hearts full of blood.\nIn barns by the creek, where the hard times collide,\nWe found our salvation where the hopeless reside.\nPre-Chorus\nNo money, no mercy, just dreams in our veins,\nWe laughed through the hunger, we sang through the chains.\nChorus\nWe prayed in barns, we danced in rain,\nSang away hunger, laughed through pain.\nNo silver spoons, just dirt and dreams —\nOur Blackberry Creek revival streams.\nVerse 2\nOld men strummed banjos, kids clapped to the beat,\nMamas wove stories where the broken hearts meet.\nThe creek kept on flowin’, like our will to survive,\nTurned coal dust to diamonds in the firelight’s drive.\nPre-Chorus\nNo preacher, no riches, just souls intertwined,\nWe built our own heaven where the lost could still shine.\nChorus\nWe prayed in barns, we danced in rain,\nSang away hunger, laughed through pain.\nNo silver spoons, just dirt and dreams —\nOur Blackberry Creek revival streams.\nBridge\nEvery note was a fight, every song was a vow,\nWe rose from the ashes, we’re standin’ up now.\nThe creek’s still our witness, its waters still sing,\nOur revival’s the pulse of the hope we bring.\nChorus\nWe prayed in barns, we danced in rain,\nSang away hunger, laughed through pain.\nNo silver spoons, just dirt and dreams —\nOur Blackberry Creek revival streams.\nOutro\n*(Upbeat picking: E|-3-3-3-3-| A|-1-1-5-5-|)*\nBlackberry Creek… where my soul still sings.",
+      "themes": [
+        "faith_spirituality",
+        "heartbreak_loss",
+        "hometown_roots",
+        "music_songwriting",
+        "nature_outdoors",
+        "resilience_survival",
+        "working_class_labor"
+      ]
+    },
+    "born_in_hell": {
+      "title": "Born in Hell",
+      "status": "private",
+      "lyrics": "Verse 1\nCoal dust in my lungs, blood on the floor,\nDad’s fists kept time with the slam of the door.\nBorn in a town where the devil holds sway,\nI learned to take hits ‘fore I learned how to pray.\nPre-Chorus\nNo mercy in his eyes, no warmth in that house,\nJust a boy dodgin’ shadows, quiet as a mouse.\nChorus\nBorn in hell, where the sun don’t shine,\nTook my beatings daily, paid for his cheap wine.\nKicked out at sixteen, worked the mines to survive,\nIn the dark of that town, I kept my soul alive.\nVerse 2\nSchool by day, mines by night, no time to dream,\nRented a room with walls thin as a scream.\nSweat and black soot, my hands turned to stone,\nCarried my books and my scars all alone.\nPre-Chorus\nNo mother to hold me, no father to care,\nJust the weight of the world and the cold mountain air.\nChorus\nBorn in hell, where the sun don’t shine,\nTook my beatings daily, paid for his cheap wine.\nKicked out at sixteen, worked the mines to survive,\nIn the dark of that town, I kept my soul alive.\nBridge\nEvery bruise was a map of the hell I called home,\nEvery shift in the dark taught me how to roam.\nI wasn’t born to break, though they tried to bend,\nFound a spark in my heart that no devil could end.\nChorus\nBorn in hell, where the sun don’t shine,\nTook my beatings daily, paid for his cheap wine.\nKicked out at sixteen, worked the mines to survive,\nIn the dark of that town, I kept my soul alive.\nOutro\n*(Slow picking: E|-3---3---|)*\nBorn in hell… but I’m still breathin’",
+      "themes": [
+        "abuse_trauma",
+        "bar_setting",
+        "family",
+        "faith_spirituality",
+        "freedom_wandering",
+        "hometown_roots",
+        "nature_outdoors",
+        "rebellion_outlaw",
+        "resilience_survival",
+        "working_class_labor"
+      ]
+    },
+    "embers_to_inferno": {
+      "title": "Embers to Inferno",
+      "status": "private",
+      "lyrics": "Verse 1\nUnder starlit skies, your shadow’s callin’ me near\nSoft brush of your hand, sendin’ shivers crystal clear.\nThat quiet little smirk, like a secret you won’t tell,\nGot my heart racin’ slow, like a spark in a spell.\nPre-Chorus\nYour eyes hold a promise, a flicker in the dark,\nBuildin’ up this tension, gonna ignite with a spark.\nChorus\nEmbers in your eyes, girl, you’re a slow-burnin’ flame,\nTeasin’ with a whisper, but you’re stokin’ this game.\nEvery glance, every sigh, stirrin’ heat in my veins,\nThe way you’re lookin’ at me, darlin’, it’s a fire that remains.\nVerse 2\nYour breath’s on my neck, warm and soft like a breeze,\nFingers trace my skin, got me weak in the knees.\nWe’re swayin’ in the quiet, just the crickets and the night,\nBut this slow dance is shiftin’, and it’s settin’ us alight.\nPre-Chorus\nYour eyes turn to hunger, no more holdin’ it back,\nThat flicker’s now a wildfire, and I’m under attack.\nChorus\nEmbers in your eyes, girl, you’re a slow-burnin’ flame,\nTeasin’ with a whisper, but you’re stokin’ this game.\nEvery glance, every sigh, stirrin’ heat in my veins,\nThe way you’re lookin’ at me, darlin’, it’s a fire that remains.\nBridge\nThen it breaks like a storm, and we’re crashin’ in the heat,\nYour nails claw my shoulders, bodies movin’ to the beat.\nHips grind like a rhythm that’s too wild to contain,\nMoans echo in the darkness, like a sweet, sinful refrain.\nWe’re past the point of savin’, lost in sweat and desire,\nThis slow burn’s an inferno, and we’re fuelin’ the fire.\nChorus\nInferno in your eyes, girl, you’re a reckless, ragin’ blaze,\nTearin’ through my senses, got me lost in a daze.\nEvery thrust, every cry, we’re consumin’ the night,\nThe way you’re lovin’ me, darlin’, it’s a sin burnin’ bright.\nOutro\nSo keep pullin’ me deeper, let the flames take their toll,\nFrom embers to an inferno, you’re devourin’ my soul.\nInferno in your eyes—girl, it’s where I wanna be,\nThe way you’re lovin’ me, it’s a fire settin’ me free.",
+      "themes": [
+        "faith_spirituality",
+        "freedom_wandering",
+        "love_romance",
+        "nature_outdoors",
+        "rebellion_outlaw"
+      ]
+    },
+    "feels_like_home": {
+      "title": "Feels Like Home",
+      "status": "private",
+      "lyrics": "[Verse 1]\nFaded blue threads, patched at the knee\nCarried me through hell, set my soul free\nCoal dust stains from the seams I crawled\nWore ‘em when the world felt too damn small\n\n\n[Pre-Chorus]\nThrough the fields at dawn, ‘neath the red dirt’s glow\nEvery tear and fray tells the life I know\nThey held me tight when my heart was torn\nWrapped my bones where my truth was born\n\n\n[Chorus]\nThese old Wranglers feel like home\nCarved my story in thread and stone\nFrom the mines to the roads where I learned to roam\nThese old Wranglers feel like home\n\n\n[Verse 2]\nSweat-soaked days in the summer’s blaze\nDanced in ‘em drunk under starlit haze\nThey caught my blood when her lies cut deep\nHeld my pride when I couldn’t sleep\n\n\n[Pre-Chorus]\nThrough the fields at dawn, ‘neath the red dirt’s glow\nEvery tear and fray tells the life I know\nThey held me tight when my heart was torn\nWrapped my bones where my truth was born\n\n\n[Chorus]\nThese old Wranglers feel like home\nCarved my story in thread and stone\nFrom the mines to the roads where I learned to roam\nThese old Wranglers feel like home\n\n\n[Bridge]\nNo mansion’s walls, no city’s shine\nCould fit my soul like this denim’s mine\nFrom the hollers’ cry to the songs I sing\nThey’re the roots of every damn thing\n\n\n[Chorus]\nThese old Wranglers feel like home\nCarved my story in thread and stone\nFrom the mines to the roads where I learned to roam\nThese old Wranglers feel like home\n\n\n[Outro]\nFiddle hums low, as the night winds moan\nThese old Wranglers feel like home",
+      "themes": [
+        "faith_spirituality",
+        "freedom_wandering",
+        "heartbreak_loss",
+        "hometown_roots",
+        "music_songwriting",
+        "nature_outdoors",
+        "rebellion_outlaw",
+        "resilience_survival",
+        "working_class_labor"
+      ]
+    },
+    "broken_hallelujah": {
+      "title": "Broken Hallelujah",
+      "status": "private",
+      "lyrics": "Verse 1\nBack alley shadows, where the drunks lose their way,\nFound a splintered old box in the trash’s decay.\nSix rusted strings, neck warped like my dreams,\nBut it hummed like a savior in the moonlight’s beams.\nPre-Chorus\nNo angels in this town, just coal and despair,\nBut that guitar called my name through the cold, bitter air.\nChorus\nHeard a whisper in the wreckage, ‘neath the coffee grounds and rust,\nA broken Hallelujah risin’ from the dust.\nThis dumpster guitar salvation, ragged but it’s true,\nFound the song that saved my life right there inside of you.\nVerse 2\nDad’s fists were thunder, his bottle was king,\nBut I strummed my first chord, felt my heart start to sing.\nHid it in the shed where his eyes wouldn’t roam,\nEach note was a fire that was callin’ me home.\nPre-Chorus\nNo preacher could reach me, no sermon could mend,\nBut that guitar was my truth, my beginning, my friend.\nChorus\nHeard a whisper in the wreckage, ‘neath the coffee grounds and rust,\nA broken Hallelujah risin’ from the dust.\nThis dumpster guitar salvation, ragged but it’s true,\nFound the song that saved my life right there inside of you.\nBridge\nEvery scratch was a story, every crack was a fight,\nI coaxed out my soul in the dead of the night.\nFrom a boy lost in silence to a man with a voice,\nThis guitar was my freedom, my heart’s only choice.\nChorus\nHeard a whisper in the wreckage, ‘neath the coffee grounds and rust,\nA broken Hallelujah risin’ from the dust.\nThis dumpster guitar salvation, ragged but it’s true,\nFound the song that saved my life right there inside of you.\nOutro\n*(Slow picking: E|-3---3---|)*\nDumpster guitar… still singin’ me through.",
+      "themes": [
+        "abuse_trauma",
+        "family",
+        "faith_spirituality",
+        "freedom_wandering",
+        "hometown_roots",
+        "music_songwriting",
+        "nature_outdoors",
+        "resilience_survival",
+        "working_class_labor"
+      ]
+    },
+    "guilt_and_grief": {
+      "title": "Guilt and Grief",
+      "status": "private",
+      "lyrics": "Verse 1\nNever heard your voice, never felt your touch,\nJust a gravestone whisper in a mining town clutch.\nThey say I stole your breath when I took my first,\nNow I carry that weight like a lifelong curse.\nPre-Chorus\nI’d trade all my tomorrows for one yesterday,\nTo know the love you never got to say.\nChorus\nI dreamt of your hands, but I woke up cold —\nA cradle of silence, a story untold.\nI carry your voice in the spaces he left —\nGuilt and grief are all I have left.\nVerse 2\nDad’s eyes were daggers, blamin’ me for your end,\nBut I’d see you in dreams where my heart could mend.\nYour shadow’s my shelter when the nights get mean,\nI’m holdin’ onto love I’ve only ever seen.\nPre-Chorus\nI’d give all my songs for one moment with you,\nTo feel what a mother’s arms can do.\nChorus\nI dreamt of your hands, but I woke up cold —\nA cradle of silence, a story untold.\nI carry your voice in the spaces he left —\nGuilt and grief are all I have left.\nBridge\nEvery chord I play is a prayer to your name,\nEvery tear I hide is a candle’s flame.\nYou’re gone, but you’re woven in my every breath,\nI’m livin’ through the guilt to honor your death.\nChorus\nI dreamt of your hands, but I woke up cold —\nA cradle of silence, a story untold.\nI carry your voice in the spaces he left —\nGuilt and grief are all I have left.\nOutro\n*(Slow picking: E|-3---3---|)*\nGuilt and grief… my heart’s only theft.",
+      "themes": [
+        "abuse_trauma",
+        "family",
+        "faith_spirituality",
+        "heartbreak_loss",
+        "love_romance",
+        "music_songwriting",
+        "working_class_labor"
+      ]
+    },
+    "heres_to_the_ghosts_i_leave_behind": {
+      "title": "Here’s to the Ghosts I Leave Behind",
+      "status": "private",
+      "lyrics": "Verse 1\nI’ve walked through the ashes of a life torn apart,\nCarried the weight of a coal-black heart.\nSome ghosts held me close, some cut like a blade,\nBut each one’s a shadow that my soul’s outstayed.\nPre-Chorus\nThe road taught me mercy, the pain taught me grace,\nEach step’s a new story writ on my face.\nChorus\nWe raise our glasses to the ones who stayed —\nAnd tip our hats to the ones we outgrew with age.\nThere’s grace in the leavin’, mercy in the signs —\nHere’s to the ghosts we leave behind.\nVerse 2\nMom’s in the stars, Dad’s in the dust,\nOne gave me love, one broke my trust.\nBut I’m more than their echoes, more than their chains,\nI’m the man I built through the joys and the pains.\nPre-Chorus\nThe past ain’t my prison, it’s just where I’ve been,\nEach goodbye’s a door to begin again.\nChorus\nWe raise our glasses to the ones who stayed —\nAnd tip our hats to the ones we outgrew with age.\nThere’s grace in the leavin’, mercy in the signs —\nHere’s to the ghosts we leave behind.\nBridge\nTo the boy I was, scared and alone,\nTo the man I am, who found a home.\nEvery ghost’s a lesson, every scar’s a line,\nI’m singin’ my freedom, leavin’ ghosts behind.\nChorus\nWe raise our glasses to the ones who stayed —\nAnd tip our hats to the ones we outgrew with age.\nThere’s grace in the leavin’, mercy in the signs —\nHere’s to the ghosts we leave behind.\nOutro\n*(Slow picking: E|-3---3---|)*\nHere’s to the ghosts… I’m leavin’ behind.",
+      "themes": [
+        "abuse_trauma",
+        "family",
+        "faith_spirituality",
+        "freedom_wandering",
+        "heartbreak_loss",
+        "hometown_roots",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors",
+        "partying_celebration",
+        "resilience_survival",
+        "working_class_labor"
+      ]
+    },
+    "i_raised_myself": {
+      "title": "I Raised Myself",
+      "status": "private",
+      "lyrics": "Verse 1\nCoal dust on my boots, blood on my hands,\nGrew up in a hell where no one understands.\nDad’s fist was his gospel, his bottle his creed,\nI learned to stand tall while my heart learned to bleed.\nPre-Chorus\nNo soft words, no shelter from the storm,\nJust a boy and a guitar keepin’ my soul warm.\nChorus\nNo lullabies, no ‘good job, son’ —\nJust the sound of doors slammin’ when the hard times come.\nScraped my knees and stitched my pride —\nI raised myself, and I survived.\nVerse 2\nKentucky nights taught me how to fight,\nDodgin’ his shadow in the dim porch light.\nStrummed my pain on strings rusted and worn,\nTurned my scars into songs before the dawn was born.\nPre-Chorus\nNo roadmap, no hand to hold me tight,\nJust a fire in my chest burnin’ through the night.\nChorus\nNo lullabies, no ‘good job, son’ —\nJust the sound of doors slammin’ when the hard times come.\nScraped my knees and stitched my pride —\nI raised myself, and I survived.\nBridge\nEvery bruise was a lesson, every tear was a flame,\nBuilt a man from the wreckage of a cursed last name.\nThis guitar’s my salvation, my truth, my fight,\nI raised myself to sing into the night.\nChorus\nNo lullabies, no ‘good job, son’ —\nJust the sound of doors slammin’ when the hard times come.\nScraped my knees and stitched my pride —\nI raised myself, and I survived.\nOutro\n*(Slow picking: E|-3---3---|)*\nI raised myself… and I’m still alive.",
+      "themes": [
+        "abuse_trauma",
+        "family",
+        "faith_spirituality",
+        "heartbreak_loss",
+        "hometown_roots",
+        "music_songwriting",
+        "rebellion_outlaw",
+        "resilience_survival",
+        "working_class_labor"
+      ]
+    },
+    "my_mothers_eyes": {
+      "title": "My Mother’s Eyes",
+      "status": "private",
+      "lyrics": "Verse 1\nNever knew your smile, never heard your call,\nJust a faded photo on a cracked bedroom wall.\nBut when the mirror catches me in the morning’s glare,\nI see your fire burnin’, and I know you’re there.\nPre-Chorus\nYou gave me your spirit when you gave me my life,\nYour love’s in my blood, sharper than a knife.\nChorus\nShe never heard my first cry, never wiped my fears,\nBut her face stares back in my morning mirror.\nThe love I never touched still paints my skies —\nI was born with my mother’s eyes.\nVerse 2\nDad said I killed you, but I feel you near,\nIn the songs I sing, in the dreams that appear.\nYour strength’s in my hands when I strum through the pain,\nYour heart’s in my chest when I’m walkin’ through rain.\nPre-Chorus\nYou left me your courage when you left this earth,\nI’m livin’ your love in the songs of my birth.\nChorus\nShe never heard my first cry, never wiped my fears,\nBut her face stares back in my morning mirror.\nThe love I never touched still paints my skies —\nI was born with my mother’s eyes.\nBridge\nEvery note’s a letter to the mother I’ve known,\nEvery chord’s a root in the seeds you’ve sown.\nYou’re the light in my darkness, the truth in my cries,\nI’m carryin’ your love in my mother’s eyes.\nChorus\nShe never heard my first cry, never wiped my fears,\nBut her face stares back in my morning mirror.\nThe love I never touched still paints my skies —\nI was born with my mother’s eyes.\nOutro\n*(Slow picking: E|-3---3---|)*\nMy mother’s eyes… my heart’s only light.",
+      "themes": [
+        "family",
+        "heartbreak_loss",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors",
+        "nostalgia",
+        "resilience_survival"
+      ]
+    },
+    "skin_on_mine": {
+      "title": "Skin On Mine",
+      "status": "private",
+      "lyrics": "Verse 1\nWorn boots on the porch, dust on the vine,\nYour shadow’s my shelter in this heart of mine.\nEvery wound I carry, you trace with care,\nFindin’ redemption in the weight we share.\nPre-Chorus\nYour touch maps secrets on my scars,\nSoft confession under midnight stars,\nI learn salvation in your arms.\nChorus\nA whisper in the dark, a brush on the spine,\nThe only prayers I believe in tonight are your skin on mine.\nNo angels needed, no preacher’s sign —\nJust your hands reading verses down my broken lines.\nPost-Chorus\nHeat lingers where your breath once played,\nEvery ache and longing unafraid,\nI find my home in the debt we’ve paid.\nVerse 2\nOld truck radio hums a lonesome tune,\nMoonlight paints us in a silver cocoon.\nYour eyes hold forgiveness for the roads I’ve roamed,\nIn your arms, I’m more than the miles I’ve known.\nPre-Chorus\nYour touch maps secrets on my scars,\nSoft confession under midnight stars,\nI learn salvation in your arms.\nChorus\nA whisper in the dark, a brush on the spine,\nThe only prayers I believe in tonight are your skin on mine.\nNo angels needed, no preacher’s sign —\nJust your hands reading verses down my broken lines.\nBridge\nWe’ve burned through sins, we’ve paid the cost,\nFound our heaven in the love we’ve lost.\nNo church could hold what we’ve designed,\nJust two souls tangled, your skin on mine.\nChorus\nA whisper in the dark, a brush on the spine,\nThe only prayers I believe in tonight are your skin on mine.\nNo angels needed, no preacher’s sign —\nJust your hands reading verses down my broken lines.\nOutro\nHeat lingers where your breath once played,\nEvery ache and longing unafraid.\nUnder these stars, we’ll never resign,\nI’ll keep on prayin’ with your skin on mine.",
+      "themes": [
+        "abuse_trauma",
+        "faith_spirituality",
+        "freedom_wandering",
+        "heartbreak_loss",
+        "hometown_roots",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors",
+        "rebellion_outlaw"
+      ]
+    },
+    "tailgate_testament": {
+      "title": "Tailgate Testament",
+      "status": "private",
+      "lyrics": "Verse 1\nGolden light on a dirt road’s bend, Two kids dreamin’ where the world don’t end. His old Ford hums with a radio glow, Singin’ soft to the love we know.\nPre-Chorus\nDust swirled around barefoot vows, Horizon stretched beyond our brows, We carved forever in simple vows.\nChorus\nA beat-up truck, a sunset drive, A cooler full of promises we’ll barely survive. In these fields, our hearts confess, This is our tailgate testament.\nPost-Chorus\nSunset fades but our words remain, Etched in gravel and harvested grain, We hold this moment through joy and pain.\nVerse 2\nCrickets hum as the stars ignite, Her hand in mine feels like every right. We dance in the glow of a tailgate throne, Buildin’ a future from dreams we’ve sown.\nPre-Chorus\nDust swirled around barefoot vows, Horizon stretched beyond our brows, We carved forever in simple vows.\nChorus\nA beat-up truck, a sunset drive, A cooler full of promises we’ll barely survive. In these fields, our hearts confess, This is our tailgate testament.\nBridge\nNo chapel walls, no preacher’s call, Just open skies and the truth of it all. We’ll weather storms, we’ll chase the light, Swearin’ our love in the warm summer night.\nChorus\nA beat-up truck, a sunset drive, A cooler full of promises we’ll barely survive. In these fields, our hearts confess, This is our tailgate testament.\nOutro\nBoots in the grass, the night rolls in, Our story’s written where the stars begin. Through every mile, we’ll still profess, This is our tailgate testament.",
+      "themes": [
+        "faith_spirituality",
+        "freedom_wandering",
+        "heartbreak_loss",
+        "hometown_roots",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors",
+        "partying_celebration",
+        "resilience_survival",
+        "working_class_labor"
+      ]
+    },
+    "the_girl_in_the_summer_dress": {
+      "title": "The Girl In The Summer Dress",
+      "status": "private",
+      "lyrics": "Verse 1\nShe sauntered in the diner, with a devilish sway,\nThat summer dress clingin’ in a dangerous way.\nOne wink over coffee, set my pulse to a race,\nGod makes the good stuff, and she owned that space.\nChorus\nOne look, one laugh, and the sparks flew free,\nA jolt of pure trouble meant just for me.\nHer touch was a tease, but it lit up my soul,\nThe girl in the summer dress took full control.\nVerse 2\nShe leaned in real close, stole my shades with a grin,\nHer whisper was velvet, brushed like fire on my skin.\nShe danced with a swagger, left my heart in a bind,\nOne graze of her fingers, and I lost my damn mind.\nChorus\nOne look, one laugh, and the sparks flew free,\nA jolt of pure trouble meant just for me.\nHer touch was a tease, but it lit up my soul,\nThe girl in the summer dress took full control.\nBridge\nNow the diner’s too tame, but her heat lingers on,\nThat mischievous glint in her eyes ain’t gone.\nI toast to the thrill, to the game that she played,\nOne taste of her magic, and my night was made.\nFinal Chorus\nOne look, one laugh, and I’m still feelin’ wild,\nA flash of her fire keeps this cowboy beguiled.\nHer touch was a tease, but it lit up my soul,\nThe girl in the summer dress—God, she was bold.",
+      "themes": [
+        "faith_spirituality",
+        "love_romance",
+        "partying_celebration",
+        "rebellion_outlaw"
+      ]
+    },
+    "the_music": {
+      "title": "The Music",
+      "status": "private",
+      "lyrics": "Verse 1\nI was born in a holler where the coal dust sings,\nRaised on the ache of broke-down things.\nA trailer’s shadow, a father’s fist,\nFound my salvation in a six-string’s kiss.\nHid that guitar where the floorboards creak,\nPlayed ‘til my fingers bled, too scared to speak.\nChorus\nWhen the world talks too loud for a man to pray,\nI find my gospel in the strings I play.\nSound: fall like rain on a dust-dry field—\nThe music finds the parts I forgot to heal.\nIt’s my shield, my soul, my unbroken truth,\nThe music carries me when I’m black and blue.\nVerse 2\nFound a fiddle in a dumpster, strings half-dead,\nTaught it to cry for the dreams in my head.\nPiano keys I traced on a tabletop worn,\nBuilt me a hymn where my heart was torn.\nEvery scar’s a chord, every bruise a rhyme,\nMusic’s the only thing that’s mine all the time.\nChorus\nWhen the world talks too loud for a man to pray,\nI find my gospel in the strings I play.\nSound: fall like rain on a dust-dry field—\nThe music finds the parts I forgot to heal.\nIt’s my shield, my soul, my unbroken truth,\nThe music carries me when I’m black and blue.\nBridge\nWhen the bottle’s empty and the night’s too long,\nWhen love turns to lies and the road feels wrong,\nI don’t need a preacher, don’t need a sign—\nJust a battered Martin and a melody line.\nIt pulls me through the dark, it speaks my name,\nTurns my silence to a holy flame.\nVerse 3\nNow I’m runnin’ on roads where the maps don’t go,\nChasin’ a sound only my heart knows.\nStrangers hear my voice, they feel my pain,\nSay it’s like thunder callin’ down the rain.\nBut it ain’t for them, it’s for the boy I was—\nWho found his freedom in a guitar’s buzz.\nFinal Chorus\nWhen the world talks too loud for a man to pray,\nI find my gospel in the strings I play.\nSound: fall like rain on a dust-dry field—\nThe music finds the parts I forgot to heal.\nIt’s my shield, my soul, my unbroken truth,\nThe music carries me when I’m black and blue.\nOutro\nSo let the world keep screamin’, let the shadows fall,\nThe music’s my answer, my only call.\nFrom a trailer’s ruin to a stage unknown,\nThe music’s the fire that brings me home.",
+      "themes": [
+        "abuse_trauma",
+        "family",
+        "faith_spirituality",
+        "freedom_wandering",
+        "heartbreak_loss",
+        "hometown_roots",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors",
+        "resilience_survival",
+        "working_class_labor"
+      ]
+    },
+    "the_way_you_make_me_feel": {
+      "title": "The Way You Make Me Feel",
+      "status": "private",
+      "lyrics": "Verse 1\nYour silhouette’s a spark in the twilight’s glow,\nLeather and lace, where the wild things grow.\nOne look from you, and my defenses all reel,\nYou’re a storm Marie Antoinette, and I’m under your spell.\nChorus\nWhiskey on your lips, sunset on your skin —\nEvery ‘no’ I ever said, you pull it out again.\nThe way you move, the way you steal —\nGod help me, girl, the way you make me feel.\nVerse 2\nBoots on the floor, rhythm slow and unkind,\nYou’re a temptation that’s burnin’ my mind.\nYour touch is a fuse, lightin’ fires I conceal,\nThis heart’s runnin’ hot, and it’s losin’ the wheel.\nChorus\nWhiskey on your lips, sunset on your skin —\nEvery ‘no’ I ever said, you pull it out again.\nThe way you move, the way you steal —\nGod help me, girl, the way you make me feel.\nBridge\nNo salvation in sight, no way to repent,\nYou’re a sin I’d commit, every dollar I’ve spent.\nYour kiss is a chain, and I’m locked in your thrill,\nI’d fall a thousand times just to feel that chill.\nVerse 3\nStarlight’s fadin’, but your eyes still burn,\nEvery curve of you makes my whole world turn.\nYou’re the devil’s own dance, yet you’re all that’s ideal,\nI’m a goner, sweet darlin’, the way you make me feel.\nChorus\nWhiskey on your lips, sunset on your skin —\nEvery ‘no’ I ever said, you pull it out again.\nThe way you move, the way you steal —\nGod help me, girl, the way you make me feel.\nOutro\nWhen the night calls soft, and the shadows get real,\nYou’re the only truth that my soul wants to feel.\nFrom your wicked sweet smile to the heat you reveal,\nI’m yours, my love, the way you make me feel.",
+      "themes": [
+        "abuse_trauma",
+        "bar_setting",
+        "faith_spirituality",
+        "love_romance",
+        "nature_outdoors",
+        "rebellion_outlaw"
+      ]
+    },
+    "when_mountains_weep": {
+      "title": "When Mountains Weep",
+      "status": "private",
+      "lyrics": "[Verse 1]\nCoal dust settles where the pines grow thin\nHollers whisper of the hurt within\nGraves unmarked beneath the ridge’s weight\nHold the dreams that time forgot to save\n[Pre-Chorus]\nRivers carve the scars my fathers wore\nSilent hollers crying out once more\nStone and sweat forever at war\n[Chorus]\nThe hollers cry where the coal veins died\nThe rivers mourn where our fathers lied\nWhen blood stains stone and secrets keep\nEven the mountains, even they weep\n[Verse 2]\nMama’s prayers sank in the valley’s shade\nPappa’s hands broke for the debts unpaid\nTheir ghosts still walk where the wildflowers fade\nIn the shadow of the lives they made\n[Pre-Chorus]\nRivers carve the scars my fathers wore\nSilent hollers crying out once more\nStone and sweat forever at war\n[Chorus]\nThe hollers cry where the coal veins died\nThe rivers mourn where our fathers lied\nWhen blood stains stone and secrets keep\nEven the mountains, even they weep\n[Bridge]\nEvery seam I crawled, I learned their pain\nEvery callus holds a family’s chain\nBetrayed by love, by land, by greed\nI sing for souls this world don’t need\n[Post-Chorus]\nWind carries tales of loss and shame\nEach echo bearing an unspoken name\nI sing their sorrow into lasting flame\n[Chorus]\nThe hollers cry where the coal veins died\nThe rivers mourn where our fathers lied\nWhen blood stains stone and secrets keep\nEven the mountains, even they weep\n[Outro]\nBeneath the peaks where the silence sleeps\nEven the mountains, even they weep",
+      "themes": [
+        "abuse_trauma",
+        "family",
+        "faith_spirituality",
+        "heartbreak_loss",
+        "hometown_roots",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors",
+        "working_class_labor"
+      ]
+    },
+    "yes_boys_do_cry_sometimes": {
+      "title": "Yes, Boys Do Cry Sometimes",
+      "status": "private",
+      "lyrics": "Yes, Boys Do Cry Sometimes\n(Verse 1) Shoulders built like mountains, jaw carved out of stone Walk this Pikeville dirt path feelin' quite alone Got the kind of blue eyes make the girls all stare Wear these calloused knuckles like a cross I bear Down on Blackberry Creek, in that rusty double-wide Hid that broke-string guitar deep down safe inside Found it by the highway, six years old and scared Played out Daddy's liquor snores, a secret life I shared Heard him slur, \"You killed her,\" felt the belt bite deep and low Learned to choke the music back, not let the feelin' show\n(Chorus) They tell you build the walls high, boy, be a man of stone Keep the hurtin' buried, deep inside the bone Straighten up that backbone, don't you show the fear But some floods rise too heavy, year after lonely year Yeah, the dam can break, the ocean starts to rise Yes, boys do cry sometimes, behind these fighter's eyes\n(Verse 2) Left home at sixteen, punch fresh on my face Found a room with Jonesy, another sorry place Crawled the seams on bloody knees, breathed the black-lung air Worked the fields till sundown, showin' you I cared Every eighteen-hour day, scrapin' dirt and coal Was sendin' you to college, tryin' to make you whole You were my one soft place, my only whispered dream My anchor 'gainddddst the current of that dark Kentucky stream Then that movin' picture, shinin' on the screen Showed my anchor draggin' through a place I'd never been\n(Chorus) They tell you build the walls high, boy, be a man of stone Keep the hurtin' buried, deep inside the bone Straighten up that backbone, don't you show the fear But some floods rise too heavy, year after lonely year Yeah, the dam can break, the ocean starts to rise Yes, boys do cry sometimes, behind these fighter's eyes\n(Bridge) This body's built for battle, muscle hard and tight Thought I'd carved out somethin' that could stand against the night But muscle can't stop memories, can't outrun the fear And betrayal's got a sharp edge, cuts you ear to ear This choked-up voice inside me, the songs I couldn't free Screamin' silent thunder, now spillin' out of me It ain't weakness breakin', maybe it's the start Of lettin' out the poet trapped inside this bleedin' heart\n(Chorus) They tell you build the walls high, boy, be a man of stone Keep the hurtin' buried, deep inside the bone Straighten up that backbone, don't you show the fear But some floods rise too heavy, year after lonely year Yeah, the dam can break, the ocean starts to rise Yes, boys do cry sometimes, behind these fighter's eyes\n(Outro) So I hold this rescued six-string, scarred up just like me Let the teardrops fall like acid rain, finally runnin' free Underneath this coal town moon, lettin' the pain bleed through... Yes, boys do cry sometimes... tonight, this boy does too. (Guitar fades out slowly, leaving a resonant, aching chord)",
+      "themes": [
+        "abuse_trauma",
+        "family",
+        "freedom_wandering",
+        "heartbreak_loss",
+        "hometown_roots",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors",
+        "resilience_survival",
+        "working_class_labor"
+      ]
+    },
+    "morning_after_rain": {
+      "title": "Morning After Rain",
+      "status": "private",
+      "lyrics": "Morning After Rain\n(Verse 1)\nSunrise paints the valley gold, a mist hangs in the air\nThe creek bed whispers stories of the flood that raged through there\nThe earth drinks deep, the thirsty roots, reach down for grace anew\nAnd I remember every tear, that washed over me and you\n(Chorus)\nMorning after rain, the scars begin to bloom\nWildflowers in the canyons, pushing through the gloom\nBroken branches reach for light, a testament of will\nMorning after rain, His mercy fills me still\n(Verse 2)\nThe wind chimes sing a gentle song, a melody of peace\nThe broken fence post stands alone, a reminder grief will cease\nThe scent of honeysuckle sweet, a promise on the breeze\nThat even in the deepest hurt, there's solace in the trees\n(Bridge)\nI used to hide the broken parts, afraid to let them show\nBut every crack and every line, is how I learn to grow\nThe storm may rage, the thunder roar, but faith will see me through\n'Cause even shattered pieces, can reflect the morning dew\n(Chorus)\nMorning after rain, the scars begin to bloom\nWildflowers in the canyons, pushing through the gloom\nBroken branches reach for light, a testament of will\nMorning after rain, His mercy fills me still\n(Outro)\nMorning after rain, the sun breaks through the clouds\nMorning after rain, His love shouts out aloud.\nMorning after rain.",
+      "themes": [
+        "abuse_trauma",
+        "faith_spirituality",
+        "heartbreak_loss",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors",
+        "nostalgia",
+        "resilience_survival"
+      ]
+    },
+    "diner_life": {
+      "title": "Diner Life",
+      "status": "private",
+      "lyrics": "Verse 1\nMae’s Diner glows on a lonesome street, neon hummin’ low,\nI was nine, pockets full of change, nowhere else to go.\nBiscuits warm as a mother’s love, gravy thick with heart,\nFound a home in that vinyl booth, when my world fell apart.\nPre-Chorus\nCoffee stains and checkered floors, where the broke could rest,\nMae’s smile stitched my shattered soul, gave my heart a nest.\nChorus\nDiner life, where the jukebox wails of heartache and dreams,\nTruckers, drifters, lost souls mendin’ seams.\nIn the clink of forks, the hum of late-night fights,\nMae’s Diner held me close, through the long, hard nights.\nVerse 2\nWaitress knew my name, slipped me extra fries,\nSaw my hurt fade slow, never pried ‘bout my eyes.\nCounter held my scribbled hopes, dreams scratched in ink,\nFrom a kid with nothin’ to a man who learned to think.\nPre-Chorus\nGrease and grace on every plate, where the weary heal,\nMae’s was more than food—it’s where I learned to feel.\nChorus\nDiner life, where the jukebox wails of heartache and dreams,\nTruckers, drifters, lost souls mendin’ seams.\nIn the clink of forks, the hum of late-night fights,\nMae’s Diner held me close, through the long, hard nights.\nBridge\nEvery dime I scraped, I laid on that counter’s shine,\nBought me biscuits, bought me time, bought a spark divine.\nNow I sing for the ones still countin’ change in the glow,\nMae’s Diner’s where the heartland’s stories grow.\nChorus\nDiner life, where the jukebox wails of heartache and dreams,\nTruckers, drifters, lost souls mendin’ seams.\nIn the clink of forks, the hum of late-night fights,\nMae’s Diner held me close, through the long, hard nights.\nOutro\n*(Slow fiddle fade, soft picking)*\nDiner life… Mae’s light still burns, callin’ me near,\nTo the place where I found hope, when hope disappeared.",
+      "themes": [
+        "family",
+        "faith_spirituality",
+        "freedom_wandering",
+        "heartbreak_loss",
+        "hometown_roots",
+        "love_romance",
+        "music_songwriting",
+        "resilience_survival",
+        "working_class_labor"
+      ]
+    },
+    "tumbleweed_promises": {
+      "title": "Tumbleweed Promises",
+      "status": "private",
+      "lyrics": "(Verse 1)\nI left my heart in a diner, on a napkin stained with wine,\nScribbled sweet nothins’, swore I’d make you mine.\nBut the road’s a jealous lover, she don’t let me stay,\nNow those vows are driftin’, like tumbleweeds away.\n(Pre-Chorus)\nEvery mile I travel, I’m chasin’ what I lost,\nPayin’ for my freedom, but damn, what a cost.\n(Chorus)\nTumbleweed promises, rollin’ through my mind,\nWords I meant to keep, but left ‘em all behind.\nThey scatter in the wind, where the wild hearts roam,\nTumbleweed promises, never find a home.\n(Verse 2)\nYour laughter haunts the radio, in the static’s hum,\nSingin’ ‘bout forever, but forever never comes.\nI pass ghost-town motels, with their busted neon signs,\nWonderin’ if you’re out there, still callin’ me “mine.”\n(Pre-Chorus)\nThis guitar’s my preacher, strummin’ out my truth,\nCarvin’ out redemption, from the sins of my youth.\n(Chorus)\nTumbleweed promises, rollin’ through my mind,\nWords I meant to keep, but left ‘em all behind.\nThey scatter in the wind, where the wild hearts roam,\nTumbleweed promises, never find a home.\n(Bridge)\nI’ve loved in smoky barrooms, I’ve knelt in desert rain,\nSwore I’d be your shelter, but I brought you pain.\nYet somewhere in this dust, there’s a spark that won’t fade,\nA tumbleweed promise, that I’ll keep someday.\n(Chorus)\nTumbleweed promises, rollin’ through my mind,\nWords I meant to keep, but left ‘em all behind.\nThey scatter in the wind, where the wild hearts roam,\nTumbleweed promises, never find a home.\n(Outro)\nSo I’ll ride these endless highways, with a bottle and a song,\nHopin’ you’re still waitin’, though I’ve been gone too long.\nTill I find my way back, or the stars call me on,\nTumbleweed promises… keep rollin’ along.\nYeah, keep rollin’ along. (Tumbleweed dreams.)\nRollin’ along.\nVibe: The song feels like a late-night drive through a desert, with the narrator grappling with his transient life and lingering hope. It’s less intense than \"Reaper\" but equally compelling, with a balance of grit and melody. Performance: Picture the same artist performing this in a dimly lit roadhouse or on a festival stage, strumming a worn guitar with a band (acoustic, electric, pedal steel, harmonica). The chorus invites quiet singalongs, and the bridge could feature a spotlight on the singer’s raw delivery. Imagery and Themes: Lyrics evoke rural, transient life (diners, highways, tumbleweeds) while touching on universal emotions (love, regret, hope), making it relatable yet authentically country.\nSounds Like\nA soulful, mid-tempo outlaw country anthem with a reflective, road-worn vibe, blending gritty authenticity with radio-friendly hooks.",
+      "themes": [
+        "bar_setting",
+        "faith_spirituality",
+        "freedom_wandering",
+        "heartbreak_loss",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors",
+        "rebellion_outlaw"
+      ]
+    },
+    "church_of_country": {
+      "title": "Church of Country",
+      "status": "private",
+      "lyrics": "Verse 1\nI hit the stage on red dirt, where the heartland’s callin’ me,\nFrom dive bar smoke to stadiums, this is where I’m free.\nHank’s ghost in my guitar, Dolly’s shine in my soul,\nCountry’s fire in my bones, it’s the only life I know.\n\nPre-Chorus\nSteel guitars are my pulpit, banjo’s my battle cry,\nEvery scar’s a song I sing, reachin’ for the sky.\n\nChorus\nThis is the Church of Country, where the faithful raise a spark,\nJohnny’s growl, Shania’s strut, lightin’ up the dark.\nSing for Patsy, for Stapleton, let the fiddle break the chains,\nCountry’s pulse is beatin’ loud, runnin’ wild in our veins!\n\nVerse 2\nI’m singin’ Loretta’s truth, Willie’s ramblin’ road,\nGeorge Jones’ whiskey heartache, carryin’ the load.\nFrom Waylon’s outlaw thunder to Miranda’s rebel flame,\nEvery note’s my hallelujah, country’s my true name.\n\nPre-Chorus\nBoots stomp the rhythm, my voice’ll shake the ground,\nIn this Church of Country, salvation’s what I’ve found.\n\nChorus\nThis is the Church of Country, where the faithful raise a spark,\nJohnny’s growl, Shania’s strut, lightin’ up the dark.\nSing for Patsy, for Stapleton, let the fiddle break the chains,\nCountry’s pulse is beatin’ loud, runnin’ wild in our veins!\n\nBridge\nIt’s a honky-tonk redemption, where the broken find their fight,\nCash’s truth, Kacey’s grace, guidin’ me through the night.\nFrom backroad hymns to neon dreams, I’ll carry on the sound,\nCountry’s heart is mine to hold, forever glory-bound!\n\nFinal Chorus\nThis is the Church of Country, where the roots will never fade,\nLoretta’s coal dust soul, Alan’s river escapade.\nRaise a glass for every dreamer, let the banjo’s fire roar,\nCountry’s callin’ me to sing, now and evermore!\n\nOutro\n*(Fiddle tears the roof off, steel guitar screams)*\nChurch of Country, hear my voice, let the whole world know,\nThis is my salvation, where my rebel heart’ll go!\n*(Pyro pops, crowd roars)*\nHallelujah, country soul, Alex takes the show!",
+      "themes": [
+        "abuse_trauma",
+        "bar_setting",
+        "faith_spirituality",
+        "freedom_wandering",
+        "heartbreak_loss",
+        "hometown_roots",
+        "music_songwriting",
+        "nature_outdoors",
+        "partying_celebration",
+        "rebellion_outlaw",
+        "resilience_survival",
+        "working_class_labor"
+      ]
+    },
+    "wild_la": {
+      "title": "Wild LA",
+      "status": "private",
+      "lyrics": "Verse 1\nI’m a red dirt drifter, boots scarred from the clay,\nDropped in this jungle they call LA.\nOat milk in my coffee? That ain’t milk, I reckon,\nOats don’t got nipples, y’all messin’ with my head, son.\n\nPre-Chorus\nKombucha flights and candles with a prayer,\nFarmers market’s a circus, patchouli in the air.\n\nChorus\nWild LA, where the kale’s got a soul,\nI’m a fish outta water, but I’m keepin’ my roll.\nFrom raw almond jerky to goats in a sweater,\nI’m laughin’ through the madness, this heart’s gettin’ better.\nGrounded in the holler, but I’m ridin’ this wave,\nSingin’ my truth in the heart of Wild LA!\n\nVerse 2\nCelery smoothies run eleven bucks a pop,\nMushrooms get a massage ‘fore they hit the shop.\nMan bun’s pluckin’ banjo, bought it off the ‘net,\nBut them bruised-up apples? That’s the realest I’ve met.\n\nPre-Chorus\nCharcoal lavender brew, moonlight in a glass,\nI’m dodgin’ astral vibes, holdin’ onto my sass.\n\nChorus\nWild LA, where the kale’s got a soul,\nI’m a fish outta water, but I’m keepin’ my roll.\nFrom raw almond jerky to goats in a sweater,\nI’m laughin’ through the madness, this heart’s gettin’ better.\nGrounded in the holler, but I’m ridin’ this wave,\nSingin’ my truth in the heart of Wild LA!\n\nBridge\nMet a goat named Harold, sportin’ knitwear fine,\nChewin’ like a sage, got me losin’ my mind.\nShay’s wheezin’ laughter, says I’m too much sense,\nBut this crazy town’s spark’s breakin’ down my defense.\n\nChorus\nWild LA, where the kale’s got a soul,\nI’m a fish outta water, but I’m keepin’ my roll.\nFrom raw almond jerky to goats in a sweater,\nI’m laughin’ through the madness, this heart’s gettin’ better.\nGrounded in the holler, but I’m ridin’ this wave,\nSingin’ my truth in the heart of Wild LA!\n\nOutro\n(Fiddle rips, upbeat strum)\nWild LA, with Harold’s sweater in view,\nThis red dirt boy’s found a home in the zoo.",
+      "themes": [
+        "bar_setting",
+        "family",
+        "faith_spirituality",
+        "freedom_wandering",
+        "hometown_roots",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors"
+      ]
+    },
+    "coal_dust_sunrise": {
+      "title": "Coal Dust Sunrise",
+      "status": "private",
+      "lyrics": "Long shadows creep on the valley floor,\nAs the bleeding sky unveils what's in store.\nA cold breath sighs through the hollows deep,\nWhere old dreams stir and new promises keep.\nA shack stands weathered, a whisper of gray,\nBut a tender warmth chases shadows away.\nA soft hymn rises on the morning's chill,\nA silent plea, standing perfectly still.\n(Pre-Chorus)\nBeneath the grit, a spark ignites,\nChasing the ghosts of endless nights.\nThis ain't no Eden, raw and deep,\nBut promises the weary keep.\n(Chorus)\nThese coal dust sunrises, they stain the peaks in gray,\nBut hope's true fire still finds a way, yeah, it always finds a way.\nThe tired earth groans, a haunting, low refrain,\nYet grit-worn hands find strength to rise and live again.\nTo rise and breathe again.\n(Verse 2)\nThe earth gives freely, then demands its toll,\nEach dawn a testament to body and soul.\nRedemption's whisper in the morning's light,\nA bruising struggle, a constant, inner fight.\nA flicker of grace, a beacon in the night,\nA stubborn promise burning ever so bright.\nThe scars remain, a map of every pain,\nBut the spirit's song, a fierce, unbroken strain.\n(Pre-Chorus)\nBeneath the grit, a spark ignites,\nChasing the ghosts of endless nights.\nThis ain't no Eden, raw and deep,\nBut promises the weary keep.\n(Chorus)\nThese coal dust sunrises, they stain the peaks in gray,\nBut hope's true fire still finds a way, yeah, it always finds a way.\nThe tired earth groans, a haunting, low refrain,\nYet grit-worn hands find strength to rise and live again.\nTo rise and breathe again.\n(Bridge)\nThe mountain stands, a titan through the years,\nSwallowing hardship, conquering all fears.\nThis ain't the ending, just a beat in between,\nA chance to reclaim, to heal, to be seen.\n(Chorus)\nThese coal dust sunrises, they stain the peaks in gray,\nBut hope's true fire still finds a way, yeah, it always finds a way.\nThe tired earth groans, a haunting, low refrain,\nYet grit-worn hands find strength to rise and live again.\nTo rise and breathe again.\n(Outro)\nTo rise and breathe again,\nA coal dust sunrise, and we're all risin' again.",
+      "themes": [
+        "abuse_trauma",
+        "faith_spirituality",
+        "heartbreak_loss",
+        "hometown_roots",
+        "music_songwriting",
+        "nature_outdoors",
+        "resilience_survival",
+        "working_class_labor"
+      ]
+    },
+    "going_viral": {
+      "title": "Going Viral",
+      "status": "private",
+      "lyrics": "(Verse 1)\nStarted with some coffee, or what they call it here,\nTalkin' 'bout oat nipples, made Shay Bear grin ear to ear.\nThen a goat in a sweater, name of Harold, if you please,\nHad me on the pavement, laughin' till I couldn't breathe.\nMoonbeam had a guitar, hangin' like a piece of art,\nSaid it needed playin', right from my Kentucky heart.\n(Chorus)\nNow they say I'm goin' viral, whatever that might mean,\nLittle screens all lit up, the craziest damn thing I've seen.\nSingin' 'bout sad porridge and Harold in his Sunday best,\nJust a red dirt drifter puttin' feelings to the test,\nOut here in this LA sun, ain't like no place I know,\nWonderin' how a whisper turned into a picture show.\n(Verse 2)\nJumped up on a table, sang about this crazy town,\nThe words just came on out, as the folks all gathered 'round.\nThen I sang 'bout hardship, and that guitar from the trash,\nFelt the whole world listen, saw the tears begin to splash.\nShay was lookin' prouder than I'd ever seen her look,\nLike she knew these city folks would read me like a book.\n(Chorus)\nNow they say I'm goin' viral, whatever that might mean,\nLittle screens all lit up, the craziest damn thing I've seen.\nSingin' 'bout sad porridge and Harold in his Sunday best,\nJust a red dirt drifter puttin' feelings to the test,\nOut here in this LA sun, ain't like no place I know,\nWonderin' how a whisper turned into a picture show.\n(Bridge)\nAin't never chased no spotlight, ain't my kind of game,\nJust sing my truth out quiet, whisper Shay Bear's name.\nBut if my rusty-string stories, 'bout the hurt and hope I've known,\nCan make a stranger out there feel a little less alone...\nWell, maybe there's a reason this wild seed was sown.\n(Chorus)\nNow they say I'm goin' viral, whatever that might mean,\nLittle screens all lit up, the craziest damn thing I've seen.\nSingin' 'bout sad porridge and Harold in his Sunday best,\nJust a red dirt drifter puttin' feelings to the test,\nOut here in this LA sun, ain't like no place I know,\nWonderin' how a whisper turned into a picture show.\n(Outro)\nYeah, a picture show... full of folks I've never met.\nStill don't get this \"viral,\" ain't quite figured it out yet.\nJust got my girl, my guitar... and I guess Harold the goat.\n(Guitar fades out with a soft, questioning strum)",
+      "themes": [
+        "family",
+        "freedom_wandering",
+        "heartbreak_loss",
+        "hometown_roots",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors",
+        "partying_celebration",
+        "resilience_survival",
+        "working_class_labor"
+      ]
+    },
+    "through_the_silence": {
+      "title": "Through the Silence",
+      "status": "private",
+      "lyrics": "Verse 1:\nBorn in the shadow of a rusted cage,\nCoal dust scars and a heart’s old rage.\nWords stayed locked where the hurt runs deep,\nWhispers in the dark were mine to keep.\nChorus:\nYou gotta walk through silence to sing the truth,\nFeel the ache in your bones, let it carve your youth.\nEvery scar’s a note, every wound’s a song,\nThrough the silence, I found where I belong.\nVerse 2:\nNights on the mountain, just me and the wind,\nStrummed my pain where the pines don’t end.\nEach string I broke was a chain let go,\nTruth came alive where the quiet grows.\nChorus:\nYou gotta walk through silence to sing the truth,\nFeel the ache in your bones, let it carve your youth.\nEvery scar’s a note, every wound’s a song,\nThrough the silence, I found where I belong.\nBridge:\nNo crowd, no stage, just a heart laid bare,\nSang to the stars ‘cause they always cared.\nThe hurt runs deep, but the truth runs free,\nSilence taught the song that’s savin’ me.\nChorus:\nYou gotta walk through silence to sing the truth,\nFeel the ache in your bones, let it carve your youth.\nEvery scar’s a note, every wound’s a song,\nThrough the silence, I found where I belong.\nOutro:\nNow I sing my truth, let the echoes fly,\nBorn in the silence ‘neath a Kentucky sky.\nYou gotta walk through silence, let it break you loose,\nTo find the song that’s livin’ in your truth.",
+      "themes": [
+        "abuse_trauma",
+        "heartbreak_loss",
+        "hometown_roots",
+        "music_songwriting",
+        "nature_outdoors",
+        "resilience_survival",
+        "working_class_labor"
+      ]
+    },
+    "keep_singin_on": {
+      "title": "Keep Singin’ On",
+      "status": "private",
+      "lyrics": "Verse 1:\nCame to this town with a song in my heart,\nVoice full of dreams, but the world’s played hard.\nWaitin’ on tables, sweepin’ floors till dawn,\nHoldin’ to hope when the money’s all gone.\nChorus:\nKeep singin’ on, let the truth ring true,\nEvery note’s a fight for the life I pursue.\nThrough the ache and the doubt, I’ll still raise my song,\nHeart’s still burnin’, so I keep singin’ on.\nVerse 2:\nMama’s voice echoes, said I’d shine someday,\nBut she’s gone to glory, and I’m still findin’ my way.\nThis old guitar’s my only friend some nights,\nSingin’ to shadows, chasin’ stage lights.\nChorus:\nKeep singin’ on, let the truth ring true,\nEvery note’s a fight for the life I pursue.\nThrough the ache and the doubt, I’ll still raise my song,\nHeart’s still burnin’, so I keep singin’ on.\nBridge:\nBills stack high, and the dreams wear thin,\nBut my soul’s got a fire that won’t give in.\nEvery scar’s a story, every tear’s a call,\nI’ll sing through the silence till I’ve given it all.\nChorus:\nKeep singin’ on, let the truth ring true,\nEvery note’s a fight for the life I pursue.\nThrough the ache and the doubt, I’ll still raise my song,\nHeart’s still burnin’, so I keep singin’ on.\nOutro:\nSo here’s my voice, let it carry me home,\nThrough empty rooms where my dreams still roam.\nNo matter how heavy, I’ll carry this dawn,\nWith love in my heart, I keep singin’ on.",
+      "themes": [
+        "abuse_trauma",
+        "family",
+        "faith_spirituality",
+        "heartbreak_loss",
+        "hometown_roots",
+        "love_romance",
+        "music_songwriting",
+        "resilience_survival",
+        "working_class_labor"
+      ]
+    },
+    "through_the_silence_2": {
+      "title": "Through the Silence",
+      "status": "private",
+      "lyrics": "Verse 1:\nBorn in the shadow of a rusted cage,\nCoal dust scars and a heart’s old rage.\nWords stayed locked where the hurt runs deep,\nWhispers in the dark were mine to keep.\nChorus:\nYou gotta walk through silence to sing the truth,\nFeel the ache in your bones, let it carve your youth.\nEvery scar’s a note, every wound’s a song,\nThrough the silence, I found where I belong.\nVerse 2:\nNights on the mountain, just me and the wind,\nStrummed my pain where the pines don’t end.\nEach string I broke was a chain let go,\nTruth came alive where the quiet grows.\nChorus:\nYou gotta walk through silence to sing the truth,\nFeel the ache in your bones, let it carve your youth.\nEvery scar’s a note, every wound’s a song,\nThrough the silence, I found where I belong.\nBridge:\nNo crowd, no stage, just a heart laid bare,\nSang to the stars ‘cause they always cared.\nThe hurt runs deep, but the truth runs free,\nSilence taught the song that’s savin’ me.\nChorus:\nYou gotta walk through silence to sing the truth,\nFeel the ache in your bones, let it carve your youth.\nEvery scar’s a note, every wound’s a song,\nThrough the silence, I found where I belong.\nOutro:\nNow I sing my truth, let the echoes fly,\nBorn in the silence ‘neath a Kentucky sky.\nYou gotta walk through silence, let it break you loose,\nTo find the song that’s livin’ in your truth.",
+      "themes": [
+        "abuse_trauma",
+        "heartbreak_loss",
+        "hometown_roots",
+        "music_songwriting",
+        "nature_outdoors",
+        "resilience_survival",
+        "working_class_labor"
+      ]
+    },
+    "empty_seat": {
+      "title": "Empty Seat",
+      "status": "private",
+      "lyrics": "Verse 1\n\nEvery mornin’ she’d slip through that diner door,\n\nSame old booth, coffee black, nothin’ more.\n\nNever spoke, just stared where the shadows creep,\n\nToday her seat’s empty, and the silence cuts deep.\n\nChorus\n\nOh, the empty seat, where’d she go?\n\nCarried her story where nobody knows.\n\nA ghost in the booth, left a chill in the air,\n\nEmpty seat’s whisperin’, she ain’t there.\n\nVerse 2\n\nWorn-out coat, eyes like a lonesome rain,\n\nNo one asked her story, not even her name.\n\nWaitress hums soft, but the counter feels wrong,\n\nHer shadow’s gone quiet, where it used to belong.\n\nChorus\n\nOh, the empty seat, where’d she go?\n\nCarried her story where nobody knows.\n\nA ghost in the booth, left a chill in the air,\n\nEmpty seat’s whisperin’, she ain’t there.\n\nBridge\n\nWas she runnin’ from hurt, or chasin’ a dream?\n\nLost in the cracks of a life’s frayed seam.\n\nThat booth holds her echo, a truth left unsaid,\n\nA stranger’s gone missin’, but she ain’t dead.\n\nChorus\n\nOh, the empty seat, where’d she go?\n\nCarried her story where nobody knows.\n\nA ghost in the booth, left a chill in the air,\n\nEmpty seat’s whisperin’, she ain’t there.\n\nOutro\n\nIn a small-town diner, ‘neath the hum of the light,\n\nHer seat stays empty, through the long, lonesome night.",
+      "themes": [
+        "freedom_wandering",
+        "heartbreak_loss",
+        "hometown_roots",
+        "nature_outdoors",
+        "nostalgia"
+      ]
+    },
+    "coal_dust_on_the_lamb": {
+      "title": "Coal Dust on the Lamb",
+      "status": "private",
+      "lyrics": "(Verse 1)\nSixteen summers bleedin' into fall,\nDaddy's shadow stretched across the wall.\nHis words like whiskey, burnin' down my throat,\nKicked me out to wander, wearin' a thin coat.\nPikeville hollers echoed with my shame,\nInnocence a flicker, dyin' in the flame.\n\n(Verse 2)\nFound a floor to sleep on, kindness in a stranger's eye,\nBut the mountain cold seeped in, beneath a starless sky.\nTraded school books for a pick and shovel's weight,\nCoal dust settled on my dreams, sealin' up their fate.\nThis broken arm, a constant ache, a twisted memory,\nOf a boy who used to dream beneath a dogwood tree.\n\n(Chorus)\nCoal dust on the lamb, a stain that won't come clean,\nLost my way back home, a forgotten, faded scene.\nThese coal-stained hands, they hold the weight of sin,\nPrayin' for redemption, hopin' God lets me in.\n\n(Verse 3)\nSunrise paints the mountain ridge, a fiery, bloody hue,\nAnother day of breakin' back, another debt to accrue.\nThe fields stretch out before me, endless rows of green,\nBut all I see is darkness, a fractured, broken scene.\nThis ain't the life I pictured,  beneath the mountain's gaze,\nJust a broken boy, lost in a lonely, hazy maze.\n\n(Bridge)\nMama's hymnals echo, a whisper in the wind,\nA memory of comfort, a peace I can't pretend.\nWill I ever feel that grace again, that gentle, lovin' hand?\nOr am I destined to wander, a ghost in this promised land?\n\n(Chorus)\nCoal dust on the lamb, a stain that won't come clean,\nLost my way back home, a forgotten, faded scene.\nThese coal-stained hands, they hold the weight of sin,\nPrayin' for redemption, hopin' God lets me in.\n\n(Outro)\nLord, have mercy, on this coal-stained soul,\nLead me back to the fold, make me whole. \nMake me whole.",
+      "themes": [
+        "abuse_trauma",
+        "bar_setting",
+        "family",
+        "faith_spirituality",
+        "freedom_wandering",
+        "heartbreak_loss",
+        "hometown_roots",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors",
+        "nostalgia",
+        "rebellion_outlaw",
+        "working_class_labor"
+      ]
+    },
+    "keep_singing_on": {
+      "title": "Keep Singing On",
+      "status": "private",
+      "lyrics": "Verse 1:\nCame to this town with a song in my heart,\nVoice full of dreams, but the world’s played hard.\nWaitin’ on tables, sweepin’ floors till dawn,\nHoldin’ to hope when the money’s all gone.\n\nChorus:\nKeep singin’ on, let the truth ring true,\nEvery note’s a fight for the life I pursue.\nThrough the ache and the doubt, I’ll still raise my song,\nHeart’s still burnin’, so I keep singin’ on.\n\nVerse 2:\nMama’s voice echoes, said I’d shine someday,\nBut she’s gone to glory, and I’m still findin’ my way.\nThis old guitar’s my only friend some nights,\nSingin’ to shadows, chasin’ stage lights.\n\nChorus:\nKeep singin’ on, let the truth ring true,\nEvery note’s a fight for the life I pursue.\nThrough the ache and the doubt, I’ll still raise my song,\nHeart’s still burnin’, so I keep singin’ on.\n\nBridge:\nBills stack high, and the dreams wear thin,\nBut my soul’s got a fire that won’t give in.\nEvery scar’s a story, every tear’s a call,\nI’ll sing through the silence till I’ve given it all.\n\nChorus:\nKeep singin’ on, let the truth ring true,\nEvery note’s a fight for the life I pursue.\nThrough the ache and the doubt, I’ll still raise my song,\nHeart’s still burnin’, so I keep singin’ on.\n\nOutro:\nSo here’s my voice, let it carry me home,\nThrough empty rooms where my dreams still roam.\nNo matter how heavy, I’ll carry this dawn,\nWith love in my heart, I keep singin’ on.",
+      "themes": [
+        "abuse_trauma",
+        "family",
+        "faith_spirituality",
+        "freedom_wandering",
+        "heartbreak_loss",
+        "love_romance",
+        "music_songwriting",
+        "resilience_survival",
+        "working_class_labor"
+      ]
+    },
+    "that_good_ol_90s_country": {
+      "title": "That Good Old 90s Country",
+      "status": "private",
+      "lyrics": "[Verse 1]\n1992, dirt roads and FM gold\nGeorge Strait on the radio, stories being told\nLevi's worn thin, boots kicked up high\nChattahoochee memories under Georgia sky\n[Verse 2]\nGarth was king and Faith was rising\nBrooks & Dunn kept dance floors flying\nShania showed us what a woman feels\nWhen country music still had steel\n[Chorus]\nThey don't make 'em like they did back then\nWhen three chords and truth was more than just pretend\nNo Auto-Tune, no drum machines\nJust real songs about real dreams\nThat good ol' 90s country\n[Bridge]\nAlan Jackson taught us how to live\nTravis Tritt showed what love could give\nAnd every small-town Friday night\nWas pure country done just right\n[Chorus]\nThey don't make 'em like they did back then\nWhen three chords and truth was more than just pretend\nNo Auto-Tune, no drum machines\nJust real songs about real dreams\nThat good ol' 90s country\n[Outro]\nYeah, that good ol' 90s country\nWhen the music meant something true\nThat good ol' 90s country\nStill running straight through my blood\nThat good ol' 90s country",
+      "themes": [
+        "faith_spirituality",
+        "hometown_roots",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors",
+        "nostalgia"
+      ]
+    },
+    "miles_of_sorrow": {
+      "title": "Miles of Sorrow",
+      "status": "private",
+      "lyrics": "(Verse 1)\nSunrise paints the cotton fields, another day begins\nBut the light don't shine so bright, since your love went on the winds\nWe built a life on promises, beneath a Georgia moon\nBut your city dreams called louder, than my love could ever croon\n(Chorus)\nMiles of sorrow stretch between us, a highway paved with tears\nEach mile a memory fading, swallowed by the passing years\nWe said forever, honey, but forever couldn't hold\nAgainst the pull of distance, a story left untold\n(Verse 2)\nRemember dancin' in the hayloft, beneath the summer stars?\nYour laughter like a mockingbird, escaping rusty bars\nWe swore our love was stronger, than any earthly pain\nBut the miles kept piling higher, a relentless, driving rain\n(Chorus)\nMiles of sorrow stretch between us, a highway paved with tears\nEach mile a memory fading, swallowed by the passing years\nWe said forever, honey, but forever couldn't hold\nAgainst the pull of distance, a story left untold\n(Bridge)\nI see your face in every sunset, hear your voice in every breeze\nBut the silence in this farmhouse, just echoes my unease\nI shoulda held you tighter, darling, shoulda fought with all my might\nBut the distance won the battle, and stole away my light\n(Chorus)\nMiles of sorrow stretch between us, a highway paved with tears\nEach mile a memory fading, swallowed by the passing years\nWe said forever, honey, but forever couldn't hold\nAgainst the pull of distance, a story left untold\n(Outro)\nMiles of sorrow… miles and miles of sorrow…",
+      "themes": [
+        "freedom_wandering",
+        "heartbreak_loss",
+        "hometown_roots",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors",
+        "nostalgia",
+        "working_class_labor"
+      ]
+    },
+    "miles_of_heartache": {
+      "title": "Miles of Heartache",
+      "status": "private",
+      "lyrics": "(Verse 1)\nSunrise paints the cotton fields, another day begins\nBut the light don't shine so bright no more, since you left for distant lands\nSaid you'd write, said you'd call, promised you'd always be near\nBut the miles stretched out between us, fueled by doubt and fear.\n(Chorus)\nMiles of heartache, winding roads of sorrow,\nEvery mile a memory, of a love we couldn't borrow\nFrom the future, from the years, from a life we'd planned to share\nNow just miles of heartache, and a love beyond repair.\n(Verse 2)\nRemember dancin' in the moonlight, beneath the summer sky?\nYour laughter echoed in the fields, a song that made me fly.\nWe built a dream on promises, as solid as the ground\nBut the city lights and city life, tore our love unbound.\n(Chorus)\nMiles of heartache, winding roads of sorrow,\nEvery mile a memory, of a love we couldn't borrow\nFrom the future, from the years, from a life we'd planned to share\nNow just miles of heartache, and a love beyond repair.\n(Bridge)\nI keep your picture by my bed, a faded photograph\nA constant reminder of the love, that distance stole, alas.\nMaybe someday I'll forget, the pain that cuts so deep\nBut until then, these miles of heartache, are the only truth I keep.\n(Chorus)\nMiles of heartache, winding roads of sorrow,\nEvery mile a memory, of a love we couldn't borrow\nFrom the future, from the years, from a life we'd planned to share\nNow just miles of heartache, and a love beyond repair.\n(Outro)\nMiles… miles of heartache… yeah… gone…",
+      "themes": [
+        "freedom_wandering",
+        "heartbreak_loss",
+        "hometown_roots",
+        "love_romance",
+        "nature_outdoors",
+        "nostalgia"
+      ]
+    },
+    "sound_of_silence": {
+      "title": "Sound of Silence",
+      "status": "private",
+      "lyrics": "[Verse 1]\nOne AM, bar closed down\nTook a shot of whiskey, it ain't helpin' now\nTo shut my mind off, stop it from racin'\nI turn to what I've been chasin'\n\n[Chorus]\nThe sound of silence\nI find it on the road at night drivin'\nIn my bed when the storm is outside it\nIt's like a choir singin' to my soul\nI've been prayin' that I'll find it\nIn my head, so I can't deny it\nWhen I do, you know I'll invite it\nInto my heart and never let it go\nIt's the sound of silence\n\n[Verse 2]\n'Fore you know it, your life is half gone\nStill tryin' to figure out where you belong\nTo shut my mind off, stop it from racin'\nI turn to what I've been chasin'\n\n[Chorus]\nThe sound of silence\nI find it on the road at night drivin'\nIn my bed when the storm is outside it\nIt's like a choir singin' to my soul\nI've been prayin' that I'll find it\nIn my head, so I can't deny it\nWhen I do, you know I'll invite it\nInto my heart and never let it go\nIt's the sound of silence\n\n[Verse 3]\nEverywhere I go, everywhere I go\nIt never seems to leave me alone\nEverywhere I go, everywhere I go\nI'm drownin' in this world\n\n[Chorus]\nAnd I need the sound of silence\nI find it on the road at night drivin'\nIn my bed when the storm is outside it\nIt's like a choir singin' to my soul\nI've been prayin' that I'll find it\nIn my head, so I can't deny it\nWhen I do, you know I'll invite it\nInto my heart and never let it go\nIt's the sound of silence",
+      "themes": [
+        "bar_setting",
+        "faith_spirituality",
+        "freedom_wandering",
+        "heartbreak_loss",
+        "music_songwriting",
+        "nature_outdoors",
+        "resilience_survival"
+      ]
+    }
+  }
+}

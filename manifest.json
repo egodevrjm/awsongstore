@@ -1,0 +1,61 @@
+{
+  "api_info": {
+    "title": "Alex Wilson Song Database API",
+    "version": "1.0.0",
+    "base_url": "https://egodevrjm.github.io/awsongstore",
+    "generated_at": "2025-06-13T00:19:55.305160"
+  },
+  "endpoints": {
+    "catalog": "/catalog.json",
+    "random_song": "/random.json",
+    "search_index": "/search.json",
+    "individual_songs": "/songs/{song_id}.json",
+    "by_theme": "/themes/{theme}.json",
+    "by_venue": "/venues/{venue}.json",
+    "by_status": "/status/{status}.json"
+  },
+  "available_themes": [
+    "abuse_trauma",
+    "bar_setting",
+    "faith_spirituality",
+    "family",
+    "freedom_wandering",
+    "heartbreak_loss",
+    "hometown_roots",
+    "love_romance",
+    "music_songwriting",
+    "nature_outdoors",
+    "nostalgia",
+    "partying_celebration",
+    "rebellion_outlaw",
+    "resilience_survival",
+    "working_class_labor"
+  ],
+  "available_venues": [
+    "amphitheater",
+    "arena",
+    "bar_setting",
+    "church",
+    "coffee_shop",
+    "dive_bar",
+    "festival",
+    "honky_tonk",
+    "house_concert",
+    "listening_room",
+    "outdoor_venue",
+    "revival",
+    "roadhouse",
+    "small_theater",
+    "stadium"
+  ],
+  "available_statuses": [
+    "private"
+  ],
+  "usage_examples": {
+    "get_catalog": "GET /catalog.json",
+    "get_specific_song": "GET /songs/broken_hallelujah.json",
+    "get_coffee_shop_songs": "GET /venues/coffee_shop.json",
+    "get_private_songs": "GET /status/private.json",
+    "get_trauma_songs": "GET /themes/abuse_trauma.json"
+  }
+}

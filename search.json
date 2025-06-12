@@ -1,0 +1,1817 @@
+{
+  "metadata": {
+    "total_songs": 86,
+    "searchable_fields": [
+      "title",
+      "themes",
+      "lyrics_excerpt"
+    ],
+    "generated_at": "2025-06-13T00:19:55.304388"
+  },
+  "index": {
+    "a_song_and_a_beer": {
+      "title": "A Song and a Beer",
+      "themes": [
+        "bar_setting",
+        "freedom_wandering",
+        "music_songwriting",
+        "nostalgia",
+        "partying_celebration",
+        "resilience_survival"
+      ],
+      "lyrics_excerpt": "Verse 1\nDive bar buzzing, the city's aglow,\nPlaylist spinning songs we all know.\nBartender smiling, hands me a drink,\nTonight’s for forgetting, no time to think.\nPre-Chorus\nWearing life's marks, but t...",
+      "status": "private",
+      "suggested_venues": [
+        "coffee_shop",
+        "dive_bar",
+        "festival",
+        "honky_tonk",
+        "listening_room",
+        "roadhouse",
+        "small_theater"
+      ]
+    },
+    "be_better_for_the_next_guy": {
+      "title": "Be Better for the Next Guy",
+      "themes": [
+        "abuse_trauma",
+        "bar_setting",
+        "heartbreak_loss",
+        "hometown_roots",
+        "love_romance",
+        "music_songwriting"
+      ],
+      "lyrics_excerpt": "Verse 1\nI’m three whiskeys deep, flingin’ darts at the back wall,\nLaughin’ at your name etched on my shot glass.\nNo more lonely nights curled up by the telephone—\nI’ve found new roads past the diner w...",
+      "status": "private",
+      "suggested_venues": [
+        "coffee_shop",
+        "dive_bar",
+        "honky_tonk",
+        "listening_room",
+        "roadhouse",
+        "small_theater"
+      ]
+    },
+    "blackberry_creek_revival": {
+      "title": "Blackberry Creek Revival",
+      "themes": [
+        "faith_spirituality",
+        "heartbreak_loss",
+        "hometown_roots",
+        "music_songwriting",
+        "nature_outdoors",
+        "resilience_survival",
+        "working_class_labor"
+      ],
+      "lyrics_excerpt": "Verse 1\nNo shoes on our feet, but we danced in the mud,\nSang hymns to the stars with our hearts full of blood.\nIn barns by the creek, where the hard times collide,\nWe found our salvation where the hop...",
+      "status": "private",
+      "suggested_venues": [
+        "amphitheater",
+        "church",
+        "coffee_shop",
+        "house_concert",
+        "listening_room",
+        "outdoor_venue",
+        "revival",
+        "small_theater"
+      ]
+    },
+    "born_in_hell": {
+      "title": "Born in Hell",
+      "themes": [
+        "abuse_trauma",
+        "bar_setting",
+        "family",
+        "faith_spirituality",
+        "freedom_wandering",
+        "hometown_roots",
+        "nature_outdoors",
+        "rebellion_outlaw",
+        "resilience_survival",
+        "working_class_labor"
+      ],
+      "lyrics_excerpt": "Verse 1\nCoal dust in my lungs, blood on the floor,\nDad’s fists kept time with the slam of the door.\nBorn in a town where the devil holds sway,\nI learned to take hits ‘fore I learned how to pray.\nPre-C...",
+      "status": "private",
+      "suggested_venues": [
+        "arena",
+        "coffee_shop",
+        "dive_bar",
+        "honky_tonk",
+        "house_concert",
+        "listening_room",
+        "roadhouse",
+        "stadium"
+      ]
+    },
+    "embers_to_inferno": {
+      "title": "Embers to Inferno",
+      "themes": [
+        "faith_spirituality",
+        "freedom_wandering",
+        "love_romance",
+        "nature_outdoors",
+        "rebellion_outlaw"
+      ],
+      "lyrics_excerpt": "Verse 1\nUnder starlit skies, your shadow’s callin’ me near\nSoft brush of your hand, sendin’ shivers crystal clear.\nThat quiet little smirk, like a secret you won’t tell,\nGot my heart racin’ slow, like...",
+      "status": "private",
+      "suggested_venues": [
+        "coffee_shop",
+        "house_concert",
+        "listening_room",
+        "small_theater"
+      ]
+    },
+    "feels_like_home": {
+      "title": "Feels Like Home",
+      "themes": [
+        "faith_spirituality",
+        "freedom_wandering",
+        "heartbreak_loss",
+        "hometown_roots",
+        "music_songwriting",
+        "nature_outdoors",
+        "rebellion_outlaw",
+        "resilience_survival",
+        "working_class_labor"
+      ],
+      "lyrics_excerpt": "[Verse 1]\nFaded blue threads, patched at the knee\nCarried me through hell, set my soul free\nCoal dust stains from the seams I crawled\nWore ‘em when the world felt too damn small\n\n\n[Pre-Chorus]\nThrough...",
+      "status": "private",
+      "suggested_venues": [
+        "amphitheater",
+        "coffee_shop",
+        "house_concert",
+        "listening_room",
+        "outdoor_venue",
+        "small_theater"
+      ]
+    },
+    "broken_hallelujah": {
+      "title": "Broken Hallelujah",
+      "themes": [
+        "abuse_trauma",
+        "family",
+        "faith_spirituality",
+        "freedom_wandering",
+        "hometown_roots",
+        "music_songwriting",
+        "nature_outdoors",
+        "resilience_survival",
+        "working_class_labor"
+      ],
+      "lyrics_excerpt": "Verse 1\nBack alley shadows, where the drunks lose their way,\nFound a splintered old box in the trash’s decay.\nSix rusted strings, neck warped like my dreams,\nBut it hummed like a savior in the moonlig...",
+      "status": "private",
+      "suggested_venues": [
+        "church",
+        "coffee_shop",
+        "house_concert",
+        "listening_room",
+        "revival",
+        "small_theater"
+      ]
+    },
+    "georgia_makes_the_devil_her_toy": {
+      "title": "Georgia Makes the Devil Her Toy",
+      "themes": [
+        "faith_spirituality",
+        "hometown_roots",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors",
+        "rebellion_outlaw",
+        "resilience_survival"
+      ],
+      "lyrics_excerpt": "The Devil crept back to Georgia,\nHis heart a smoldering wreck.\nTwice she’d won, left him undone,\nBut he craved her spellbound neck.\nHe found her lounging by a moonlit spring,\nHer skin aglow with wicke...",
+      "status": "private",
+      "suggested_venues": [
+        "amphitheater",
+        "honky_tonk",
+        "outdoor_venue",
+        "roadhouse"
+      ]
+    },
+    "get_it_on": {
+      "title": "Get it On",
+      "themes": [
+        "bar_setting",
+        "faith_spirituality",
+        "love_romance",
+        "nature_outdoors",
+        "partying_celebration",
+        "rebellion_outlaw"
+      ],
+      "lyrics_excerpt": "Verse 1\nYour boots hit the hardwood, that grin’s pure sin,\nLeather hugs your curves, pullin’ trouble right in.\nJukebox kicks low, our shadows start to sway,\nYou drag me to the floor, and the night’s s...",
+      "status": "private",
+      "suggested_venues": [
+        "festival",
+        "honky_tonk",
+        "roadhouse"
+      ]
+    },
+    "guilt_and_grief": {
+      "title": "Guilt and Grief",
+      "themes": [
+        "abuse_trauma",
+        "family",
+        "faith_spirituality",
+        "heartbreak_loss",
+        "love_romance",
+        "music_songwriting",
+        "working_class_labor"
+      ],
+      "lyrics_excerpt": "Verse 1\nNever heard your voice, never felt your touch,\nJust a gravestone whisper in a mining town clutch.\nThey say I stole your breath when I took my first,\nNow I carry that weight like a lifelong cur...",
+      "status": "private",
+      "suggested_venues": [
+        "church",
+        "coffee_shop",
+        "listening_room",
+        "small_theater"
+      ]
+    },
+    "heres_to_the_ghosts_i_leave_behind": {
+      "title": "Here’s to the Ghosts I Leave Behind",
+      "themes": [
+        "abuse_trauma",
+        "family",
+        "faith_spirituality",
+        "freedom_wandering",
+        "heartbreak_loss",
+        "hometown_roots",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors",
+        "partying_celebration",
+        "resilience_survival",
+        "working_class_labor"
+      ],
+      "lyrics_excerpt": "Verse 1\nI’ve walked through the ashes of a life torn apart,\nCarried the weight of a coal-black heart.\nSome ghosts held me close, some cut like a blade,\nBut each one’s a shadow that my soul’s outstayed...",
+      "status": "private",
+      "suggested_venues": [
+        "amphitheater",
+        "coffee_shop",
+        "festival",
+        "house_concert",
+        "listening_room",
+        "outdoor_venue",
+        "small_theater"
+      ]
+    },
+    "i_raised_myself": {
+      "title": "I Raised Myself",
+      "themes": [
+        "abuse_trauma",
+        "family",
+        "faith_spirituality",
+        "heartbreak_loss",
+        "hometown_roots",
+        "music_songwriting",
+        "rebellion_outlaw",
+        "resilience_survival",
+        "working_class_labor"
+      ],
+      "lyrics_excerpt": "Verse 1\nCoal dust on my boots, blood on my hands,\nGrew up in a hell where no one understands.\nDad’s fist was his gospel, his bottle his creed,\nI learned to stand tall while my heart learned to bleed.\n...",
+      "status": "private",
+      "suggested_venues": [
+        "coffee_shop",
+        "honky_tonk",
+        "listening_room",
+        "roadhouse",
+        "small_theater"
+      ]
+    },
+    "it_took_losing_you_to_find_me": {
+      "title": "It Took Losing You to Find Me",
+      "themes": [
+        "faith_spirituality",
+        "freedom_wandering",
+        "heartbreak_loss",
+        "love_romance",
+        "nature_outdoors",
+        "resilience_survival",
+        "working_class_labor"
+      ],
+      "lyrics_excerpt": "[Verse 1]\nEmpty echoes in this dawn's soft light\nShadows stretch where your promises died at night\nUsed to chase your whispers on the breeze\nNow I'm chasing something only I can seize\n[Pre-Chorus]\nFie...",
+      "status": "private",
+      "suggested_venues": [
+        "amphitheater",
+        "outdoor_venue"
+      ]
+    },
+    "kentucky_steel": {
+      "title": "Kentucky Steel",
+      "themes": [
+        "abuse_trauma",
+        "family",
+        "faith_spirituality",
+        "hometown_roots",
+        "music_songwriting",
+        "nature_outdoors",
+        "resilience_survival",
+        "working_class_labor"
+      ],
+      "lyrics_excerpt": "Verse 1\nBorn in the shadow of a coal-black vein,\nWhere the hollers weep and the skies bleed rain.\nDad’s fists were iron, his heart cold stone,\nBut I carved my soul from the roots I’ve known.\nPre-Choru...",
+      "status": "private",
+      "suggested_venues": [
+        "amphitheater",
+        "church",
+        "outdoor_venue",
+        "revival"
+      ]
+    },
+    "love_aint_enough": {
+      "title": "Love Ain’t Enough",
+      "themes": [
+        "bar_setting",
+        "faith_spirituality",
+        "heartbreak_loss",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors",
+        "resilience_survival"
+      ],
+      "lyrics_excerpt": "Verse 1\nScreen lit up, your face in the glow,\nLaughin’ with shadows I ain’t meant to know.\nWhiskey’s burnin’, but it don’t kill the pain,\nYour voice, their hands, it’s tearin’ up my brain.\nPre-Chorus\n...",
+      "status": "private",
+      "suggested_venues": [
+        "dive_bar"
+      ]
+    },
+    "my_mothers_eyes": {
+      "title": "My Mother’s Eyes",
+      "themes": [
+        "family",
+        "heartbreak_loss",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors",
+        "nostalgia",
+        "resilience_survival"
+      ],
+      "lyrics_excerpt": "Verse 1\nNever knew your smile, never heard your call,\nJust a faded photo on a cracked bedroom wall.\nBut when the mirror catches me in the morning’s glare,\nI see your fire burnin’, and I know you’re th...",
+      "status": "private",
+      "suggested_venues": [
+        "coffee_shop",
+        "house_concert",
+        "listening_room",
+        "small_theater"
+      ]
+    },
+    "running_free": {
+      "title": "Running Free",
+      "themes": [
+        "abuse_trauma",
+        "bar_setting",
+        "faith_spirituality",
+        "freedom_wandering",
+        "heartbreak_loss",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors",
+        "resilience_survival"
+      ],
+      "lyrics_excerpt": "Verse 1\nHighway hums low, just me and the sky,\nThat video call’s just a ghost in my mind.\nLeft the roadhouse behind, let the whiskey burn clean,\nI’m carryin’ my scars, but my heart’s runnin’ lean.\nPre...",
+      "status": "private",
+      "suggested_venues": [
+        "amphitheater",
+        "outdoor_venue",
+        "roadhouse"
+      ]
+    },
+    "saturday_night_salvation": {
+      "title": "Saturday Night Salvation",
+      "themes": [
+        "bar_setting",
+        "faith_spirituality",
+        "freedom_wandering",
+        "hometown_roots",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors",
+        "partying_celebration",
+        "rebellion_outlaw"
+      ],
+      "lyrics_excerpt": "Verse 1\nGravel lot’s kickin’ up dust in the glow,\nJukebox blarin’ where the wild ones go.\nBoots stomp hard to a Haggard tune,\nNeon’s hummin’ under a Kentucky moon.\nPre-Chorus\nTailgates down beneath ne...",
+      "status": "private",
+      "suggested_venues": [
+        "amphitheater",
+        "festival",
+        "honky_tonk",
+        "outdoor_venue",
+        "roadhouse"
+      ]
+    },
+    "skin_on_mine": {
+      "title": "Skin On Mine",
+      "themes": [
+        "abuse_trauma",
+        "faith_spirituality",
+        "freedom_wandering",
+        "heartbreak_loss",
+        "hometown_roots",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors",
+        "rebellion_outlaw"
+      ],
+      "lyrics_excerpt": "Verse 1\nWorn boots on the porch, dust on the vine,\nYour shadow’s my shelter in this heart of mine.\nEvery wound I carry, you trace with care,\nFindin’ redemption in the weight we share.\nPre-Chorus\nYour ...",
+      "status": "private",
+      "suggested_venues": [
+        "amphitheater",
+        "coffee_shop",
+        "house_concert",
+        "listening_room",
+        "outdoor_venue",
+        "small_theater"
+      ]
+    },
+    "sometimes_cowboys_stay": {
+      "title": "Sometimes Cowboys Stay",
+      "themes": [
+        "abuse_trauma",
+        "faith_spirituality",
+        "freedom_wandering",
+        "heartbreak_loss",
+        "hometown_roots",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors"
+      ],
+      "lyrics_excerpt": "(Classic Country Standard)\nVerse 1\nI’ve roamed the wide plains where the wild winds call,\nChased dreams ‘cross canyons, watched the mighty fall.\nBut your gentle touch stopped this drifter’s heart,\nSho...",
+      "status": "private",
+      "suggested_venues": [
+        "amphitheater",
+        "outdoor_venue"
+      ]
+    },
+    "tailgate_nights": {
+      "title": "Tailgate Nights",
+      "themes": [
+        "hometown_roots",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors",
+        "partying_celebration",
+        "resilience_survival"
+      ],
+      "lyrics_excerpt": "Verse 1\nPickup’s parked where the river runs slow,\nStars are burnin’ like a backroad show.\nCooler’s stocked, and the fire’s alight,\nWe’re kickin’ up dust on a tailgate night.\nPre-Chorus\nNo city lights...",
+      "status": "private",
+      "suggested_venues": [
+        "amphitheater",
+        "festival",
+        "outdoor_venue"
+      ]
+    },
+    "tailgate_testament": {
+      "title": "Tailgate Testament",
+      "themes": [
+        "faith_spirituality",
+        "freedom_wandering",
+        "heartbreak_loss",
+        "hometown_roots",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors",
+        "partying_celebration",
+        "resilience_survival",
+        "working_class_labor"
+      ],
+      "lyrics_excerpt": "Verse 1\nGolden light on a dirt road’s bend, Two kids dreamin’ where the world don’t end. His old Ford hums with a radio glow, Singin’ soft to the love we know.\nPre-Chorus\nDust swirled around barefoot ...",
+      "status": "private",
+      "suggested_venues": [
+        "amphitheater",
+        "coffee_shop",
+        "festival",
+        "house_concert",
+        "listening_room",
+        "outdoor_venue"
+      ]
+    },
+    "the_devil_went_down_on_georgia": {
+      "title": "The Devil Went Down on Georgia",
+      "themes": [
+        "faith_spirituality",
+        "freedom_wandering",
+        "hometown_roots",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors",
+        "rebellion_outlaw",
+        "resilience_survival",
+        "working_class_labor"
+      ],
+      "lyrics_excerpt": "(inspired by but not the same music as the original )\nVerse\nThe Devil went down on Georgia,\nHe was lookin' for a soul to tease.\nHe was feelin' bold, and truth be told,\nHe was itchin' for a little rele...",
+      "status": "private",
+      "suggested_venues": [
+        "amphitheater",
+        "honky_tonk",
+        "outdoor_venue",
+        "roadhouse",
+        "stadium"
+      ]
+    },
+    "the_girl_in_the_summer_dress": {
+      "title": "The Girl In The Summer Dress",
+      "themes": [
+        "faith_spirituality",
+        "love_romance",
+        "partying_celebration",
+        "rebellion_outlaw"
+      ],
+      "lyrics_excerpt": "Verse 1\nShe sauntered in the diner, with a devilish sway,\nThat summer dress clingin’ in a dangerous way.\nOne wink over coffee, set my pulse to a race,\nGod makes the good stuff, and she owned that spac...",
+      "status": "private",
+      "suggested_venues": [
+        "coffee_shop",
+        "festival",
+        "honky_tonk",
+        "house_concert",
+        "roadhouse",
+        "stadium"
+      ]
+    },
+    "the_mourning_after": {
+      "title": "The Mourning After",
+      "themes": [
+        "abuse_trauma",
+        "bar_setting",
+        "faith_spirituality",
+        "freedom_wandering",
+        "heartbreak_loss",
+        "hometown_roots",
+        "love_romance",
+        "nature_outdoors",
+        "nostalgia",
+        "resilience_survival"
+      ],
+      "lyrics_excerpt": "Verse 1\nWoke up to a headache and your face in my mind,\nThat video call still burns like cheap red wine.\nI torched your old photos in a rusted tin can,\nBut your laugh keeps echoin’ through this broken...",
+      "status": "private",
+      "suggested_venues": [
+        "dive_bar"
+      ]
+    },
+    "the_music": {
+      "title": "The Music",
+      "themes": [
+        "abuse_trauma",
+        "family",
+        "faith_spirituality",
+        "freedom_wandering",
+        "heartbreak_loss",
+        "hometown_roots",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors",
+        "resilience_survival",
+        "working_class_labor"
+      ],
+      "lyrics_excerpt": "Verse 1\nI was born in a holler where the coal dust sings,\nRaised on the ache of broke-down things.\nA trailer’s shadow, a father’s fist,\nFound my salvation in a six-string’s kiss.\nHid that guitar where...",
+      "status": "private",
+      "suggested_venues": [
+        "church",
+        "coffee_shop",
+        "house_concert",
+        "listening_room",
+        "revival",
+        "small_theater"
+      ]
+    },
+    "the_way_you_make_me_feel": {
+      "title": "The Way You Make Me Feel",
+      "themes": [
+        "abuse_trauma",
+        "bar_setting",
+        "faith_spirituality",
+        "love_romance",
+        "nature_outdoors",
+        "rebellion_outlaw"
+      ],
+      "lyrics_excerpt": "Verse 1\nYour silhouette’s a spark in the twilight’s glow,\nLeather and lace, where the wild things grow.\nOne look from you, and my defenses all reel,\nYou’re a storm Marie Antoinette, and I’m under your...",
+      "status": "private",
+      "suggested_venues": [
+        "coffee_shop",
+        "house_concert",
+        "listening_room",
+        "small_theater"
+      ]
+    },
+    "the_weight_of_silence": {
+      "title": "The Weight of Silence",
+      "themes": [
+        "abuse_trauma",
+        "family",
+        "faith_spirituality",
+        "heartbreak_loss",
+        "music_songwriting",
+        "resilience_survival",
+        "working_class_labor"
+      ],
+      "lyrics_excerpt": "Verse 1\nWords we never spoke cut deeper than his belt,\nEvery silent scream was a wound I felt.\nLearned to bite my tongue ‘fore I learned to pray,\nCarried that quiet through each hellbound day.\nPre-Cho...",
+      "status": "private",
+      "suggested_venues": []
+    },
+    "what_dad_left_behind": {
+      "title": "What Dad Left Behind",
+      "themes": [
+        "abuse_trauma",
+        "family",
+        "freedom_wandering",
+        "heartbreak_loss",
+        "music_songwriting",
+        "resilience_survival"
+      ],
+      "lyrics_excerpt": "Verse 1\nYour name’s a bruise I wore like a brand,\nCarved in my bones by your heavy hand.\nA house full of echoes, a heart full of rust,\nYou left me your anger, but never your trust.\nPre-Chorus\nI walked...",
+      "status": "private",
+      "suggested_venues": []
+    },
+    "when_mountains_weep": {
+      "title": "When Mountains Weep",
+      "themes": [
+        "abuse_trauma",
+        "family",
+        "faith_spirituality",
+        "heartbreak_loss",
+        "hometown_roots",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors",
+        "working_class_labor"
+      ],
+      "lyrics_excerpt": "[Verse 1]\nCoal dust settles where the pines grow thin\nHollers whisper of the hurt within\nGraves unmarked beneath the ridge’s weight\nHold the dreams that time forgot to save\n[Pre-Chorus]\nRivers carve t...",
+      "status": "private",
+      "suggested_venues": [
+        "amphitheater",
+        "church",
+        "coffee_shop",
+        "listening_room",
+        "outdoor_venue",
+        "small_theater"
+      ]
+    },
+    "yes_boys_do_cry_sometimes": {
+      "title": "Yes, Boys Do Cry Sometimes",
+      "themes": [
+        "abuse_trauma",
+        "family",
+        "freedom_wandering",
+        "heartbreak_loss",
+        "hometown_roots",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors",
+        "resilience_survival",
+        "working_class_labor"
+      ],
+      "lyrics_excerpt": "Yes, Boys Do Cry Sometimes\n(Verse 1) Shoulders built like mountains, jaw carved out of stone Walk this Pikeville dirt path feelin' quite alone Got the kind of blue eyes make the girls all stare Wear t...",
+      "status": "private",
+      "suggested_venues": [
+        "coffee_shop",
+        "listening_room",
+        "small_theater"
+      ]
+    },
+    "hollow_turns_hallelujah": {
+      "title": "Hollow Turns Hallelujah",
+      "themes": [
+        "abuse_trauma",
+        "faith_spirituality",
+        "heartbreak_loss",
+        "hometown_roots",
+        "music_songwriting",
+        "nature_outdoors",
+        "nostalgia",
+        "resilience_survival"
+      ],
+      "lyrics_excerpt": "Hollow Turns Hallelujah\nVerse 1\nBoot prints fading, desert moon hanging low\nGuard duty whispers, stories we all know\nChopper blades turning, a melancholic drone\nThe campfire's out, brothers gone, too ...",
+      "status": "private",
+      "suggested_venues": [
+        "amphitheater",
+        "church",
+        "outdoor_venue",
+        "revival"
+      ]
+    },
+    "lantern_i_left_behind": {
+      "title": "Lantern I Left Behind",
+      "themes": [
+        "abuse_trauma",
+        "freedom_wandering",
+        "heartbreak_loss",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors",
+        "nostalgia",
+        "working_class_labor"
+      ],
+      "lyrics_excerpt": "Lantern I Left Behind\n(Verse 1)\nSunrise spills across the ridge, paints the valley gold\nAnother day breaks on this farm, a story left untold\nOf restless nights and whispered dreams beneath a moonless ...",
+      "status": "private",
+      "suggested_venues": [
+        "amphitheater",
+        "outdoor_venue"
+      ]
+    },
+    "morning_after_rain": {
+      "title": "Morning After Rain",
+      "themes": [
+        "abuse_trauma",
+        "faith_spirituality",
+        "heartbreak_loss",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors",
+        "nostalgia",
+        "resilience_survival"
+      ],
+      "lyrics_excerpt": "Morning After Rain\n(Verse 1)\nSunrise paints the valley gold, a mist hangs in the air\nThe creek bed whispers stories of the flood that raged through there\nThe earth drinks deep, the thirsty roots, reac...",
+      "status": "private",
+      "suggested_venues": [
+        "amphitheater",
+        "church",
+        "coffee_shop",
+        "house_concert",
+        "listening_room",
+        "outdoor_venue",
+        "revival",
+        "small_theater"
+      ]
+    },
+    "if_youre_breathing_youre_worth_saving": {
+      "title": "If You’re Breathing, You’re Worth Saving",
+      "themes": [
+        "abuse_trauma",
+        "faith_spirituality",
+        "heartbreak_loss",
+        "love_romance",
+        "nature_outdoors",
+        "resilience_survival",
+        "working_class_labor"
+      ],
+      "lyrics_excerpt": "If You’re Breathing, You’re Worth Saving\nVerse 1\nDust motes dancing in the faded light\nOf a single bulb hanging low tonight\nEmpty bottle whispers stories untold\nAnother heart grown weary and old\nHe si...",
+      "status": "private",
+      "suggested_venues": []
+    },
+    "red_dirt_road": {
+      "title": "Red Dirt Road",
+      "themes": [
+        "abuse_trauma",
+        "family",
+        "faith_spirituality",
+        "freedom_wandering",
+        "heartbreak_loss",
+        "hometown_roots",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors",
+        "nostalgia",
+        "rebellion_outlaw",
+        "working_class_labor"
+      ],
+      "lyrics_excerpt": "Red Dirt Road\n(Verse 1)\nSunrise paints the cotton fields a hazy shade of gold\nAnother town I can't recall, another story told\nOf a restless heart and wandering feet, a shadow in the night\nSearching fo...",
+      "status": "private",
+      "suggested_venues": [
+        "amphitheater",
+        "outdoor_venue"
+      ]
+    },
+    "scars_and_smoke": {
+      "title": "Scars and Smoke",
+      "themes": [
+        "abuse_trauma",
+        "faith_spirituality",
+        "freedom_wandering",
+        "heartbreak_loss",
+        "hometown_roots",
+        "nature_outdoors",
+        "nostalgia",
+        "rebellion_outlaw",
+        "resilience_survival",
+        "working_class_labor"
+      ],
+      "lyrics_excerpt": "Verse 1\nSunrise bleeds red over coal-dust hills, another day’s begun,\nGravel crunches under boots, chasin’ a merciless sun.\nAin’t the life I dreamed, boy, ain’t the hand I aimed to draw,\nBut ghosts of...",
+      "status": "private",
+      "suggested_venues": [
+        "amphitheater",
+        "outdoor_venue",
+        "roadhouse"
+      ]
+    },
+    "the_reveal": {
+      "title": "The Reveal",
+      "themes": [],
+      "lyrics_excerpt": "",
+      "status": "private",
+      "suggested_venues": []
+    },
+    "wildflower_heart": {
+      "title": "Wildflower Heart",
+      "themes": [
+        "abuse_trauma",
+        "family",
+        "faith_spirituality",
+        "freedom_wandering",
+        "hometown_roots",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors",
+        "resilience_survival",
+        "working_class_labor"
+      ],
+      "lyrics_excerpt": "Title:  Wildflower Heart\n(Verse 1)\nGrandma's china, chipped and worn\nSitting pretty on a shelf, a life adorned\nWith stories whispered, dreams untold\nA legacy of strength, a heart of gold\nBut I wasn't ...",
+      "status": "private",
+      "suggested_venues": [
+        "amphitheater",
+        "church",
+        "outdoor_venue",
+        "revival"
+      ]
+    },
+    "phoenix_flight": {
+      "title": "Phoenix Flight",
+      "themes": [
+        "heartbreak_loss",
+        "nature_outdoors",
+        "rebellion_outlaw",
+        "resilience_survival"
+      ],
+      "lyrics_excerpt": "Title:  Phoenix Flight\n(Verse 1)\nDust devils danced on the cracked, dry land\nReflection stared back, a ghost in my hand\nThought I was buried, six feet beneath the shame\nRattlesnake whisperin',  \"Ain't...",
+      "status": "private",
+      "suggested_venues": [
+        "amphitheater",
+        "honky_tonk",
+        "outdoor_venue",
+        "roadhouse"
+      ]
+    },
+    "digital_bonfire": {
+      "title": "Digital Bonfire",
+      "themes": [
+        "faith_spirituality",
+        "heartbreak_loss",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors",
+        "partying_celebration"
+      ],
+      "lyrics_excerpt": "Title:  Digital Bonfire\n(Verse 1)\nPhone screen glowin', midnight blue\nThumb scrollin', lookin' for you\nComments flyin', hearts on fire\nFeedin' the flame, takin' it higher\nThis ain't a game, this ain't...",
+      "status": "private",
+      "suggested_venues": [
+        "festival"
+      ]
+    },
+    "full_and_gone": {
+      "title": "Full and Gone",
+      "themes": [
+        "abuse_trauma",
+        "faith_spirituality",
+        "freedom_wandering",
+        "heartbreak_loss",
+        "hometown_roots",
+        "music_songwriting",
+        "nature_outdoors",
+        "resilience_survival",
+        "working_class_labor"
+      ],
+      "lyrics_excerpt": "Verse 1\nI packed my scars in a beat-up truck, left Pikeville in the dust,\nCoal-black memories clingin’ tight, like rust that won’t unrust.\nAin’t no fixin’ what that town broke, no mendin’ what it stol...",
+      "status": "private",
+      "suggested_venues": [
+        "amphitheater",
+        "outdoor_venue"
+      ]
+    },
+    "diner_life": {
+      "title": "Diner Life",
+      "themes": [
+        "family",
+        "faith_spirituality",
+        "freedom_wandering",
+        "heartbreak_loss",
+        "hometown_roots",
+        "love_romance",
+        "music_songwriting",
+        "resilience_survival",
+        "working_class_labor"
+      ],
+      "lyrics_excerpt": "Verse 1\nMae’s Diner glows on a lonesome street, neon hummin’ low,\nI was nine, pockets full of change, nowhere else to go.\nBiscuits warm as a mother’s love, gravy thick with heart,\nFound a home in that...",
+      "status": "private",
+      "suggested_venues": [
+        "coffee_shop",
+        "house_concert",
+        "listening_room",
+        "roadhouse",
+        "small_theater"
+      ]
+    },
+    "blackberry_creek_blues": {
+      "title": "Blackberry Creek Blues",
+      "themes": [
+        "abuse_trauma",
+        "family",
+        "faith_spirituality",
+        "freedom_wandering",
+        "heartbreak_loss",
+        "hometown_roots",
+        "music_songwriting",
+        "nature_outdoors",
+        "resilience_survival",
+        "working_class_labor"
+      ],
+      "lyrics_excerpt": "Title: Blackberry Creek Blues\n(Verse 1)\nSun bleeds orange through the pines, 'nother day done broke\nDown Blackberry Creek Road, where the silence only spoke\nOf broken promises and ghosts that linger i...",
+      "status": "private",
+      "suggested_venues": [
+        "amphitheater",
+        "outdoor_venue"
+      ]
+    },
+    "faded_mountain_truths": {
+      "title": "Faded Mountain Truths",
+      "themes": [
+        "abuse_trauma",
+        "family",
+        "freedom_wandering",
+        "heartbreak_loss",
+        "hometown_roots",
+        "music_songwriting",
+        "nature_outdoors",
+        "nostalgia",
+        "resilience_survival",
+        "working_class_labor"
+      ],
+      "lyrics_excerpt": "Title:  Faded Mountain Truths\n(Verse 1)\nFaded photographs in a dusty frame\nMama's smilin' face, ain't nothin' changed\n'Cept the lines etched deeper, like the cracks on these hills\nYears of worry and w...",
+      "status": "private",
+      "suggested_venues": [
+        "amphitheater",
+        "outdoor_venue"
+      ]
+    },
+    "drink_to_the_family": {
+      "title": "Drink to the Family",
+      "themes": [
+        "abuse_trauma",
+        "bar_setting",
+        "family",
+        "faith_spirituality",
+        "freedom_wandering",
+        "heartbreak_loss",
+        "hometown_roots",
+        "music_songwriting",
+        "nature_outdoors",
+        "partying_celebration",
+        "rebellion_outlaw",
+        "resilience_survival",
+        "working_class_labor"
+      ],
+      "lyrics_excerpt": "(Verse 1)\nDust on my boots from a road gone rough\nChased dreams that broke when the times got tough\nKin turned their backs, left scars on my hide\nBut I found my crew where the good vibes ride\nA shot o...",
+      "status": "private",
+      "suggested_venues": [
+        "amphitheater",
+        "festival",
+        "honky_tonk",
+        "house_concert",
+        "outdoor_venue",
+        "roadhouse",
+        "stadium"
+      ]
+    },
+    "mamma_make_him_stop": {
+      "title": "Mamma Make Him Stop",
+      "themes": [
+        "abuse_trauma",
+        "family",
+        "faith_spirituality",
+        "heartbreak_loss",
+        "hometown_roots",
+        "music_songwriting"
+      ],
+      "lyrics_excerpt": "Verse\nDaddy’s yellin’ loud, his hands they hurt me so,\nI hide under my bed, where the shadows grow.\nBottle’s on the floor, it’s breakin’ up our home,\nI’m scared and all alone, wishin’ he’d be gone.\nCh...",
+      "status": "private",
+      "suggested_venues": []
+    },
+    "hell_and_hymns": {
+      "title": "Hell and Hymns",
+      "themes": [
+        "abuse_trauma",
+        "bar_setting",
+        "family",
+        "faith_spirituality",
+        "heartbreak_loss",
+        "music_songwriting",
+        "nature_outdoors",
+        "nostalgia",
+        "partying_celebration",
+        "rebellion_outlaw",
+        "resilience_survival",
+        "working_class_labor"
+      ],
+      "lyrics_excerpt": "Verse 1\nFriday night, under neon’s roar,\nWhiskey’s pullin’ hard, settlin’ old scores.\nJukebox wails, hearts hit the floor,\nDancin’ through the haze, chasin’ something more.\nAnother week of grind, bone...",
+      "status": "private",
+      "suggested_venues": [
+        "dive_bar",
+        "festival",
+        "honky_tonk",
+        "roadhouse"
+      ]
+    },
+    "when_you_cant_be_near_me": {
+      "title": "When You Can't Be Near Me",
+      "themes": [
+        "abuse_trauma",
+        "bar_setting",
+        "faith_spirituality",
+        "freedom_wandering",
+        "heartbreak_loss",
+        "hometown_roots",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors",
+        "nostalgia",
+        "partying_celebration",
+        "rebellion_outlaw"
+      ],
+      "lyrics_excerpt": "(Verse 1) When you can't be near me, please think of me, I'm starin' at the highway, where you used to be. You're gone, my darlin', chasin' some new flame, But my heart's still ramblin', callin' out y...",
+      "status": "private",
+      "suggested_venues": [
+        "dive_bar",
+        "festival",
+        "honky_tonk",
+        "roadhouse"
+      ]
+    },
+    "whiskey_dont_lie": {
+      "title": "Whiskey Don't Lie",
+      "themes": [
+        "abuse_trauma",
+        "bar_setting",
+        "faith_spirituality",
+        "freedom_wandering",
+        "heartbreak_loss",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors",
+        "partying_celebration",
+        "rebellion_outlaw"
+      ],
+      "lyrics_excerpt": "(Verse 1)\nI’m sittin’ at this barstool, with a neon glow,\nPourin’ out my heartache, where the jukebox flows.\nThe bartender knows me, he don’t ask my name,\nJust slides another whiskey, to kill the pain...",
+      "status": "private",
+      "suggested_venues": [
+        "dive_bar",
+        "festival",
+        "honky_tonk",
+        "roadhouse"
+      ]
+    },
+    "backroad_heart": {
+      "title": "Backroad Heart",
+      "themes": [
+        "faith_spirituality",
+        "freedom_wandering",
+        "heartbreak_loss",
+        "hometown_roots",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors",
+        "nostalgia",
+        "partying_celebration",
+        "resilience_survival"
+      ],
+      "lyrics_excerpt": "(Verse 1)\nOut on County Road 9, where the gravel kicks dust,\nWe carved our initials in an oak, swore we’d never rust.\nYour taillights faded, left me standin’ in the rain,\nNow I’m chasin’ your memory, ...",
+      "status": "private",
+      "suggested_venues": [
+        "amphitheater",
+        "outdoor_venue"
+      ]
+    },
+    "run_from_the_reaper": {
+      "title": "Run From the Reaper",
+      "themes": [
+        "abuse_trauma",
+        "faith_spirituality",
+        "freedom_wandering",
+        "heartbreak_loss",
+        "nature_outdoors",
+        "rebellion_outlaw"
+      ],
+      "lyrics_excerpt": "(Verse 1)\nThe dust kicks up behind me, on this lonesome road,\nMy boots are worn to nothin’, carryin’ this load.\nGot a warrant in my pocket, and a devil on my trail,\nRunnin’ from the reaper, but I’m bo...",
+      "status": "private",
+      "suggested_venues": [
+        "amphitheater",
+        "arena",
+        "festival",
+        "honky_tonk",
+        "outdoor_venue",
+        "roadhouse",
+        "stadium"
+      ]
+    },
+    "under_a_southern_sky": {
+      "title": "Under a Southern Sky",
+      "themes": [
+        "abuse_trauma",
+        "bar_setting",
+        "faith_spirituality",
+        "freedom_wandering",
+        "heartbreak_loss",
+        "hometown_roots",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors",
+        "rebellion_outlaw",
+        "resilience_survival"
+      ],
+      "lyrics_excerpt": "(Verse 1)\nI was runnin’ on empty, down a two-lane road,\nChasin’ whiskey sunsets, with a heavy load.\nLeft my dreams in a dive bar, thought I’d lost my way,\nTill your smile lit the darkness, like a summ...",
+      "status": "private",
+      "suggested_venues": [
+        "amphitheater",
+        "dive_bar",
+        "honky_tonk",
+        "outdoor_venue",
+        "roadhouse"
+      ]
+    },
+    "whispers_from_the_hemlock_holler": {
+      "title": "Whispers from the Hemlock Holler",
+      "themes": [
+        "abuse_trauma",
+        "family",
+        "faith_spirituality",
+        "heartbreak_loss",
+        "hometown_roots",
+        "music_songwriting",
+        "nature_outdoors",
+        "working_class_labor"
+      ],
+      "lyrics_excerpt": "(Verse 1)\nCreek water whisperin' secrets low,\n'Bout the mountain's wisdom, slow and slow.\nHemlock shadows stretchin' long and deep,\nPeace in the silence, secrets to keep.\nCampfire light a-flickerin' i...",
+      "status": "private",
+      "suggested_venues": [
+        "amphitheater",
+        "outdoor_venue"
+      ]
+    },
+    "shadows_holler": {
+      "title": "Shadow’s Holler",
+      "themes": [
+        "abuse_trauma",
+        "freedom_wandering",
+        "hometown_roots",
+        "music_songwriting",
+        "nature_outdoors",
+        "rebellion_outlaw"
+      ],
+      "lyrics_excerpt": "(Verse 1)\nIn the hollow where the river bends,\nA whisper fights the wind’s old trends.\nIt claws at the silence, sharp as a knife,\nBeggin’ to sing, but it fears the light.\n(Pre-Chorus)\nThe crows keep c...",
+      "status": "private",
+      "suggested_venues": [
+        "amphitheater",
+        "festival",
+        "honky_tonk",
+        "outdoor_venue",
+        "roadhouse"
+      ]
+    },
+    "canyons_cry": {
+      "title": "Canyon’s Cry",
+      "themes": [
+        "abuse_trauma",
+        "faith_spirituality",
+        "heartbreak_loss",
+        "music_songwriting",
+        "nature_outdoors",
+        "rebellion_outlaw",
+        "resilience_survival"
+      ],
+      "lyrics_excerpt": "(Verse 1)\nThere’s a storm in the canyon, tearin’ through my bones,\nThunder’s got my secrets, carved in jagged stones.\nIt howls to break the silence, begs to shake the sky,\nBut the sun’s a ruthless wit...",
+      "status": "private",
+      "suggested_venues": [
+        "amphitheater",
+        "festival",
+        "honky_tonk",
+        "outdoor_venue",
+        "roadhouse",
+        "stadium"
+      ]
+    },
+    "tumbleweed_promises": {
+      "title": "Tumbleweed Promises",
+      "themes": [
+        "bar_setting",
+        "faith_spirituality",
+        "freedom_wandering",
+        "heartbreak_loss",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors",
+        "rebellion_outlaw"
+      ],
+      "lyrics_excerpt": "(Verse 1)\nI left my heart in a diner, on a napkin stained with wine,\nScribbled sweet nothins’, swore I’d make you mine.\nBut the road’s a jealous lover, she don’t let me stay,\nNow those vows are drifti...",
+      "status": "private",
+      "suggested_venues": [
+        "coffee_shop",
+        "honky_tonk",
+        "house_concert",
+        "roadhouse"
+      ]
+    },
+    "church_of_country": {
+      "title": "Church of Country",
+      "themes": [
+        "abuse_trauma",
+        "bar_setting",
+        "faith_spirituality",
+        "freedom_wandering",
+        "heartbreak_loss",
+        "hometown_roots",
+        "music_songwriting",
+        "nature_outdoors",
+        "partying_celebration",
+        "rebellion_outlaw",
+        "resilience_survival",
+        "working_class_labor"
+      ],
+      "lyrics_excerpt": "Verse 1\nI hit the stage on red dirt, where the heartland’s callin’ me,\nFrom dive bar smoke to stadiums, this is where I’m free.\nHank’s ghost in my guitar, Dolly’s shine in my soul,\nCountry’s fire in m...",
+      "status": "private",
+      "suggested_venues": [
+        "arena",
+        "church",
+        "coffee_shop",
+        "dive_bar",
+        "festival",
+        "honky_tonk",
+        "house_concert",
+        "listening_room",
+        "revival",
+        "roadhouse",
+        "stadium"
+      ]
+    },
+    "workin_for_a_living": {
+      "title": "Workin' for a Living",
+      "themes": [
+        "abuse_trauma",
+        "freedom_wandering",
+        "heartbreak_loss",
+        "music_songwriting",
+        "nature_outdoors",
+        "resilience_survival",
+        "working_class_labor"
+      ],
+      "lyrics_excerpt": "Verse 1\nDawn breaks hard, boots hit the ground,\nSweat’s my pay where the work is found.\nNo silver spoon, just a will to fight,\nPushin’ through the long days into the night.\n\nPre-Chorus\nBlisters on my ...",
+      "status": "private",
+      "suggested_venues": [
+        "arena",
+        "festival",
+        "honky_tonk",
+        "roadhouse",
+        "stadium"
+      ]
+    },
+    "wild_la": {
+      "title": "Wild LA",
+      "themes": [
+        "bar_setting",
+        "family",
+        "faith_spirituality",
+        "freedom_wandering",
+        "hometown_roots",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors"
+      ],
+      "lyrics_excerpt": "Verse 1\nI’m a red dirt drifter, boots scarred from the clay,\nDropped in this jungle they call LA.\nOat milk in my coffee? That ain’t milk, I reckon,\nOats don’t got nipples, y’all messin’ with my head, ...",
+      "status": "private",
+      "suggested_venues": [
+        "coffee_shop",
+        "house_concert"
+      ]
+    },
+    "coal_dust_sunrise": {
+      "title": "Coal Dust Sunrise",
+      "themes": [
+        "abuse_trauma",
+        "faith_spirituality",
+        "heartbreak_loss",
+        "hometown_roots",
+        "music_songwriting",
+        "nature_outdoors",
+        "resilience_survival",
+        "working_class_labor"
+      ],
+      "lyrics_excerpt": "Long shadows creep on the valley floor,\nAs the bleeding sky unveils what's in store.\nA cold breath sighs through the hollows deep,\nWhere old dreams stir and new promises keep.\nA shack stands weathered...",
+      "status": "private",
+      "suggested_venues": [
+        "amphitheater",
+        "church",
+        "coffee_shop",
+        "festival",
+        "house_concert",
+        "listening_room",
+        "outdoor_venue",
+        "revival",
+        "small_theater",
+        "stadium"
+      ]
+    },
+    "drivin_to_you": {
+      "title": "Drivin' to You",
+      "themes": [
+        "faith_spirituality",
+        "freedom_wandering",
+        "hometown_roots",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors"
+      ],
+      "lyrics_excerpt": "Verse 1\nKicked off from Kentucky, tires spinnin’ through the night,\nYour dream’s in California, girl, I’m racin’ toward your light.\nTennessee’s hills are callin’, with their banjo serenade,\nArkansas’ ...",
+      "status": "private",
+      "suggested_venues": [
+        "amphitheater",
+        "arena",
+        "festival",
+        "outdoor_venue",
+        "stadium"
+      ]
+    },
+    "devil_came_back_for_georgia": {
+      "title": "Devil Came Back for Georgia",
+      "themes": [
+        "faith_spirituality",
+        "heartbreak_loss",
+        "hometown_roots",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors",
+        "rebellion_outlaw",
+        "resilience_survival"
+      ],
+      "lyrics_excerpt": "The Devil Came Back to Georgia\nThe Devil came back to Georgia,\nHe was burnin’ for a second round.\nThat first defeat left his pride in heat,\nAnd he craved that sultry sound.\nHe found her swayin’ by a r...",
+      "status": "private",
+      "suggested_venues": [
+        "amphitheater",
+        "honky_tonk",
+        "outdoor_venue",
+        "roadhouse"
+      ]
+    },
+    "my_kentucky_heartbeat": {
+      "title": "My Kentucky Heartbeat",
+      "themes": [
+        "abuse_trauma",
+        "family",
+        "faith_spirituality",
+        "freedom_wandering",
+        "heartbreak_loss",
+        "hometown_roots",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors",
+        "nostalgia",
+        "rebellion_outlaw",
+        "resilience_survival",
+        "working_class_labor"
+      ],
+      "lyrics_excerpt": "(Verse 1)\nSunrise paints these Blue Ridge Mountains, but I'm already caked in mine grime\nAnother shift done, countin' pennies, losin' track of time.\nThis old pickup's my four walls now, under the Kent...",
+      "status": "private",
+      "suggested_venues": [
+        "amphitheater",
+        "honky_tonk",
+        "outdoor_venue",
+        "roadhouse"
+      ]
+    },
+    "going_viral": {
+      "title": "Going Viral",
+      "themes": [
+        "family",
+        "freedom_wandering",
+        "heartbreak_loss",
+        "hometown_roots",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors",
+        "partying_celebration",
+        "resilience_survival",
+        "working_class_labor"
+      ],
+      "lyrics_excerpt": "(Verse 1)\nStarted with some coffee, or what they call it here,\nTalkin' 'bout oat nipples, made Shay Bear grin ear to ear.\nThen a goat in a sweater, name of Harold, if you please,\nHad me on the pavemen...",
+      "status": "private",
+      "suggested_venues": [
+        "coffee_shop",
+        "festival",
+        "house_concert",
+        "listening_room"
+      ]
+    },
+    "through_the_silence": {
+      "title": "Through the Silence",
+      "themes": [
+        "abuse_trauma",
+        "heartbreak_loss",
+        "hometown_roots",
+        "music_songwriting",
+        "nature_outdoors",
+        "resilience_survival",
+        "working_class_labor"
+      ],
+      "lyrics_excerpt": "Verse 1:\nBorn in the shadow of a rusted cage,\nCoal dust scars and a heart’s old rage.\nWords stayed locked where the hurt runs deep,\nWhispers in the dark were mine to keep.\nChorus:\nYou gotta walk throu...",
+      "status": "private",
+      "suggested_venues": [
+        "amphitheater",
+        "coffee_shop",
+        "house_concert",
+        "listening_room",
+        "outdoor_venue",
+        "small_theater"
+      ]
+    },
+    "forever_happy": {
+      "title": "Forever Happy",
+      "themes": [
+        "faith_spirituality",
+        "freedom_wandering",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors",
+        "partying_celebration",
+        "resilience_survival"
+      ],
+      "lyrics_excerpt": "Verse 1:\nStepped to the edge where the blue runs free,\nWaves hit my heart like a melody.\nSun’s shinin’ down, got a brand-new view,\nEvery moment’s brighter ‘cause I’m here with you.\nChorus:\nWatchin’ fo...",
+      "status": "private",
+      "suggested_venues": [
+        "amphitheater",
+        "festival",
+        "outdoor_venue"
+      ]
+    },
+    "keep_singin_on": {
+      "title": "Keep Singin’ On",
+      "themes": [
+        "abuse_trauma",
+        "family",
+        "faith_spirituality",
+        "heartbreak_loss",
+        "hometown_roots",
+        "love_romance",
+        "music_songwriting",
+        "resilience_survival",
+        "working_class_labor"
+      ],
+      "lyrics_excerpt": "Verse 1:\nCame to this town with a song in my heart,\nVoice full of dreams, but the world’s played hard.\nWaitin’ on tables, sweepin’ floors till dawn,\nHoldin’ to hope when the money’s all gone.\nChorus:\n...",
+      "status": "private",
+      "suggested_venues": [
+        "coffee_shop",
+        "house_concert",
+        "listening_room"
+      ]
+    },
+    "going_viral_2": {
+      "title": "Going Viral",
+      "themes": [
+        "bar_setting",
+        "hometown_roots",
+        "music_songwriting",
+        "nature_outdoors",
+        "partying_celebration",
+        "rebellion_outlaw"
+      ],
+      "lyrics_excerpt": "Verse 1\nUp on the bluff where the wild winds sing,\nStrummed my old guitar, let my heartstrings ring.\nSang to the stars, just me and the night,\nNever thought my songs would catch fire online.\n\nChorus\nN...",
+      "status": "private",
+      "suggested_venues": [
+        "amphitheater",
+        "festival",
+        "honky_tonk",
+        "outdoor_venue",
+        "roadhouse"
+      ]
+    },
+    "through_the_silence_2": {
+      "title": "Through the Silence",
+      "themes": [
+        "abuse_trauma",
+        "heartbreak_loss",
+        "hometown_roots",
+        "music_songwriting",
+        "nature_outdoors",
+        "resilience_survival",
+        "working_class_labor"
+      ],
+      "lyrics_excerpt": "Verse 1:\nBorn in the shadow of a rusted cage,\nCoal dust scars and a heart’s old rage.\nWords stayed locked where the hurt runs deep,\nWhispers in the dark were mine to keep.\nChorus:\nYou gotta walk throu...",
+      "status": "private",
+      "suggested_venues": [
+        "amphitheater",
+        "coffee_shop",
+        "listening_room",
+        "outdoor_venue",
+        "small_theater"
+      ]
+    },
+    "the_songs_that_saved_me": {
+      "title": "The Songs That Saved Me",
+      "themes": [
+        "abuse_trauma",
+        "faith_spirituality",
+        "heartbreak_loss",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors",
+        "rebellion_outlaw",
+        "resilience_survival"
+      ],
+      "lyrics_excerpt": "Verse 1\nIn a trailer’s shadow, where the silence screamed,\nFound a rusted guitar, chased a broken dream.\nJohnny’s voice of hurt cut through my pain,\nWaylon’s rebel soul kept me sane.\n\nChorus\nSongs tha...",
+      "status": "private",
+      "suggested_venues": [
+        "festival"
+      ]
+    },
+    "empty_seat": {
+      "title": "Empty Seat",
+      "themes": [
+        "freedom_wandering",
+        "heartbreak_loss",
+        "hometown_roots",
+        "nature_outdoors",
+        "nostalgia"
+      ],
+      "lyrics_excerpt": "Verse 1\n\nEvery mornin’ she’d slip through that diner door,\n\nSame old booth, coffee black, nothin’ more.\n\nNever spoke, just stared where the shadows creep,\n\nToday her seat’s empty, and the silence cuts...",
+      "status": "private",
+      "suggested_venues": [
+        "coffee_shop",
+        "listening_room",
+        "small_theater"
+      ]
+    },
+    "coal_dust_on_the_lamb": {
+      "title": "Coal Dust on the Lamb",
+      "themes": [
+        "abuse_trauma",
+        "bar_setting",
+        "family",
+        "faith_spirituality",
+        "freedom_wandering",
+        "heartbreak_loss",
+        "hometown_roots",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors",
+        "nostalgia",
+        "rebellion_outlaw",
+        "working_class_labor"
+      ],
+      "lyrics_excerpt": "(Verse 1)\nSixteen summers bleedin' into fall,\nDaddy's shadow stretched across the wall.\nHis words like whiskey, burnin' down my throat,\nKicked me out to wander, wearin' a thin coat.\nPikeville hollers ...",
+      "status": "private",
+      "suggested_venues": [
+        "amphitheater",
+        "coffee_shop",
+        "dive_bar",
+        "honky_tonk",
+        "house_concert",
+        "listening_room",
+        "outdoor_venue",
+        "roadhouse",
+        "small_theater"
+      ]
+    },
+    "the_road_to_nashville": {
+      "title": "The Road to Nashville",
+      "themes": [
+        "bar_setting",
+        "faith_spirituality",
+        "freedom_wandering",
+        "hometown_roots",
+        "music_songwriting",
+        "nature_outdoors",
+        "partying_celebration",
+        "resilience_survival"
+      ],
+      "lyrics_excerpt": "Verse 1\nGot a beat-up truck and a guitar case,\nDreams burnin’ hotter than a summer’s blaze.\nLeavin’ small-town dust in my rearview glow,\nHeaded where the neon lights call my soul.\n\nChorus\nOn the road ...",
+      "status": "private",
+      "suggested_venues": [
+        "arena",
+        "festival",
+        "honky_tonk",
+        "roadhouse",
+        "stadium"
+      ]
+    },
+    "roots_torn_slow": {
+      "title": "Roots Torn Slow",
+      "themes": [
+        "abuse_trauma",
+        "faith_spirituality",
+        "heartbreak_loss",
+        "hometown_roots",
+        "love_romance",
+        "nature_outdoors",
+        "resilience_survival",
+        "working_class_labor"
+      ],
+      "lyrics_excerpt": "Some folks leave like a gust through the pines,\nFast and loud, gone before the night’s decline.\nBut you left like roots ripped from the ground,\nSlow and breakin’, didn’t make a sound.\nI stood there wa...",
+      "status": "private",
+      "suggested_venues": [
+        "amphitheater",
+        "outdoor_venue"
+      ]
+    },
+    "keep_singing_on": {
+      "title": "Keep Singing On",
+      "themes": [
+        "abuse_trauma",
+        "family",
+        "faith_spirituality",
+        "freedom_wandering",
+        "heartbreak_loss",
+        "love_romance",
+        "music_songwriting",
+        "resilience_survival",
+        "working_class_labor"
+      ],
+      "lyrics_excerpt": "Verse 1:\nCame to this town with a song in my heart,\nVoice full of dreams, but the world’s played hard.\nWaitin’ on tables, sweepin’ floors till dawn,\nHoldin’ to hope when the money’s all gone.\n\nChorus:...",
+      "status": "private",
+      "suggested_venues": [
+        "coffee_shop",
+        "house_concert",
+        "listening_room"
+      ]
+    },
+    "country_city_girl": {
+      "title": "Country City Girl",
+      "themes": [
+        "family",
+        "freedom_wandering",
+        "hometown_roots",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors",
+        "resilience_survival"
+      ],
+      "lyrics_excerpt": "(Verse 1)\nLeft the dirt roads in the dust, for streets all shiny bright,\nSwapped the quiet starry evenings for the buzz of city nights.\nPacked her dreams up in a suitcase, and her mama's good advice,\n...",
+      "status": "private",
+      "suggested_venues": []
+    },
+    "that_good_ol_90s_country": {
+      "title": "That Good Old 90s Country",
+      "themes": [
+        "faith_spirituality",
+        "hometown_roots",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors",
+        "nostalgia"
+      ],
+      "lyrics_excerpt": "[Verse 1]\n1992, dirt roads and FM gold\nGeorge Strait on the radio, stories being told\nLevi's worn thin, boots kicked up high\nChattahoochee memories under Georgia sky\n[Verse 2]\nGarth was king and Faith...",
+      "status": "private",
+      "suggested_venues": [
+        "coffee_shop",
+        "listening_room",
+        "small_theater"
+      ]
+    },
+    "gimme_that_black_brew": {
+      "title": "Gimme That Black Brew",
+      "themes": [
+        "bar_setting",
+        "faith_spirituality",
+        "hometown_roots",
+        "partying_celebration",
+        "resilience_survival",
+        "working_class_labor"
+      ],
+      "lyrics_excerpt": "Gimme That Black Brew\n\n**Verse 1**  \nWalked into a shop, thought I’d get a cup,  \nBut they’re pushin’ green tea dust, and I’m all fed up.  \nMatcha this, oat milk that, five bucks for a sip,  \nTastes l...",
+      "status": "private",
+      "suggested_venues": [
+        "bar_setting",
+        "festival",
+        "honky_tonk",
+        "roadhouse"
+      ]
+    },
+    "soul_food": {
+      "title": "Soul Food",
+      "themes": [
+        "family",
+        "faith_spirituality",
+        "hometown_roots",
+        "love_romance",
+        "music_songwriting",
+        "nostalgia",
+        "partying_celebration"
+      ],
+      "lyrics_excerpt": "Verse 1\nWalked through the door, grease poppin’ in the air,\nCornbread steamin’, love’s everywhere.\nMama’s in the kitchen, stirrin’ up a spell,\nPlates piled high, where the heart can dwell.\n\nChorus\nSou...",
+      "status": "private",
+      "suggested_venues": [
+        "church",
+        "festival",
+        "house_concert",
+        "revival"
+      ]
+    },
+    "miles_of_sorrow": {
+      "title": "Miles of Sorrow",
+      "themes": [
+        "freedom_wandering",
+        "heartbreak_loss",
+        "hometown_roots",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors",
+        "nostalgia",
+        "working_class_labor"
+      ],
+      "lyrics_excerpt": "(Verse 1)\nSunrise paints the cotton fields, another day begins\nBut the light don't shine so bright, since your love went on the winds\nWe built a life on promises, beneath a Georgia moon\nBut your city ...",
+      "status": "private",
+      "suggested_venues": [
+        "coffee_shop",
+        "honky_tonk",
+        "listening_room",
+        "small_theater"
+      ]
+    },
+    "miles_of_heartache": {
+      "title": "Miles of Heartache",
+      "themes": [
+        "freedom_wandering",
+        "heartbreak_loss",
+        "hometown_roots",
+        "love_romance",
+        "nature_outdoors",
+        "nostalgia"
+      ],
+      "lyrics_excerpt": "(Verse 1)\nSunrise paints the cotton fields, another day begins\nBut the light don't shine so bright no more, since you left for distant lands\nSaid you'd write, said you'd call, promised you'd always be...",
+      "status": "private",
+      "suggested_venues": [
+        "coffee_shop",
+        "honky_tonk",
+        "listening_room",
+        "small_theater"
+      ]
+    },
+    "friday_night_lights_in_honky_tonk_heaven": {
+      "title": "Friday Night Lights in Honky Tonk Heaven",
+      "themes": [
+        "bar_setting",
+        "faith_spirituality",
+        "heartbreak_loss",
+        "love_romance",
+        "music_songwriting",
+        "partying_celebration",
+        "working_class_labor"
+      ],
+      "lyrics_excerpt": "(Verse 1)\nSun sinkin' low, week's work is done\nDust off my boots, time for some fun\nGot my guitar, worn and well-loved\nReady to sing 'bout the heart I've been robbed\n(Chorus)\nFriday night lights in Ho...",
+      "status": "private",
+      "suggested_venues": [
+        "dive_bar",
+        "honky_tonk",
+        "roadhouse"
+      ]
+    },
+    "taco_town": {
+      "title": "Taco Town",
+      "themes": [
+        "hometown_roots",
+        "love_romance",
+        "music_songwriting",
+        "partying_celebration",
+        "working_class_labor"
+      ],
+      "lyrics_excerpt": "Verse 1\nRolled into town with a hunger to tame,\nSaw a food truck sign, didn’t know the name.\n“Taaah-cooows,” I drawled, with a puzzled grin,\nSomethin’ new was callin’, let the feast begin!\n\nChorus\nIt’...",
+      "status": "private",
+      "suggested_venues": [
+        "festival",
+        "honky_tonk",
+        "house_concert",
+        "outdoor_venue",
+        "roadhouse"
+      ]
+    },
+    "sound_of_silence": {
+      "title": "Sound of Silence",
+      "themes": [
+        "bar_setting",
+        "faith_spirituality",
+        "freedom_wandering",
+        "heartbreak_loss",
+        "music_songwriting",
+        "nature_outdoors",
+        "resilience_survival"
+      ],
+      "lyrics_excerpt": "[Verse 1]\nOne AM, bar closed down\nTook a shot of whiskey, it ain't helpin' now\nTo shut my mind off, stop it from racin'\nI turn to what I've been chasin'\n\n[Chorus]\nThe sound of silence\nI find it on the...",
+      "status": "private",
+      "suggested_venues": [
+        "coffee_shop",
+        "dive_bar",
+        "listening_room",
+        "small_theater"
+      ]
+    },
+    "runnin_late_to_church": {
+      "title": "Runnin’ Late to Church",
+      "themes": [
+        "bar_setting",
+        "faith_spirituality",
+        "hometown_roots",
+        "love_romance",
+        "partying_celebration",
+        "rebellion_outlaw"
+      ],
+      "lyrics_excerpt": "Verse 1\nWoke up with a stranger, tangled in the sheets,\nLipstick on my collar, boots stillMayor’s weight on my feet.\nClock’s tickin’ past nine, preacher’s gonna frown,\nGot a potluck dish to save my so...",
+      "status": "private",
+      "suggested_venues": [
+        "church",
+        "honky_tonk",
+        "revival"
+      ]
+    }
+  }
+}

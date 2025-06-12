@@ -1,0 +1,490 @@
+{
+  "venue_type": "honky_tonk",
+  "song_count": 32,
+  "songs": {
+    "a_song_and_a_beer": {
+      "title": "A Song and a Beer",
+      "status": "private",
+      "lyrics": "Verse 1\nDive bar buzzing, the city's aglow,\nPlaylist spinning songs we all know.\nBartender smiling, hands me a drink,\nTonight’s for forgetting, no time to think.\nPre-Chorus\nWearing life's marks, but the road stays clear,\nAll we need is good company and beer.\nChorus\nGive me a song and a beer, let the music play low,\nSing me a story everybody knows.\nThrough highs and lows, we find comfort right here,\nLife’s always better with a song and a beer.\nVerse 2\nWe share our laughter, let the heartaches unwind,\nMelodies lifting our hearts and our minds.\nRaise a toast to the good times we've had,\nTonight’s for the living, not feeling sad.\nPre-Chorus\nLife leaves its marks, but our spirits stay clear,\nGathered together with music and beer.\nChorus\nGive me a song and a beer, let the music play low,\nSing me a story everybody knows.\nThrough highs and lows, we find comfort right here,\nLife’s always better with a song and a beer.\nBridge\nEvery lyric’s a memory, each chorus our bond,\nFriendship and freedom, the music rolls on.\nThis place isn’t just bricks, it’s a feeling inside,\nStories unfolding beneath city lights.\nChorus\nGive me a song and a beer, let the music play low,\nSing me a story everybody knows.\nThrough highs and lows, we find comfort right here,\nLife’s always better with a song and a beer.\nOutro\nLift a glass to the night, watch the worries disappear,\nEverything’s alright with a song and a beer.",
+      "themes": [
+        "bar_setting",
+        "freedom_wandering",
+        "music_songwriting",
+        "nostalgia",
+        "partying_celebration",
+        "resilience_survival"
+      ]
+    },
+    "be_better_for_the_next_guy": {
+      "title": "Be Better for the Next Guy",
+      "status": "private",
+      "lyrics": "Verse 1\nI’m three whiskeys deep, flingin’ darts at the back wall,\nLaughin’ at your name etched on my shot glass.\nNo more lonely nights curled up by the telephone—\nI’ve found new roads past the diner where we fought.\nChorus\nSo here’s to you, sweeter than cherry pie—\nHope he buys those roses you let wither and die.\nWhen he’s pourin’ out his heart baby-blue, don’t make him cry—\nBe better for the next guy.\nVerse 2\nI’ll catch her eye across the bar when the jukebox spins our song,\nShe’ll think you’re heaven ’til your lies come undone.\nI’ll lift her up with shots of bourbon ’til she’s singin’ along,\nWhile you learn too late how to love someone.\nChorus (variation)\nSo here’s to you, spicier than a jalapeño—\nHope he feels the jagged scars you left on my chest.\nWhen he’s pouring out his soul, don’t put it to the test—\nBe better for the next guy.\nVerse 3\nSaw you last weekend at the state fair midway,\nYour eyes lit up just like they did back then.\nHe wore that nervous grin I know all too well—\nYou led him ’round like he was your only friend.\nOne prayer for that poor boy’s all I’ve got to give—\nMay you hold his hand tighter than you ever held mine.\nBridge\nAnd if he wakes up cold in your empty bed,\nOr finds your lipstick stains on someone else instead,\nTell him to head back to this Tennessee roadhouse—\nWhere broken hearts learn how to lose and forget.\nFinal Chorus\nSo here’s to you, sweeter than a Georgia peach—\nDon’t leave him sobbin’ under that big open sky.\nWhen he’s layin’ down his love, make sure you don’t lie—\nBe better for the next guy.",
+      "themes": [
+        "abuse_trauma",
+        "bar_setting",
+        "heartbreak_loss",
+        "hometown_roots",
+        "love_romance",
+        "music_songwriting"
+      ]
+    },
+    "born_in_hell": {
+      "title": "Born in Hell",
+      "status": "private",
+      "lyrics": "Verse 1\nCoal dust in my lungs, blood on the floor,\nDad’s fists kept time with the slam of the door.\nBorn in a town where the devil holds sway,\nI learned to take hits ‘fore I learned how to pray.\nPre-Chorus\nNo mercy in his eyes, no warmth in that house,\nJust a boy dodgin’ shadows, quiet as a mouse.\nChorus\nBorn in hell, where the sun don’t shine,\nTook my beatings daily, paid for his cheap wine.\nKicked out at sixteen, worked the mines to survive,\nIn the dark of that town, I kept my soul alive.\nVerse 2\nSchool by day, mines by night, no time to dream,\nRented a room with walls thin as a scream.\nSweat and black soot, my hands turned to stone,\nCarried my books and my scars all alone.\nPre-Chorus\nNo mother to hold me, no father to care,\nJust the weight of the world and the cold mountain air.\nChorus\nBorn in hell, where the sun don’t shine,\nTook my beatings daily, paid for his cheap wine.\nKicked out at sixteen, worked the mines to survive,\nIn the dark of that town, I kept my soul alive.\nBridge\nEvery bruise was a map of the hell I called home,\nEvery shift in the dark taught me how to roam.\nI wasn’t born to break, though they tried to bend,\nFound a spark in my heart that no devil could end.\nChorus\nBorn in hell, where the sun don’t shine,\nTook my beatings daily, paid for his cheap wine.\nKicked out at sixteen, worked the mines to survive,\nIn the dark of that town, I kept my soul alive.\nOutro\n*(Slow picking: E|-3---3---|)*\nBorn in hell… but I’m still breathin’",
+      "themes": [
+        "abuse_trauma",
+        "bar_setting",
+        "family",
+        "faith_spirituality",
+        "freedom_wandering",
+        "hometown_roots",
+        "nature_outdoors",
+        "rebellion_outlaw",
+        "resilience_survival",
+        "working_class_labor"
+      ]
+    },
+    "georgia_makes_the_devil_her_toy": {
+      "title": "Georgia Makes the Devil Her Toy",
+      "status": "private",
+      "lyrics": "The Devil crept back to Georgia,\nHis heart a smoldering wreck.\nTwice she’d won, left him undone,\nBut he craved her spellbound neck.\nHe found her lounging by a moonlit spring,\nHer skin aglow with wicked delight.\n“Georgia, you’ve won, but I ain’t done—\nLet’s tangle one last night.”\nShe arched a brow, her lips a curve,\n“Devil, you’re bold to try.\nYou’ve lost my game, but I’ll stake a claim,\nThis time, you’re *mine* to fry.”\nShe rose like smoke, her voice a hook,\nAnd pinned him with a stare.\n“Step to my tune, under this moon,\nOr crawl back to your lair.”\nChorus:\nEmbers in the night, her will’s the chain,\nGeorgia’s got the Devil on a short rein.\nSilk and steel, she’s calling the play,\nThe Devil’s just a toy in her sway.\nGeorgia moved like a voodoo queen,\nHer touch a brand on his soul.\nEach sultry glance spun a tighter dance,\nAnd she took complete control.\nHis pride dissolved in her honeyed grip,\nHis pleas a whispered song.\nShe wove her charm, disarmed his harm,\nAnd owned him all night long.\nWhen the sun spilled gold through the willow’s veil,\nThe Devil was hers to keep.\nBound by her spell, he couldn’t rebel,\nHis heart in her hands ran deep.\n“Darlin’, you’re mine,” she purred with a grin,\n“My toy ‘til I say when.”\nShe snapped her fingers, and off he slunk,\nTo serve her again and again.\nChorus:\nEmbers in the night, her will’s the chain,\nGeorgia’s got the Devil on a short rein.\nSilk and steel, she’s calling the play,\nThe Devil’s just a toy in her sway.\nOutro:\nThe Devil came down to Georgia,\nBut Georgia claimed the prize.\nShe turned that silver-tongued sinner\nInto a spark in her eyes.",
+      "themes": [
+        "faith_spirituality",
+        "hometown_roots",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors",
+        "rebellion_outlaw",
+        "resilience_survival"
+      ]
+    },
+    "get_it_on": {
+      "title": "Get it On",
+      "status": "private",
+      "lyrics": "Verse 1\nYour boots hit the hardwood, that grin’s pure sin,\nLeather hugs your curves, pullin’ trouble right in.\nJukebox kicks low, our shadows start to sway,\nYou drag me to the floor, and the night’s set ablaze.\nChorus\nGet it on, darlin’, let’s two-step this fire,\nQuick-quick, slow-slow, feedin’ my desire.\nHips move like whiskey, burnin’ through my mind,\nSpin me all night, girl, let’s cross every line.\nVerse 2\nYour breath’s a warm dare, brushin’ close to my skin,\nCrowd’s watchin’ us dance, but we’re lost in the spin.\nEach turn’s a temptation, each step’s a sweet fall,\nYour eyes lock on mine, and I’m riskin’ it all.\nChorus\nGet it on, darlin’, let’s two-step this fire,\nQuick-quick, slow-slow, feedin’ my desire.\nHips move like whiskey, burnin’ through my mind,\nSpin me all night, girl, let’s cross every line.\nBridge\nNo preacher can stop us, no saint’s gonna try,\nWe’re burnin’ this floor ‘neath a neon-lit sky.\nDip me down low, let the heat hit its peak,\nThis two-step’s our gospel, our salvation to seek.\nVerse 3\nNeon’s a fever, your touch is a spark,\nEvery quick step’s ignitin’ the dark.\nYou whisper, “Keep movin’,” with a devilish grin,\nThis dance is our rebel, our beautiful sin.\nChorus\nGet it on, darlin’, let’s two-step this fire,\nQuick-quick, slow-slow, feedin’ my desire.\nHips move like whiskey, burnin’ through my mind,\nSpin me all night, girl, let’s cross every line.\nOutro\nLast note’s fadin’, crowd’s thinnin’ out slow,\nYour lips graze my ear, sayin’, “Don’t let me go.”\nFrom the quick to the slow, it’s a hell of a ride,\nGet it on, darlin’, you’re my wildest high.",
+      "themes": [
+        "bar_setting",
+        "faith_spirituality",
+        "love_romance",
+        "nature_outdoors",
+        "partying_celebration",
+        "rebellion_outlaw"
+      ]
+    },
+    "i_raised_myself": {
+      "title": "I Raised Myself",
+      "status": "private",
+      "lyrics": "Verse 1\nCoal dust on my boots, blood on my hands,\nGrew up in a hell where no one understands.\nDad’s fist was his gospel, his bottle his creed,\nI learned to stand tall while my heart learned to bleed.\nPre-Chorus\nNo soft words, no shelter from the storm,\nJust a boy and a guitar keepin’ my soul warm.\nChorus\nNo lullabies, no ‘good job, son’ —\nJust the sound of doors slammin’ when the hard times come.\nScraped my knees and stitched my pride —\nI raised myself, and I survived.\nVerse 2\nKentucky nights taught me how to fight,\nDodgin’ his shadow in the dim porch light.\nStrummed my pain on strings rusted and worn,\nTurned my scars into songs before the dawn was born.\nPre-Chorus\nNo roadmap, no hand to hold me tight,\nJust a fire in my chest burnin’ through the night.\nChorus\nNo lullabies, no ‘good job, son’ —\nJust the sound of doors slammin’ when the hard times come.\nScraped my knees and stitched my pride —\nI raised myself, and I survived.\nBridge\nEvery bruise was a lesson, every tear was a flame,\nBuilt a man from the wreckage of a cursed last name.\nThis guitar’s my salvation, my truth, my fight,\nI raised myself to sing into the night.\nChorus\nNo lullabies, no ‘good job, son’ —\nJust the sound of doors slammin’ when the hard times come.\nScraped my knees and stitched my pride —\nI raised myself, and I survived.\nOutro\n*(Slow picking: E|-3---3---|)*\nI raised myself… and I’m still alive.",
+      "themes": [
+        "abuse_trauma",
+        "family",
+        "faith_spirituality",
+        "heartbreak_loss",
+        "hometown_roots",
+        "music_songwriting",
+        "rebellion_outlaw",
+        "resilience_survival",
+        "working_class_labor"
+      ]
+    },
+    "saturday_night_salvation": {
+      "title": "Saturday Night Salvation",
+      "status": "private",
+      "lyrics": "Verse 1\nGravel lot’s kickin’ up dust in the glow,\nJukebox blarin’ where the wild ones go.\nBoots stomp hard to a Haggard tune,\nNeon’s hummin’ under a Kentucky moon.\nPre-Chorus\nTailgates down beneath neon haze,\nSpilt laughter echoin’ neon blaze,\nWe chased release through Friday’s maze.\nChorus\nTailgates down, radios loud,\nFreedom tastes better when you’re lost in the crowd.\nRaise hell, raise hope, raise hands to the sky,\nFind Saturday night salvation before Monday dries.\nVerse 2\nShe’s dancin’ close, with a spark in her grin,\nLeather and denim, pullin’ me in.\nCold beer sweats in a red solo cup,\nWe’re livin’ for now, never givin’ up.\nPre-Chorus\nTailgates down beneath neon haze,\nSpilt laughter echoin’ neon blaze,\nWe chased release through Friday’s maze.\nChorus\nTailgates down, radios loud,\nFreedom tastes better when you’re lost in the crowd.\nRaise hell, raise hope, raise hands to the sky,\nFind Saturday night salvation before Monday dries.\nBridge\nFiddle screams high, cuttin’ through the night,\nEvery chord’s a spark, settin’ hearts alight.\nWe’re rebels and dreamers, breakin’ every chain,\nBaptized in the chaos, washed clean by the flame.\nChorus\nTailgates down, radios loud,\nFreedom tastes better when you’re lost in the crowd.\nRaise hell, raise hope, raise hands to the sky,\nFind Saturday night salvation before Monday dries.\nPost-Chorus\nDrunk on music, bruised by dawn’s light,\nWe stumble home from wild delight,\nHearts baptized in the endless night.\n**Outro** (Fiddle run: G|-3-5-7-5-3-0-|)\nStars fade slow, but we’re holdin’ on tight,\nLivin’ for the rush of a Saturday night.",
+      "themes": [
+        "bar_setting",
+        "faith_spirituality",
+        "freedom_wandering",
+        "hometown_roots",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors",
+        "partying_celebration",
+        "rebellion_outlaw"
+      ]
+    },
+    "the_devil_went_down_on_georgia": {
+      "title": "The Devil Went Down on Georgia",
+      "status": "private",
+      "lyrics": "(inspired by but not the same music as the original )\nVerse\nThe Devil went down on Georgia,\nHe was lookin' for a soul to tease.\nHe was feelin' bold, and truth be told,\nHe was itchin' for a little release.\nWhen he came across this fiery girl,\nDancin' in the midnight air,\nThe Devil tipped his hat and said,\n\"Girl, you got that devil-may-care.\"\n\"I guess you didn't know it, but I'm a pleaser too,\" he grinned,\n\"And if you care to take a dare, I'll show you where I've been.\nNow you strut so sweet, and you taste so fine,\nI'll lay my pride upon the line —\nIf you let me under that southern sky,\nI'll show you a helluva time.\"\nGeorgia said, \"My daddy warned me 'bout your kind, you rogue,\nBut I've got a wild side too, so go on, strike your pose!\"\nShe slipped her hands along his jaw,\nAnd whispered low and sly,\n\"If you're gonna play down in my field,\nYou better kiss the ground goodbye.\"\nChorus\nFire in the bayou, heat on the breeze,\nMoonlight melting down through the trees.\nSatin and smoke, and a slow, low moan —\nThe Devil's got Georgia in a world of her own.\nThe Devil laid low with a wicked grin,\nTook his time with a Southern spin,\nEvery kiss a little sin,\nGeorgia just pulled him in.\nVerse\nWhen the morning broke through pine and oak,\nGeorgia laughed and twirled,\nShe'd played that Devil like a fiddle and bow —\nAnd she owned the whole damn world.\nHe said, \"Girl, you are a wildfire —\nYou burned me to the bone.\"\nShe just smiled and tipped her hat,\nSaid, \"That's what you get for comin' down my road.\"\n(Chorus Repeat)\nFire in the bayou, heat on the breeze,\nMoonlight melting down through the trees.\nSatin and smoke, and a slow, low moan —\nThe Devil's got Georgia in a world of her own.\n(Outro)\nThe Devil went down on Georgia,\nBut Georgia ran the show —\nShe turned that red-hot sinner\nInto a puddle on the floor.",
+      "themes": [
+        "faith_spirituality",
+        "freedom_wandering",
+        "hometown_roots",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors",
+        "rebellion_outlaw",
+        "resilience_survival",
+        "working_class_labor"
+      ]
+    },
+    "the_girl_in_the_summer_dress": {
+      "title": "The Girl In The Summer Dress",
+      "status": "private",
+      "lyrics": "Verse 1\nShe sauntered in the diner, with a devilish sway,\nThat summer dress clingin’ in a dangerous way.\nOne wink over coffee, set my pulse to a race,\nGod makes the good stuff, and she owned that space.\nChorus\nOne look, one laugh, and the sparks flew free,\nA jolt of pure trouble meant just for me.\nHer touch was a tease, but it lit up my soul,\nThe girl in the summer dress took full control.\nVerse 2\nShe leaned in real close, stole my shades with a grin,\nHer whisper was velvet, brushed like fire on my skin.\nShe danced with a swagger, left my heart in a bind,\nOne graze of her fingers, and I lost my damn mind.\nChorus\nOne look, one laugh, and the sparks flew free,\nA jolt of pure trouble meant just for me.\nHer touch was a tease, but it lit up my soul,\nThe girl in the summer dress took full control.\nBridge\nNow the diner’s too tame, but her heat lingers on,\nThat mischievous glint in her eyes ain’t gone.\nI toast to the thrill, to the game that she played,\nOne taste of her magic, and my night was made.\nFinal Chorus\nOne look, one laugh, and I’m still feelin’ wild,\nA flash of her fire keeps this cowboy beguiled.\nHer touch was a tease, but it lit up my soul,\nThe girl in the summer dress—God, she was bold.",
+      "themes": [
+        "faith_spirituality",
+        "love_romance",
+        "partying_celebration",
+        "rebellion_outlaw"
+      ]
+    },
+    "phoenix_flight": {
+      "title": "Phoenix Flight",
+      "status": "private",
+      "lyrics": "Title:  Phoenix Flight\n(Verse 1)\nDust devils danced on the cracked, dry land\nReflection stared back, a ghost in my hand\nThought I was buried, six feet beneath the shame\nRattlesnake whisperin',  \"Ain't nobody else to blame.\"\nSun beatin' down, a crucible of pain\nBut something shifted, a low rumble in the rain.\n(Chorus)\nThese ashes ain't my ending, they're the fuel for the flame\nBurnin' off the past, risin' up with a new name\nNo more lookin' backward, no more chains to hold me down\nThis ain't a resurrection, this is a phoenix flight outta this town.\n(Verse 2)\nBuilt my own pyre with the regrets I'd held tight\nEvery broken promise, bathed in the fading light\nThe whispers turned to roars, the demons screamed and cried\nAs the flames licked higher, I felt the fear subside.\nLet the judgment fall, let the gossipers spin their lies\n'Cause the only truth that matters is the fire in my eyes.\n(Chorus)\nThese ashes ain't my ending, they're the fuel for the flame\nBurnin' off the past, risin' up with a new name\nNo more lookin' backward, no more chains to hold me down\nThis ain't a resurrection, this is a phoenix flight outta this town.\n(Bridge)\nThey thought they had me broken, thought I'd wither and fade\nBut they underestimated the wildfire I had made\nFrom the embers of heartbreak, a fierce spirit takes flight\nSoaring through the darkness, bathed in the morning light.\n(Chorus)\nThese ashes ain't my ending, they're the fuel for the flame\nBurnin' off the past, risin' up with a new name\nNo more lookin' backward, no more chains to hold me down\nThis ain't a resurrection, this is a phoenix flight outta this town.\n(Outro)\nYeah, a phoenix flight, a phoenix flight\nOutta this town, into the light.\nFlyin' high, leavin' the dust behind\nA phoenix flight, peace of mind.",
+      "themes": [
+        "heartbreak_loss",
+        "nature_outdoors",
+        "rebellion_outlaw",
+        "resilience_survival"
+      ]
+    },
+    "drink_to_the_family": {
+      "title": "Drink to the Family",
+      "status": "private",
+      "lyrics": "(Verse 1)\nDust on my boots from a road gone rough\nChased dreams that broke when the times got tough\nKin turned their backs, left scars on my hide\nBut I found my crew where the good vibes ride\nA shot of Jack burns the pain away\nThese friends are my home, they’re here to stay\n(Chorus)\nRaise a shot of Jack to the family that ain’t blood\nToast the ones who lift you from the mud\nWhen the world slams the door, they kick it in tight\nThese rowdy hearts blaze wild in the night\nHere’s to family, true and bold!\n(Verse 2)\nWorked ‘til my hands cracked, bones wore thin\nFelt every loss like a cold, hard sin\nGhosts try to drag me, but I ain’t alone\nMy posse’s my throne, this tailgate’s our zone\nA bottle of Bud, we pass it around\nLaugh ‘til we’re dizzy, no hurt to be found\n(Verse 3)\nMoonlight’s our spotlight, the stars set the stage\nRaisin’ hell together, we’re writin’ this page\nFights and hard nights, we’ve weathered the storm\nThese brothers and sisters, they keep my heart warm\nA jar of moonshine, it stings, but it’s sweet\nTo the kin that I chose, who make life complete\n(Bridge)\nThis old guitar wails a rebel’s tune\nSings of nights lit by a bonfire moon\nHere’s to the lost, the wild, the free\nThe ones who stood tall and drank with me\nThey’re my fight, my soul, my song\n(Chorus)\nRaise a shot of Jack to the family that ain’t blood\nToast the ones who lift you from the mud\nWhen the world slams the door, they kick it in tight\nThese rowdy hearts blaze wild in the night\nHere’s to family, true and bold!\n(Outro)\nYeah, true and bold, through the highs and the lows\nBottle of Bud, moonshine’s glow\nRaise a shot of Jack, let the good times roll",
+      "themes": [
+        "abuse_trauma",
+        "bar_setting",
+        "family",
+        "faith_spirituality",
+        "freedom_wandering",
+        "heartbreak_loss",
+        "hometown_roots",
+        "music_songwriting",
+        "nature_outdoors",
+        "partying_celebration",
+        "rebellion_outlaw",
+        "resilience_survival",
+        "working_class_labor"
+      ]
+    },
+    "hell_and_hymns": {
+      "title": "Hell and Hymns",
+      "status": "private",
+      "lyrics": "Verse 1\nFriday night, under neon’s roar,\nWhiskey’s pullin’ hard, settlin’ old scores.\nJukebox wails, hearts hit the floor,\nDancin’ through the haze, chasin’ something more.\nAnother week of grind, bones worn thin,\nSweat still burns where the work don’t end.\nBut tonight we’re alive, breakin’ every chain,\n‘Til the sunrise lights the sky with flame.\nPre-Chorus\nRunnin’ wild, but the soul’s still split,\nTorn between the dark and the holy lit.\nChorus\nHell and hymns, we’re caught in the fray,\nWhiskey sins, then we kneel to pray.\nThis heart keeps fightin’, searchin’ for release,\nBetween the devil’s fire and a savior’s peace.\nHell and hymns, our anthem’s cry,\nSaturday’s rebellion, Sunday’s sky.\nRisin’ from the ashes ‘neath a lonesome moon,\nLord, redeem these hands, scarred and strewn.\nVerse 2\nGuitar moans a lonesome plea,\nEmpty bottle spins, hauntin’ memories.\nFound that six-string in a junkyard’s shine,\nStrummed my soul where the wild winds whine.\nOld man’s shadow still stalks my days,\nHis bitter words like a hell that stays.\nBut mama’s prayers, they pull me through,\nWhisperin’ hope in the morning dew.\nPre-Chorus\nLivin’ rough, but the heart holds strong,\nSeekin’ light where the nights are long.\nChorus\nHell and hymns, we’re caught in the fray,\nWhiskey sins, then we kneel to pray.\nThis heart keeps fightin’, searchin’ for release,\nBetween the devil’s fire and a savior’s peace.\nHell and hymns, our anthem’s cry,\nSaturday’s rebellion, Sunday’s sky.\nRisin’ from the ashes ‘neath a lonesome moon,\nLord, redeem these hands, scarred and strewn.\nBridge\nNo preacher’s verse, just a worker’s call,\nCoal-dust dreams climbin’ past the fall.\nBeggin’ for a spark to break the night,\nFrom the shadows to salvation’s light.\nChorus\nHell and hymns, we’re caught in the fray,\nWhiskey sins, then we kneel to pray.\nThis heart keeps fightin’, searchin’ for release,\nBetween the devil’s fire and a savior’s peace.\nHell and hymns, our anthem’s cry,\nSaturday’s rebellion, Sunday’s sky.\nRisin’ from the ashes ‘neath a lonesome moon,\nLord, redeem these hands, scarred and strewn.\nOutro\n*(Fiddle soar, steady strum)*\nHell and hymns, my soul’s still tried,\nBut I’m risin’ up where the heart don’t hide.\nAmen.",
+      "themes": [
+        "abuse_trauma",
+        "bar_setting",
+        "family",
+        "faith_spirituality",
+        "heartbreak_loss",
+        "music_songwriting",
+        "nature_outdoors",
+        "nostalgia",
+        "partying_celebration",
+        "rebellion_outlaw",
+        "resilience_survival",
+        "working_class_labor"
+      ]
+    },
+    "when_you_cant_be_near_me": {
+      "title": "When You Can't Be Near Me",
+      "status": "private",
+      "lyrics": "(Verse 1) When you can't be near me, please think of me, I'm starin' at the highway, where you used to be. You're gone, my darlin', chasin' some new flame, But my heart's still ramblin', callin' out your name.\n(Pre-Chorus) This whiskey's cold, it don't ease the pain, Without you here, I'm half insane.\n(Chorus) When you can't be near me, oh, my lonesome soul, Keep me in your rearview, where the heartaches roll. Sing my name like a jukebox, broken, wild, and free, When you can't be near me, please think of me.\n(Verse 2) I'm thumbin' through old photos, on this cracked phone screen, Your smile's a ghost now, in this lonesome scene. Got your voice in my head, like a steel guitar's cry, Keeps me holdin' on, beneath this empty sky.\n(Pre-Chorus) The barstool's creakin', but it ain't my home, Without your touch, I'm destined to roam.\n(Chorus) When you can't be near me, oh, my lonesome soul, Keep me in your rearview, where the heartaches roll. Sing my name like a jukebox, broken, wild, and free, When you can't be near me, please think of me.\n(Bridge) So raise a glass, wherever you ride, Send a prayer on the wind, to the lonesome side. We'll cross paths again, down some dusty road, Till then, I'm carryin' this heavy load.\n(Chorus) When you can't be near me, oh, my lonesome soul, Keep me in your rearview, where the heartaches roll. Sing my name like a jukebox, broken, wild, and free, When you can't be near me, please think of me.\n(Outro) So when you're out there, under neon's glow, I'm still your rebel, in the shadows, you know. Till we're back together, where we're meant to be, When you can't be near me... please think of me. Yeah, think of me. (Oh, my lonesome soul.) Think of me.",
+      "themes": [
+        "abuse_trauma",
+        "bar_setting",
+        "faith_spirituality",
+        "freedom_wandering",
+        "heartbreak_loss",
+        "hometown_roots",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors",
+        "nostalgia",
+        "partying_celebration",
+        "rebellion_outlaw"
+      ]
+    },
+    "whiskey_dont_lie": {
+      "title": "Whiskey Don't Lie",
+      "status": "private",
+      "lyrics": "(Verse 1)\nI’m sittin’ at this barstool, with a neon glow,\nPourin’ out my heartache, where the jukebox flows.\nThe bartender knows me, he don’t ask my name,\nJust slides another whiskey, to kill the pain.\n(Pre-Chorus)\nThis dive bar’s my church, where the sinners pray,\nSpillin’ out their stories, till the break of day.\n(Chorus)\nWhiskey don’t lie, it tells it straight,\nBurns like the truth, no need to wait!\nRaise your glass high, let the heartache fly,\nSing it loud, boys, whiskey don’t lie!\n(Verse 2)\nThe gal I loved, she’s gone, took my ramblin’ heart,\nLeft me with this bottle, and a brand-new scar.\nBut this amber fire, it don’t judge my sins,\nJust lights up the shadows, where my night begins.\n(Pre-Chorus)\nThe jukebox is wailin’, but it can’t compare,\nTo the truth in this glass, and the pain we share.\n(Chorus)\nWhiskey don’t lie, it tells it straight,\nBurns like the truth, no need to wait!\nRaise your glass high, let the heartache fly,\nSing it loud, boys, whiskey don’t lie!\n(Bridge)\nSo here’s to the lost, and the ones we miss,\nTo the fights and the nights, sealed with a kiss.\nEvery drop’s a preacher, every sip’s a song,\nSing it with me, brothers, we’ll howl all night long!\n(Chorus)\nWhiskey don’t lie, it tells it straight,\nBurns like the truth, no need to wait!\nRaise your glass high, let the heartache fly,\nSing it loud, boys, whiskey don’t lie!\n(Outro)\nWhen the barroom’s empty, and the stars burn low,\nI’ll stumble to the highway, with nowhere to go.\nBut I’ll carry this gospel, till the day I die,\nSing it one more time—whiskey don’t lie!\nYeah, whiskey don’t lie! (Raise ‘em up high!)\nWhiskey don’t lie!\nAcoustic sound: A stripped-down, raw acoustic arrangement with a steady strumming pattern highlights the song's heartache, while a mournful fiddle weaves in and out, emphasizing the lament. The vocal delivery is gritty and vulnerable, carrying the story's emotional weight with a conversational honesty.\nPotential Sound:\nOutlaw Country Vibe: The song channels the raw, rebellious spirit of outlaw country with vivid imagery (neon, jukeboxes, barstools) and a narrator who’s both broken and defiant. The whiskey serves as a metaphor for unfiltered truth, tying into the genre’s honesty. Singalong Energy: The repetitive chorus (“Whiskey don’t lie, it tells it straight”) and simple, anthemic hooks are designed for a crowd to shout along, with gang vocals and a bridge that rallies everyone to join in. Modern Touches: References to phones or modern heartbreak are subtle, keeping the focus on timeless barroom camaraderie, but the tone feels relatable for 2025. Performance: Picture this in a sweaty honky-tonk or a modern country musical, with a charismatic frontman leading a raucous band (electric guitar, fiddle, piano, drums). The crowd stomps boots, clinks bottles, and sings the chorus at the top of their lungs.",
+      "themes": [
+        "abuse_trauma",
+        "bar_setting",
+        "faith_spirituality",
+        "freedom_wandering",
+        "heartbreak_loss",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors",
+        "partying_celebration",
+        "rebellion_outlaw"
+      ]
+    },
+    "run_from_the_reaper": {
+      "title": "Run From the Reaper",
+      "status": "private",
+      "lyrics": "(Verse 1)\nThe dust kicks up behind me, on this lonesome road,\nMy boots are worn to nothin’, carryin’ this load.\nGot a warrant in my pocket, and a devil on my trail,\nRunnin’ from the reaper, but I’m bound to fail.\n(Pre-Chorus)\nThe wind’s howlin’ my name, through the midnight air,\nGhosts of my sins, they’re closin’ in there.\n(Chorus)\nRun from the reaper, but he’s closin’ in,\nHears my heart a-beatin’, smells my every sin.\nThrough the canyons and the shadows, I’ll ride till I’m free,\nRun from the reaper, but he’s comin’ for me.\n(Verse 2)\nMy old Chevy’s screamin’, tires spittin’ gravel fast,\nChasin’ down redemption, but I’m haunted by the past.\nEvery milepost mocks me, every star burns cold,\nThis outlaw’s soul’s too heavy, for the stories I’ve told.\n(Pre-Chorus)\nThe law’s lights are flashin’, in my rearview glow,\nBut the reaper’s shadow’s darker, and he won’t let go.\n(Chorus)\nRun from the reaper, but he’s closin’ in,\nHears my heart a-beatin’, smells my every sin.\nThrough the canyons and the shadows, I’ll ride till I’m free,\nRun from the reaper, but he’s comin’ for me.\n(Bridge)\nI’ve burned too many bridges, left too many scars,\nStole a piece of heaven, under these cruel stars.\nBut if I keep on runnin’, maybe I’ll outsmart,\nThat cold hand of fate, tearin’ at my heart.\n(Chorus)\nRun from the reaper, but he’s closin’ in,\nHears my heart a-beatin’, smells my every sin.\nThrough the canyons and the shadows, I’ll ride till I’m free,\nRun from the reaper, but he’s comin’ for me.\n(Outro)\nSo I’ll race this endless highway, till my engine dies,\nWith the reaper in my mirror, and fire in my eyes.\nOne last shot at freedom, one last rebel plea,\nRun from the reaper… but he’s comin’ for me.\nYeah, he’s comin’ for me. (Keep on runnin’ free.)\nComin’ for me.\nAcoustic sound: A raw, heart-pounding acoustic ballad with an urgent, mid-tempo pulse blends stripped-down vulnerability with fierce intensity, anchored by driving guitar and weathered, urgent vocals that evoke a high-stakes personal journey.\nPotential Sound:\nA high-octane outlaw country rocker with a driving, mid-to-up-tempo pulse, blending gritty authenticity with cinematic intensity. Anchored by twangy electric guitars and a relentless acoustic strum, the track pulses with a galloping kick drum and a deep, rumbling bassline, evoking a fugitive’s desperate ride. A searing pedal steel wail and occasional banjo plucks add raw country soul, while sparse harmonica stabs heighten the tension. The vocal delivery is weathered and urgent, with gritty, conversational phrasing and subtle backing harmonies that carry a ghostly edge. The tone is rebellious, desperate, and vivid, conjuring a lone outlaw tearing through a desert under a blood-red sky, perfect for a high-stakes Western chase scene, a modern country musical climax, or a road-trip playlist staple.\nWhy It’s Not a Ballad:\nTempo and Energy: The song now has a faster, driving rhythm, with a galloping beat and urgent guitar riffs that evoke a chase rather than a slow, mournful ballad. The energy is high, pushing the narrative forward like a fugitive on the run. Outlaw Country Core: It retains the genre’s raw storytelling, with vivid imagery (dusty roads, warrants, Chevy trucks) and themes of regret and defiance, but the tempo and instrumentation (electric guitars, kick drum) give it a rocker’s edge, appealing to fans of both classic and modern country. Phrasing: The Bye Bye Birdie-inspired short, rhythmic lines (“Run from the reaper, but he’s closin’ in”) remain, delivered with a conversational, almost frantic cadence that suits the chase narrative and keeps the song catchy. Mainstream Potential: The driving beat, anthemic chorus, and cinematic vibe give it crossover appeal, similar to high-energy country hits that blend outlaw grit with radio-ready hooks. Sound::\nVibe: The song feels like a high-stakes escape, with the reaper as both a literal and metaphorical pursuer. It’s gritty enough for purists but polished enough for a broader audience, with a sound that could fit a modern country festival or a film soundtrack. Performance: Envision this in a smoky roadhouse or a dramatic musical scene, with a rugged singer in a leather jacket, backed by a tight band (electric guitar, banjo, pedal steel, drums). The chorus could ignite a crowd to stomp and sing along, while the bridge offers a moment of raw intensity. Imagery and Themes: The lyrics paint a vivid picture of a fugitive’s life—dusty trails, flashing lights, burning bridges—while hinting at redemption, keeping the emotional depth intact.",
+      "themes": [
+        "abuse_trauma",
+        "faith_spirituality",
+        "freedom_wandering",
+        "heartbreak_loss",
+        "nature_outdoors",
+        "rebellion_outlaw"
+      ]
+    },
+    "under_a_southern_sky": {
+      "title": "Under a Southern Sky",
+      "status": "private",
+      "lyrics": "(Verse 1)\nI was runnin’ on empty, down a two-lane road,\nChasin’ whiskey sunsets, with a heavy load.\nLeft my dreams in a dive bar, thought I’d lost my way,\nTill your smile lit the darkness, like a summer day.\n(Pre-Chorus)\nThis old heart was wanderin’, till you called my name,\nNow I’m standin’ in the starlight, and I’ll never be the same.\n(Chorus)\nI find my heart, find my soul, find you under a southern sky,\nWhere the pines whisper secrets, and the fireflies fly.\nWith your hand in mine, I’m alive, I’m whole,\nI find my heart, find my soul, under a southern sky.\n(Verse 2)\nWe danced in the moonlight, by a creek’s soft hum,\nBarefoot on the red dirt, to a banjo’s strum.\nYour laughter’s my compass, through the highs and lows,\nYou’re the home I never knew, where my restless spirit goes.\n(Pre-Chorus)\nNo more lone-star highways, no more lonesome fights,\nYou’re my rebel redemption, in the glow of the night.\n(Chorus)\nI find my heart, find my soul, find you under a southern sky,\nWhere the pines whisper secrets, and the fireflies fly.\nWith your hand in mine, I’m alive, I’m whole,\nI find my heart, find my soul, under a southern sky.\n(Bridge)\nWe’ve got scars from the battles, we’ve got stories to tell,\nFrom the honky-tonk heartaches to the heavens we fell.\nBut under these stars, with you by my side,\nI’ve found my forever, on this wild, sweet ride.\n(Chorus)\nI find my heart, find my soul, find you under a southern sky,\nWhere the pines whisper secrets, and the fireflies fly.\nWith your hand in mine, I’m alive, I’m whole,\nI find my heart, find my soul, under a southern sky.\n(Outro)\nSo let’s chase the horizon, where the dawn breaks wide,\nWith you, I’m unbroken, on this southern sky ride.\nI find my heart, find my soul, forever you and I,\nUnder a southern sky… under a southern sky.",
+      "themes": [
+        "abuse_trauma",
+        "bar_setting",
+        "faith_spirituality",
+        "freedom_wandering",
+        "heartbreak_loss",
+        "hometown_roots",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors",
+        "rebellion_outlaw",
+        "resilience_survival"
+      ]
+    },
+    "shadows_holler": {
+      "title": "Shadow’s Holler",
+      "status": "private",
+      "lyrics": "(Verse 1)\nIn the hollow where the river bends,\nA whisper fights the wind’s old trends.\nIt claws at the silence, sharp as a knife,\nBeggin’ to sing, but it fears the light.\n(Pre-Chorus)\nThe crows keep circlin’, they know my name,\nCallin’ me out, but I dodge the flame.\n(Chorus)\nShadow’s holler, screamin’ through the pines,\nCarries my truth, where the moonlight shines.\nIt roars in the dark, but it hides from the day,\nShadow’s holler, got too much to say.\n(Verse 2)\nThere’s a fire in the valley, burnin’ deep and low,\nWords carved in my bones, that the river knows.\nThey churn like a current, wild and untamed,\nBut the spotlight’s a hunter, and I’m the game.\n(Pre-Chorus)\nThose black wings hover, they won’t let me be,\nUrgin’ me loud, but I long to stay free.\n(Chorus)\nShadow’s holler, screamin’ through the pines,\nCarries my truth, where the moonlight shines.\nIt roars in the dark, but it hides from the day,\nShadow’s holler, got too much to say.\n(Bridge)\nI’ve seen the stage’s glow, a siren’s call,\nPromisin’ glory, but it takes it all.\nYet the echo in my chest, it won’t stay still,\nLike a ghost in the canyon, it’s hauntin’ me still.\n(Chorus)\nShadow’s holler, screamin’ through the pines,\nCarries my truth, where the moonlight shines.\nIt roars in the dark, but it hides from the day,\nShadow’s holler, got too much to say.\n(Outro)\nSo I’ll sing to the shadows, where the wild things roam,\nLet the river carry my heart back home.\nIn the quiet of the night, my truth’ll still fly,\nShadow’s holler, under a lonesome sky.\nYeah, shadow’s holler… forever I’ll hide.\nVibe: The song feels like a late-night confession in a pine forest, balancing the songwriter’s hidden truth with a universal yearning for expression. It’s introspective yet anthemic, fitting for both a dive bar and a festival stage. Performance: Picture the rugged artist in a flannel, strumming under stage lights with a band (acoustic, electric, pedal steel, banjo). The chorus invites quiet singalongs, and the bridge offers a raw, spotlight moment. For TikTok or busking, an acoustic version would emphasize the guitar’s twang and the vocals’ grit. Appeal: The allegorical storytelling and emotional depth resonate with country purists, while the melody and production could catch mainstream ears, potentially climbing charts or going viral on social media.\nSounds Like\nA mid-tempo outlaw country anthem with a brooding, soulful edge, blending gritty authenticity with mainstream polish for radio and festival appeal. Anchored by a twangy acoustic guitar’s rhythmic strum and a haunting electric guitar riff, the track pulses with a steady kick drum and a deep, rolling bassline. A mournful pedal steel weaves through the verses, while subtle banjo plucks and a distant harmonica wail in the bridge add rural depth. The vocal delivery is raw, emotive, and slightly weathered, with conversational phrasing and soaring harmonies that lift the chorus into an anthemic cry. The tone is introspective, yearning, and allegorical, evoking a lone songwriter wrestling with his truth under a moonlit pine forest, perfect for a modern country playlist, a cinematic drama, or a heartfelt live performance.",
+      "themes": [
+        "abuse_trauma",
+        "freedom_wandering",
+        "hometown_roots",
+        "music_songwriting",
+        "nature_outdoors",
+        "rebellion_outlaw"
+      ]
+    },
+    "canyons_cry": {
+      "title": "Canyon’s Cry",
+      "status": "private",
+      "lyrics": "(Verse 1)\nThere’s a storm in the canyon, tearin’ through my bones,\nThunder’s got my secrets, carved in jagged stones.\nIt howls to break the silence, begs to shake the sky,\nBut the sun’s a ruthless witness, and I’m scared to fly.\n(Pre-Chorus)\nThe wildfire’s callin’, it won’t let me hide,\nRagin’ for the truth, burnin’ deep inside.\n(Chorus)\nCanyon’s cry, roarin’ through the night,\nScreamin’ all my pain, in a blaze of light.\nIt’s wild, it’s fierce, gonna lift me high,\nCanyon’s cry, born to defy!\n(Verse 2)\nI’ve danced with desert shadows, where the vultures soar,\nClutchin’ truths too heavy, that I can’t ignore.\nThey claw to reach the heavens, like a river’s flood,\nBut the spotlight’s a vulture, circlin’ for my blood.\n(Pre-Chorus)\nThe lightning’s pushin’, it won’t let me stay,\nUrgin’ me to holler, chase the dark away.\n(Chorus)\nCanyon’s cry, roarin’ through the night,\nScreamin’ all my pain, in a blaze of light.\nIt’s wild, it’s fierce, gonna lift me high,\nCanyon’s cry, born to defy!\n(Bridge)\nI’ve seen the valley’s altar, where the brave ones fall,\nHeard the siren’s promise, but it steals it all.\nYet this fire in my veins, it’s a rebel’s spark,\nGonna shout my soul, tear the silence apart!\n(Chorus)\nCanyon’s cry, roarin’ through the night,\nScreamin’ all my pain, in a blaze of light.\nIt’s wild, it’s fierce, gonna lift me high,\nCanyon’s cry, born to defy!\n(Outro)\nSo I’ll ride this storm, where the wild winds wail,\nLet the canyon carry my truth’s old tale.\nWith the stars as my witness, I’ll set my pain free,\nCanyon’s cry… it’s livin’ in me.\nYeah, canyon’s cry! (Raise it to the sky!)\nLivin’ in me.\nVibe: The song feels like a thunderstorm in a desert canyon, with the narrator’s pain transforming into a defiant, uplifting cry. It’s intense enough for outlaw fans but anthemic for mainstream crowds, ideal for a festival climax or a movie’s triumphant moment. Performance: Picture the artist in a leather jacket, commanding a stage with a band (electric guitar, banjo, pedal steel, fiddle). The chorus sparks crowd chants, and the bridge could feature a dramatic guitar solo or vocal wail. For TikTok/busking, an acoustic version would rely on fierce strumming and raw vocals. Appeal: The blend of pain and empowerment, plus the driving energy, could make it a chart-climber or social media hit, resonating with listeners seeking catharsis.\nSounds Like\nFull Band/Studio: The polished production amplifies the song’s “raise you up” energy with a full ensemble (electric guitar, pedal steel, banjo, fiddle, drums), making it a radio-ready anthem with outlaw grit, ideal for a festival or soundtrack. Acoustic/Live/Busking: Stripped to a single acoustic guitar, the raw vocals and rhythmic strumming preserve the song’s intensity and pain, perfect for an intimate TikTok live stream or a Nashville street corner, where the allegorical lyrics shine.",
+      "themes": [
+        "abuse_trauma",
+        "faith_spirituality",
+        "heartbreak_loss",
+        "music_songwriting",
+        "nature_outdoors",
+        "rebellion_outlaw",
+        "resilience_survival"
+      ]
+    },
+    "tumbleweed_promises": {
+      "title": "Tumbleweed Promises",
+      "status": "private",
+      "lyrics": "(Verse 1)\nI left my heart in a diner, on a napkin stained with wine,\nScribbled sweet nothins’, swore I’d make you mine.\nBut the road’s a jealous lover, she don’t let me stay,\nNow those vows are driftin’, like tumbleweeds away.\n(Pre-Chorus)\nEvery mile I travel, I’m chasin’ what I lost,\nPayin’ for my freedom, but damn, what a cost.\n(Chorus)\nTumbleweed promises, rollin’ through my mind,\nWords I meant to keep, but left ‘em all behind.\nThey scatter in the wind, where the wild hearts roam,\nTumbleweed promises, never find a home.\n(Verse 2)\nYour laughter haunts the radio, in the static’s hum,\nSingin’ ‘bout forever, but forever never comes.\nI pass ghost-town motels, with their busted neon signs,\nWonderin’ if you’re out there, still callin’ me “mine.”\n(Pre-Chorus)\nThis guitar’s my preacher, strummin’ out my truth,\nCarvin’ out redemption, from the sins of my youth.\n(Chorus)\nTumbleweed promises, rollin’ through my mind,\nWords I meant to keep, but left ‘em all behind.\nThey scatter in the wind, where the wild hearts roam,\nTumbleweed promises, never find a home.\n(Bridge)\nI’ve loved in smoky barrooms, I’ve knelt in desert rain,\nSwore I’d be your shelter, but I brought you pain.\nYet somewhere in this dust, there’s a spark that won’t fade,\nA tumbleweed promise, that I’ll keep someday.\n(Chorus)\nTumbleweed promises, rollin’ through my mind,\nWords I meant to keep, but left ‘em all behind.\nThey scatter in the wind, where the wild hearts roam,\nTumbleweed promises, never find a home.\n(Outro)\nSo I’ll ride these endless highways, with a bottle and a song,\nHopin’ you’re still waitin’, though I’ve been gone too long.\nTill I find my way back, or the stars call me on,\nTumbleweed promises… keep rollin’ along.\nYeah, keep rollin’ along. (Tumbleweed dreams.)\nRollin’ along.\nVibe: The song feels like a late-night drive through a desert, with the narrator grappling with his transient life and lingering hope. It’s less intense than \"Reaper\" but equally compelling, with a balance of grit and melody. Performance: Picture the same artist performing this in a dimly lit roadhouse or on a festival stage, strumming a worn guitar with a band (acoustic, electric, pedal steel, harmonica). The chorus invites quiet singalongs, and the bridge could feature a spotlight on the singer’s raw delivery. Imagery and Themes: Lyrics evoke rural, transient life (diners, highways, tumbleweeds) while touching on universal emotions (love, regret, hope), making it relatable yet authentically country.\nSounds Like\nA soulful, mid-tempo outlaw country anthem with a reflective, road-worn vibe, blending gritty authenticity with radio-friendly hooks.",
+      "themes": [
+        "bar_setting",
+        "faith_spirituality",
+        "freedom_wandering",
+        "heartbreak_loss",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors",
+        "rebellion_outlaw"
+      ]
+    },
+    "church_of_country": {
+      "title": "Church of Country",
+      "status": "private",
+      "lyrics": "Verse 1\nI hit the stage on red dirt, where the heartland’s callin’ me,\nFrom dive bar smoke to stadiums, this is where I’m free.\nHank’s ghost in my guitar, Dolly’s shine in my soul,\nCountry’s fire in my bones, it’s the only life I know.\n\nPre-Chorus\nSteel guitars are my pulpit, banjo’s my battle cry,\nEvery scar’s a song I sing, reachin’ for the sky.\n\nChorus\nThis is the Church of Country, where the faithful raise a spark,\nJohnny’s growl, Shania’s strut, lightin’ up the dark.\nSing for Patsy, for Stapleton, let the fiddle break the chains,\nCountry’s pulse is beatin’ loud, runnin’ wild in our veins!\n\nVerse 2\nI’m singin’ Loretta’s truth, Willie’s ramblin’ road,\nGeorge Jones’ whiskey heartache, carryin’ the load.\nFrom Waylon’s outlaw thunder to Miranda’s rebel flame,\nEvery note’s my hallelujah, country’s my true name.\n\nPre-Chorus\nBoots stomp the rhythm, my voice’ll shake the ground,\nIn this Church of Country, salvation’s what I’ve found.\n\nChorus\nThis is the Church of Country, where the faithful raise a spark,\nJohnny’s growl, Shania’s strut, lightin’ up the dark.\nSing for Patsy, for Stapleton, let the fiddle break the chains,\nCountry’s pulse is beatin’ loud, runnin’ wild in our veins!\n\nBridge\nIt’s a honky-tonk redemption, where the broken find their fight,\nCash’s truth, Kacey’s grace, guidin’ me through the night.\nFrom backroad hymns to neon dreams, I’ll carry on the sound,\nCountry’s heart is mine to hold, forever glory-bound!\n\nFinal Chorus\nThis is the Church of Country, where the roots will never fade,\nLoretta’s coal dust soul, Alan’s river escapade.\nRaise a glass for every dreamer, let the banjo’s fire roar,\nCountry’s callin’ me to sing, now and evermore!\n\nOutro\n*(Fiddle tears the roof off, steel guitar screams)*\nChurch of Country, hear my voice, let the whole world know,\nThis is my salvation, where my rebel heart’ll go!\n*(Pyro pops, crowd roars)*\nHallelujah, country soul, Alex takes the show!",
+      "themes": [
+        "abuse_trauma",
+        "bar_setting",
+        "faith_spirituality",
+        "freedom_wandering",
+        "heartbreak_loss",
+        "hometown_roots",
+        "music_songwriting",
+        "nature_outdoors",
+        "partying_celebration",
+        "rebellion_outlaw",
+        "resilience_survival",
+        "working_class_labor"
+      ]
+    },
+    "workin_for_a_living": {
+      "title": "Workin' for a Living",
+      "status": "private",
+      "lyrics": "Verse 1\nDawn breaks hard, boots hit the ground,\nSweat’s my pay where the work is found.\nNo silver spoon, just a will to fight,\nPushin’ through the long days into the night.\n\nPre-Chorus\nBlisters on my hands, fire in my chest,\nEvery drop of sweat’s a step toward the best.\n\nChorus\nWorkin’ for a livin’, sunup till the stars burn bright,\nRough hands, tired bones, holdin’ on with all my might.\nAin’t got much, but I got heart, a spark that won’t let go,\nWorkin’ for a livin’, buildin’ dreams from the ground below.\n\nVerse 2\nFields of dust, factory’s hum,\nHaulin’ loads till my body’s numb.\nEvery ache’s a badge, every scar’s a sign,\nI’m carvin’ out a life that’s proud and mine.\n\nPre-Chorus\nNo shortcut’s callin’, no easy way,\nJust the grind that shapes me, day by day.\n\nChorus\nWorkin’ for a livin’, sunup till the stars burn bright,\nRough hands, tired bones, holdin’ on with all my might.\nAin’t got much, but I got heart, a spark that won’t let go,\nWorkin’ for a livin’, buildin’ dreams from the ground below.\n\nBridge\nRound the fire’s glow, we share the load,\nLaughin’ through the hurt, on this long road.\nFor the ones who toil, for the ones who strive,\nThis song’s for the workers keepin’ hope alive.\n\nChorus\nWorkin’ for a livin’, sunup till the stars burn bright,\nRough hands, tired bones, holdin’ on with all my might.\nAin’t got much, but I got heart, a spark that won’t let go,\nWorkin’ for a livin’, buildin’ dreams from the ground below.\n\nOutro\n(Fiddle kicks, steady strum)\nWorkin’ for a livin’, that’s my truth, my fight,\nFrom the break of dawn to the end of night.",
+      "themes": [
+        "abuse_trauma",
+        "freedom_wandering",
+        "heartbreak_loss",
+        "music_songwriting",
+        "nature_outdoors",
+        "resilience_survival",
+        "working_class_labor"
+      ]
+    },
+    "devil_came_back_for_georgia": {
+      "title": "Devil Came Back for Georgia",
+      "status": "private",
+      "lyrics": "The Devil Came Back to Georgia\nThe Devil came back to Georgia,\nHe was burnin’ for a second round.\nThat first defeat left his pride in heat,\nAnd he craved that sultry sound.\nHe found her swayin’ by a riverside,\nUnder stars that pulsed with sin,\nHer eyes like coals, she stirred his soul,\nAnd he swore he’d win her grin.\n“Well, darlin’, I’m back,” he purred with a leer,\n“Got a new game to ignite.\nYou scorched me once, but I’m no dunce,\nThis time I’ll own the night.”\nHe flicked his tongue, let the shadows hum,\nAnd the air grew thick with lust.\n“I’ll raise the stakes, make no mistake,\nThis dance’ll turn you to dust.”\nGeorgia laughed, her voice like wine,\n“Devil, you’re barkin’ up my tree.\nYou think you’re sly, but I’ll make you cry,\n‘Cause this fire belongs to me.”\nShe stepped in close, her breath a tease,\nLet her fingers graze his chest.\n“Bring your best, I’ll do the rest,\nAnd put your wicked heart to rest.”\nChorus:\nSparks on the river, flames in the dark,\nGeorgia’s got that untamed spark.\nVelvet and venom, a dangerous game,\nThe Devil’s lost in Georgia’s flame.\nThe Devil moved with a serpent’s grace,\nEvery touch a fevered spell.\nHe wove his charm, thought he’d do no harm,\nBut Georgia knew his hell.\nShe matched his heat, step for step,\nHer hips a taunting dare,\nEach whispered word made his senses blur,\nTill he was drowning in her stare.\nWhen the dawn crept soft through the cypress shade,\nThe Devil knelt, undone.\nGeorgia smirked, her magic worked,\nShe’d played him ‘til she’d won.\n“You thought you’d tame me, sweet Lucifer,\nBut I’m the queen of this domain.”\nShe blew a kiss, left him in bliss,\nAnd sent him back to his pain.\nChorus:\nSparks on the river, flames in the dark,\nGeorgia’s got that untamed spark.\nVelvet and venom, a dangerous game,\nThe Devil’s lost in Georgia’s flame.\nOutro:\nThe Devil came back to Georgia,\nBut Georgia stole the crown.\nShe spun that sly ol’ sinner\nAnd burned his kingdom down.",
+      "themes": [
+        "faith_spirituality",
+        "heartbreak_loss",
+        "hometown_roots",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors",
+        "rebellion_outlaw",
+        "resilience_survival"
+      ]
+    },
+    "my_kentucky_heartbeat": {
+      "title": "My Kentucky Heartbeat",
+      "status": "private",
+      "lyrics": "(Verse 1)\nSunrise paints these Blue Ridge Mountains, but I'm already caked in mine grime\nAnother shift done, countin' pennies, losin' track of time.\nThis old pickup's my four walls now, under the Kentucky moon so wide\nBut thinkin' of your West Coast smile, girl, eases the ache inside.\n(Chorus)\nHey, Shay, my Kentucky Heartbeat, my steady ground so true,\nMiles can't change this rhythm I only find in you.\nEvery sunrise I fight for, every dollar I make,\nIs for your California dream, no matter what it takes.\n(Verse 2)\nRemember Blackberry Creek, dust devils dancin' in the summer heat?\nFelt like magic then, your hand in mine, oh, bitter and so sweet.\nNow your picture on the dash, it guides me through the dark and lonely road\nHelps me carry every burden, helps me lift this heavy load.\n(Chorus)\nHey, Shay, my Kentucky Heartbeat, my steady ground so true,\nMiles can't change this rhythm I only find in you.\nEvery sunrise I fight for, every dollar I make,\nIs for your California dream, no matter what it takes.\n(Bridge)\nThese calloused hands have known the sting of cold and burnin' steel\nPlayed a rusted, found guitar, makin' all this heartache real.\nBut you heard the truth within the noise, a song beneath the pain\nMy Shay Bear, your belief in me, it washes off the stains.\n(Chorus)\nHey, Shay, my Kentucky Heartbeat, my steady ground so true,\nMiles can't change this rhythm I only find in you.\nEvery sunrise I fight for, every dollar I make,\nIs for your California dream, no matter what it takes.\n(Outro)\nYeah, my Kentucky Heartbeat, thumpin' just for you, Shay Bear. \nMore than just some words, girl, this is my earnest prayer.\nMy truth, my song, for you",
+      "themes": [
+        "abuse_trauma",
+        "family",
+        "faith_spirituality",
+        "freedom_wandering",
+        "heartbreak_loss",
+        "hometown_roots",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors",
+        "nostalgia",
+        "rebellion_outlaw",
+        "resilience_survival",
+        "working_class_labor"
+      ]
+    },
+    "going_viral_2": {
+      "title": "Going Viral",
+      "status": "private",
+      "lyrics": "Verse 1\nUp on the bluff where the wild winds sing,\nStrummed my old guitar, let my heartstrings ring.\nSang to the stars, just me and the night,\nNever thought my songs would catch fire online.\n\nChorus\nNow they say I’m goin’ viral, whatever that might mean,\nLittle screens all lit up, craziest thing I’ve seen!\nSingin’ ‘bout Georgia and the Devil’s dance,\nJust a bluff-top dreamer takin’ one wild chance!\n\nVerse 2\nCrowd packed tight at the town’s old bar,\nHollered I’d get nekked, pushed it just too far.\nFiddle screamed hot, ‘bout the Devil and the deal,\nWhole place roared, felt the floorboards reel.\n\nChorus\nNow they say I’m goin’ viral, whatever that might mean,\nLittle screens all lit up, craziest thing I’ve seen!\nSingin’ ‘bout Georgia and the Devil’s dance,\nJust a bluff-top dreamer takin’ one wild chance!\n\nBridge\nAin’t no stage I planned, just truth in my soul,\nSongs from the heart made the whole world roll.\nFrom a lonesome wind to a million views,\nGuess my voice sparked fire in folks’ old boots!\n\nChorus\nNow they say I’m goin’ viral, whatever that might mean,\nLittle screens all lit up, craziest thing I’ve seen!\nSingin’ ‘bout Georgia and the Devil’s dance,\nJust a bluff-top dreamer takin’ one wild chance!\n\nOutro\n(Claps, hollers, fiddle wails)\nYeah, goin’ viral, still don’t know the score,\nJust me and my songs, and that bluff’s wild roar!",
+      "themes": [
+        "bar_setting",
+        "hometown_roots",
+        "music_songwriting",
+        "nature_outdoors",
+        "partying_celebration",
+        "rebellion_outlaw"
+      ]
+    },
+    "coal_dust_on_the_lamb": {
+      "title": "Coal Dust on the Lamb",
+      "status": "private",
+      "lyrics": "(Verse 1)\nSixteen summers bleedin' into fall,\nDaddy's shadow stretched across the wall.\nHis words like whiskey, burnin' down my throat,\nKicked me out to wander, wearin' a thin coat.\nPikeville hollers echoed with my shame,\nInnocence a flicker, dyin' in the flame.\n\n(Verse 2)\nFound a floor to sleep on, kindness in a stranger's eye,\nBut the mountain cold seeped in, beneath a starless sky.\nTraded school books for a pick and shovel's weight,\nCoal dust settled on my dreams, sealin' up their fate.\nThis broken arm, a constant ache, a twisted memory,\nOf a boy who used to dream beneath a dogwood tree.\n\n(Chorus)\nCoal dust on the lamb, a stain that won't come clean,\nLost my way back home, a forgotten, faded scene.\nThese coal-stained hands, they hold the weight of sin,\nPrayin' for redemption, hopin' God lets me in.\n\n(Verse 3)\nSunrise paints the mountain ridge, a fiery, bloody hue,\nAnother day of breakin' back, another debt to accrue.\nThe fields stretch out before me, endless rows of green,\nBut all I see is darkness, a fractured, broken scene.\nThis ain't the life I pictured,  beneath the mountain's gaze,\nJust a broken boy, lost in a lonely, hazy maze.\n\n(Bridge)\nMama's hymnals echo, a whisper in the wind,\nA memory of comfort, a peace I can't pretend.\nWill I ever feel that grace again, that gentle, lovin' hand?\nOr am I destined to wander, a ghost in this promised land?\n\n(Chorus)\nCoal dust on the lamb, a stain that won't come clean,\nLost my way back home, a forgotten, faded scene.\nThese coal-stained hands, they hold the weight of sin,\nPrayin' for redemption, hopin' God lets me in.\n\n(Outro)\nLord, have mercy, on this coal-stained soul,\nLead me back to the fold, make me whole. \nMake me whole.",
+      "themes": [
+        "abuse_trauma",
+        "bar_setting",
+        "family",
+        "faith_spirituality",
+        "freedom_wandering",
+        "heartbreak_loss",
+        "hometown_roots",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors",
+        "nostalgia",
+        "rebellion_outlaw",
+        "working_class_labor"
+      ]
+    },
+    "the_road_to_nashville": {
+      "title": "The Road to Nashville",
+      "status": "private",
+      "lyrics": "Verse 1\nGot a beat-up truck and a guitar case,\nDreams burnin’ hotter than a summer’s blaze.\nLeavin’ small-town dust in my rearview glow,\nHeaded where the neon lights call my soul.\n\nChorus\nOn the road to Nashville, sing it loud and free!\nChasin’ stars and honky-tonks, where I’m meant to be!\nFrom the backroads to the bright lights, feel the thrill,\nOn the road to Nashville, I’m climbin’ that hill!\n\nVerse 2\nSweet tea sippin’, boots tappin’ the floor,\nSingin’ my heart out, knockin’ on doors.\nEvery mile’s a story, every note’s a fight,\nSouthern grit’s pushin’ me through the night.\n\nChorus\nOn the road to Nashville, sing it loud and free!\nChasin’ stars and honky-tonks, where I’m meant to be!\nFrom the backroads to the bright lights, feel the thrill,\nOn the road to Nashville, I’m climbin’ that hill!\n\nBridge\nRaise a bottle, let the fiddle wail,\nEvery dreamer’s got a tale to tell!\nWith a song in my soul and fire in my veins,\nNashville’s callin’, breakin’ all my chains!\n\nChorus\nOn the road to Nashville, sing it loud and free!\nChasin’ stars and honky-tonks, where I’m meant to be!\nFrom the backroads to the bright lights, feel the thrill,\nOn the road to Nashville, I’m climbin’ that hill!\n\nOutro\n(Claps, hollers, banjo rolls)\nOn the road to Nashville, never standin’ still,\nSing it proud, keep pushin’, got a dream to fill!\nFrom the heartland to the stage, I’m risin’ high,\nOn the road to Nashville, reachin’ for the sky!",
+      "themes": [
+        "bar_setting",
+        "faith_spirituality",
+        "freedom_wandering",
+        "hometown_roots",
+        "music_songwriting",
+        "nature_outdoors",
+        "partying_celebration",
+        "resilience_survival"
+      ]
+    },
+    "gimme_that_black_brew": {
+      "title": "Gimme That Black Brew",
+      "status": "private",
+      "lyrics": "Gimme That Black Brew\n\n**Verse 1**  \nWalked into a shop, thought I’d get a cup,  \nBut they’re pushin’ green tea dust, and I’m all fed up.  \nMatcha this, oat milk that, five bucks for a sip,  \nTastes like lawn clippings, burns a hole in my grip.  \n\n**Chorus**  \nGimme that black brew, punch me as it goes down!  \nStrong like a mule kick, wake this small-town clown!  \nNo fads, no frills, just coffee dark and true,  \nGimme that black brew, that’s what’ll get me through!  \n\n**Verse 2**  \nBarista’s talkin’ foam art, syrups by the score,  \nI just want a jolt, not a fancy pour.  \nOat milk’s got no nipples, that ain’t no cow’s delight,  \nNeed a brew to shake me, keep me workin’ till the night.  \n\n**Chorus**  \nGimme that black brew, punch me as it goes down!  \nStrong like a mule kick, wake this small-town clown!  \nNo fads, no frills, just coffee dark and true,  \nGimme that black brew, that’s what’ll get me through!  \n\n**Bridge**  \nRaise a mug to the grind, to the simple and plain,  \nNo hipster nonsense cloggin’ up my brain!  \nJust boil it thick, let it scald my soul,  \nBlack brew’s the fire that makes me whole!  \n\n**Chorus**  \nGimme that black brew, punch me as it goes down!  \nStrong like a mule kick, wake this small-town clown!  \nNo fads, no frills, just coffee dark and true,  \nGimme that black brew, that’s what’ll get me through!  \n\n**Outro**  \n(Claps, hollers, banjo twang)  \nGimme that black brew, none of that LA fake,  \nPour it strong, keep me wide awake!",
+      "themes": [
+        "bar_setting",
+        "faith_spirituality",
+        "hometown_roots",
+        "partying_celebration",
+        "resilience_survival",
+        "working_class_labor"
+      ]
+    },
+    "miles_of_sorrow": {
+      "title": "Miles of Sorrow",
+      "status": "private",
+      "lyrics": "(Verse 1)\nSunrise paints the cotton fields, another day begins\nBut the light don't shine so bright, since your love went on the winds\nWe built a life on promises, beneath a Georgia moon\nBut your city dreams called louder, than my love could ever croon\n(Chorus)\nMiles of sorrow stretch between us, a highway paved with tears\nEach mile a memory fading, swallowed by the passing years\nWe said forever, honey, but forever couldn't hold\nAgainst the pull of distance, a story left untold\n(Verse 2)\nRemember dancin' in the hayloft, beneath the summer stars?\nYour laughter like a mockingbird, escaping rusty bars\nWe swore our love was stronger, than any earthly pain\nBut the miles kept piling higher, a relentless, driving rain\n(Chorus)\nMiles of sorrow stretch between us, a highway paved with tears\nEach mile a memory fading, swallowed by the passing years\nWe said forever, honey, but forever couldn't hold\nAgainst the pull of distance, a story left untold\n(Bridge)\nI see your face in every sunset, hear your voice in every breeze\nBut the silence in this farmhouse, just echoes my unease\nI shoulda held you tighter, darling, shoulda fought with all my might\nBut the distance won the battle, and stole away my light\n(Chorus)\nMiles of sorrow stretch between us, a highway paved with tears\nEach mile a memory fading, swallowed by the passing years\nWe said forever, honey, but forever couldn't hold\nAgainst the pull of distance, a story left untold\n(Outro)\nMiles of sorrow… miles and miles of sorrow…",
+      "themes": [
+        "freedom_wandering",
+        "heartbreak_loss",
+        "hometown_roots",
+        "love_romance",
+        "music_songwriting",
+        "nature_outdoors",
+        "nostalgia",
+        "working_class_labor"
+      ]
+    },
+    "miles_of_heartache": {
+      "title": "Miles of Heartache",
+      "status": "private",
+      "lyrics": "(Verse 1)\nSunrise paints the cotton fields, another day begins\nBut the light don't shine so bright no more, since you left for distant lands\nSaid you'd write, said you'd call, promised you'd always be near\nBut the miles stretched out between us, fueled by doubt and fear.\n(Chorus)\nMiles of heartache, winding roads of sorrow,\nEvery mile a memory, of a love we couldn't borrow\nFrom the future, from the years, from a life we'd planned to share\nNow just miles of heartache, and a love beyond repair.\n(Verse 2)\nRemember dancin' in the moonlight, beneath the summer sky?\nYour laughter echoed in the fields, a song that made me fly.\nWe built a dream on promises, as solid as the ground\nBut the city lights and city life, tore our love unbound.\n(Chorus)\nMiles of heartache, winding roads of sorrow,\nEvery mile a memory, of a love we couldn't borrow\nFrom the future, from the years, from a life we'd planned to share\nNow just miles of heartache, and a love beyond repair.\n(Bridge)\nI keep your picture by my bed, a faded photograph\nA constant reminder of the love, that distance stole, alas.\nMaybe someday I'll forget, the pain that cuts so deep\nBut until then, these miles of heartache, are the only truth I keep.\n(Chorus)\nMiles of heartache, winding roads of sorrow,\nEvery mile a memory, of a love we couldn't borrow\nFrom the future, from the years, from a life we'd planned to share\nNow just miles of heartache, and a love beyond repair.\n(Outro)\nMiles… miles of heartache… yeah… gone…",
+      "themes": [
+        "freedom_wandering",
+        "heartbreak_loss",
+        "hometown_roots",
+        "love_romance",
+        "nature_outdoors",
+        "nostalgia"
+      ]
+    },
+    "friday_night_lights_in_honky_tonk_heaven": {
+      "title": "Friday Night Lights in Honky Tonk Heaven",
+      "status": "private",
+      "lyrics": "(Verse 1)\nSun sinkin' low, week's work is done\nDust off my boots, time for some fun\nGot my guitar, worn and well-loved\nReady to sing 'bout the heart I've been robbed\n(Chorus)\nFriday night lights in Honky Tonk Heaven, yeah\nWhiskey's flowin', music's playin' clear\nBroken hearts mendin', laughter ringin' true\nUnderneath the neon glow, me and you\n(Verse 2)\nSaw ol' Jimmy Joe, lookin' kinda blue\nLost his woman, don't know what to do\nBut tonight's for forgettin', leavin' troubles behind\nLet the music wash over, ease his weary mind\n(Chorus)\nFriday night lights in Honky Tonk Heaven, yeah\nWhiskey's flowin', music's playin' clear\nBroken hearts mendin', laughter ringin' true\nUnderneath the neon glow, me and you\n(Bridge)\nThis ain't no church, but souls find grace here\nIn the twangin' guitars and the clinking of beer\nWe share our stories, our joys and our pain\nFindin' solace 'til the sun shines again\n(Chorus)\nFriday night lights in Honky Tonk Heaven, yeah\nWhiskey's flowin', music's playin' clear\nBroken hearts mendin', laughter ringin' true\nUnderneath the neon glow, me and you\n(Outro)\nYeah, Friday night lights, burnin' bright and bold\nAnother story in this Honky Tonk's been told",
+      "themes": [
+        "bar_setting",
+        "faith_spirituality",
+        "heartbreak_loss",
+        "love_romance",
+        "music_songwriting",
+        "partying_celebration",
+        "working_class_labor"
+      ]
+    },
+    "taco_town": {
+      "title": "Taco Town",
+      "status": "private",
+      "lyrics": "Verse 1\nRolled into town with a hunger to tame,\nSaw a food truck sign, didn’t know the name.\n“Taaah-cooows,” I drawled, with a puzzled grin,\nSomethin’ new was callin’, let the feast begin!\n\nChorus\nIt’s taco time, y’all, grab a messy bite!\nCorn and meat, so cheap, lightin’ up the night!\nSpicy kick, hands slick, lovin’ every thrill,\nTaco time, givin’ my heart a fill!\n\nVerse 2\nBit that tortilla, flavors burstin’ free,\nJuice down my chin, felt like heaven to me.\nOnions, cilantro, a little hot sting,\nThis workin’ man’s food makes my soul wanna sing.\n\nChorus\nIt’s taco time, y’all, grab a messy bite!\nCorn and meat, so cheap, lightin’ up the night!\nSpicy kick, hands slick, lovin’ every thrill,\nTaco time, givin’ my heart a fill!\n\nBridge\nPass the salsa, let the good times roll,\nEvery bite’s a fire warmin’ up my soul!\nFrom a stranger’s plate to a lover’s smile,\nTacos bring us closer, country style!\n\nChorus\nIt’s taco time, y’all, grab a messy bite!\nCorn and meat, so cheap, lightin’ up the night!\nSpicy kick, hands slick, lovin’ every thrill,\nTaco time, givin’ my heart a fill!\n\nOutro\n(Claps, hollers, banjo twang)\nTaco time, yeah, it’s my new jam,\nFrom a small-town boy to a taco man!",
+      "themes": [
+        "hometown_roots",
+        "love_romance",
+        "music_songwriting",
+        "partying_celebration",
+        "working_class_labor"
+      ]
+    },
+    "runnin_late_to_church": {
+      "title": "Runnin’ Late to Church",
+      "status": "private",
+      "lyrics": "Verse 1\nWoke up with a stranger, tangled in the sheets,\nLipstick on my collar, boots stillMayor’s weight on my feet.\nClock’s tickin’ past nine, preacher’s gonna frown,\nGot a potluck dish to save my soul in this town.\n\nChorus\nRunnin’ late to church, with a sinner’s grin,\nLast night’s whiskey still burnin’ deep within.\nTater casserole’s ridin’ shotgun in my truck,\nPrayin’ for grace, hopin’ for luck.\n\nVerse 2\nHer perfume’s on my shirt, can’t shake the devil’s sway,\nDashboard Jesus judgin’ every mile I stray.\nGravy flies, I’m speedin’ down that old dirt road,\nGotta get to service ‘fore the choir sings.\n\nChorus\nRunnin’ late to church, with a sinner’s grin,\nLast night’s whiskey still burnin’ deep within.\nTater casserole’s ridin’ shotgun in my truck,\nPrayin’ for grace, hopin’ for luck.\n\nBridge\nBarstool confessions won’t cleanse my soul,\nBut a pan of cornbread might make the preacher whole.\nSlide in the back pew, dodge the deacon’s stare,\nLord, forgive me, I’m almost there.\n\nChorus\nRunnin’ late to church, with a sinner’s grin,\nLast night’s whiskey still burnin’ deep within.\nTater casserole’s ridin’ shotgun in my truck,\nPrayin’ for grace, hopin’ for luck.\n\nOutro\n(Claps, hollers, banjo twang)\nLate to church, but I’m here with my dish,\nSaved by the potluck, thank God for this wish!",
+      "themes": [
+        "bar_setting",
+        "faith_spirituality",
+        "hometown_roots",
+        "love_romance",
+        "partying_celebration",
+        "rebellion_outlaw"
+      ]
+    }
+  }
+}
