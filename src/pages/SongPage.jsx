@@ -1,0 +1,221 @@
+import React from 'react'
+import { useParams, Link } from 'react-router-dom'
+import { useSongs } from '../context/SongContext'
+import { useCopyToClipboard } from '../hooks/useCopyToClipboard'
+import { 
+  ArrowLeft, 
+  Copy, 
+  Edit, 
+  Music, 
+  Tag, 
+  MapPin, 
+  FileText,
+  Volume2,
+  Disc
+} from 'lucide-react'
+
+const SongPage = () => {
+  const { songId } = useParams()
+  const { getSongById, loading } = useSongs()
+  const { copyToClipboard, copied } = useCopyToClipboard()
+
+  const song = getSongById(songId)
+
+  if (loading) {
+    return (
+      <div className="max-w-4xl mx-auto">
+        <div className="animate-pulse">
+          <div className="h-8 bg-gray-700 rounded mb-4 w-1/3"></div>
+          <div className="h-6 bg-gray-700 rounded mb-8 w-1/4"></div>
+          <div className="space-y-4">
+            {Array.from({ length: 10 }).map((_, i) => (
+              <div key={i} className="h-4 bg-gray-700 rounded w-full"></div>
+            ))}
+          </div>
+        </div>
+      </div>
+    )
+  }
+
+  if (!song) {
+    return (
+      <div className="max-w-4xl mx-auto text-center py-12">
+        <Music className="w-16 h-16 text-gray-600 mx-auto mb-4" />
+        <h1 className="text-2xl font-bold mb-2">Song Not Found</h1>
+        <p className="text-gray-400 mb-6">The song you're looking for doesn't exist.</p>
+        <Link to="/" className="btn btn-primary">
+          <ArrowLeft className="w-4 h-4" />
+          Back to Songs
+        </Link>
+      </div>
+    )
+  }
+
+  const handleCopy = () => {
+    const copyText = `Title: ${song.title}
+
+Lyrics:
+${song.lyrics}
+
+${song.sounds_like_acoustic ? `Sounds Like (Acoustic): ${song.sounds_like_acoustic}` : ''}
+${song.sounds_like_recording ? `Sounds Like (Recording): ${song.sounds_like_recording}` : ''}`
+
+    copyToClipboard(copyText)
+  }
+
+  return (
+    <div className="max-w-4xl mx-auto">
+      {/* Header */}
+      <div className="flex items-center justify-between mb-8">
+        <Link 
+          to="/" 
+          className="btn btn-ghost"
+        >
+          <ArrowLeft className="w-4 h-4" />
+          Back to Songs
+        </Link>
+
+        <div className="flex items-center gap-2">
+          <button
+            onClick={handleCopy}
+            className="btn btn-secondary"
+          >
+            <Copy className="w-4 h-4" />
+            Copy Details
+          </button>
+          
+          <Link
+            to={`/song/${songId}/edit`}
+            className="btn btn-primary"
+          >
+            <Edit className="w-4 h-4" />
+            Edit Song
+          </Link>
+        </div>
+      </div>
+
+      {/* Song Title and Status */}
+      <div className="mb-8">
+        <h1 className="text-4xl font-bold mb-4">{song.title}</h1>
+        
+        {song.status && (
+          <span className="inline-block px-3 py-1 bg-gray-700 text-gray-300 rounded-lg text-sm">
+            {song.status}
+          </span>
+        )}
+      </div>
+
+      {/* Main Content Grid */}
+      <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
+        {/* Lyrics - Main Content */}
+        <div className="lg:col-span-2">
+          <div className="card">
+            <div className="flex items-center gap-2 mb-4">
+              <FileText className="w-5 h-5 text-red-600" />
+              <h2 className="text-xl font-semibold">Lyrics</h2>
+            </div>
+            
+            {song.lyrics ? (
+              <div className="whitespace-pre-wrap text-gray-300 leading-relaxed">
+                {song.lyrics}
+              </div>
+            ) : (
+              <p className="text-gray-500 italic">No lyrics available</p>
+            )}
+          </div>
+
+          {/* Notes */}
+          {song.notes && (
+            <div className="card mt-6">
+              <h2 className="text-xl font-semibold mb-4">Notes</h2>
+              <div className="text-gray-300 whitespace-pre-wrap">
+                {song.notes}
+              </div>
+            </div>
+          )}
+        </div>
+
+        {/* Sidebar */}
+        <div className="space-y-6">
+          {/* Themes */}
+          {song.themes && song.themes.length > 0 && (
+            <div className="card">
+              <div className="flex items-center gap-2 mb-4">
+                <Tag className="w-5 h-5 text-blue-600" />
+                <h3 className="text-lg font-semibold">Themes</h3>
+              </div>
+              <div className="flex flex-wrap gap-2">
+                {song.themes.map((theme) => (
+                  <Link
+                    key={theme}
+                    to={`/theme/${theme}`}
+                    className="tag tag-theme hover:bg-blue-600 transition-colors"
+                  >
+                    {theme.replace(/_/g, ' ')}
+                  </Link>
+                ))}
+              </div>
+            </div>
+          )}
+
+          {/* Suggested Venues */}
+          {song.suggested_venues && song.suggested_venues.length > 0 && (
+            <div className="card">
+              <div className="flex items-center gap-2 mb-4">
+                <MapPin className="w-5 h-5 text-green-600" />
+                <h3 className="text-lg font-semibold">Suggested Venues</h3>
+              </div>
+              <div className="flex flex-wrap gap-2">
+                {song.suggested_venues.map((venue) => (
+                  <Link
+                    key={venue}
+                    to={`/venue/${venue}`}
+                    className="tag tag-venue hover:bg-green-600 transition-colors"
+                  >
+                    {venue.replace(/_/g, ' ')}
+                  </Link>
+                ))}
+              </div>
+            </div>
+          )}
+
+          {/* Sounds Like */}
+          {(song.sounds_like_acoustic || song.sounds_like_recording) && (
+            <div className="card">
+              <div className="flex items-center gap-2 mb-4">
+                <Volume2 className="w-5 h-5 text-purple-600" />
+                <h3 className="text-lg font-semibold">Sounds Like</h3>
+              </div>
+              
+              {song.sounds_like_acoustic && (
+                <div className="mb-4">
+                  <h4 className="font-medium text-purple-400 mb-2">Acoustic</h4>
+                  <p className="text-gray-300 text-sm leading-relaxed">
+                    {song.sounds_like_acoustic}
+                  </p>
+                </div>
+              )}
+              
+              {song.sounds_like_recording && (
+                <div>
+                  <h4 className="font-medium text-purple-400 mb-2">Recording</h4>
+                  <p className="text-gray-300 text-sm leading-relaxed">
+                    {song.sounds_like_recording}
+                  </p>
+                </div>
+              )}
+            </div>
+          )}
+        </div>
+      </div>
+
+      {copied && (
+        <div className="toast">
+          Song details copied to clipboard!
+        </div>
+      )}
+    </div>
+  )
+}
+
+export default SongPage
