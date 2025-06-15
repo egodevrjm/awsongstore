@@ -3,13 +3,14 @@ import { Link, useNavigate } from 'react-router-dom'
 import { useSongs } from '../context/SongContext'
 import GitHubConfig from '../components/GitHubConfig'
 import ImageUpload from '../components/ImageUpload'
-import { ArrowLeft, Save, Plus, Music, Tag, MapPin, Upload, X } from 'lucide-react'
+import { ArrowLeft, Save, Plus, Music, Tag, MapPin, Upload, X, Settings, AlertTriangle } from 'lucide-react'
 import { useGitHubUpload } from '../hooks/useGitHubUpload'
 import { GitHubAPI } from '../utils/githubApi'
+import { CatalogUpdater } from '../utils/catalogUpdater'
 
 const AddSongPage = () => {
   const navigate = useNavigate()
-  const { songs, updateSong } = useSongs()
+  const { songs, updateSong, reload } = useSongs()
   
   const [formData, setFormData] = useState({
     song_id: '',
@@ -28,6 +29,8 @@ const AddSongPage = () => {
   const [githubConfig, setGitHubConfig] = useState(null)
   const [showGitHubConfig, setShowGitHubConfig] = useState(false)
   const [saving, setSaving] = useState(false)
+  const [updateCatalogs, setUpdateCatalogs] = useState(true)
+  const [saveProgress, setSaveProgress] = useState({ step: '', progress: 0 })
   
   // Theme and venue management
   const [newTheme, setNewTheme] = useState('')
@@ -164,6 +167,8 @@ const AddSongPage = () => {
       // If GitHub is configured, save the song file to the repository
       if (githubConfig) {
         try {
+          // Step 1: Save the song file
+          setSaveProgress({ step: 'Saving song file...', progress: 20 })
           const github = new GitHubAPI(
             githubConfig.token,
             githubConfig.owner,
@@ -179,18 +184,32 @@ const AddSongPage = () => {
             `Add new song: ${formData.title}`,
             githubConfig.branch || 'main'
           )
+          
+          // Step 2: Update catalog files if requested
+          if (updateCatalogs) {
+            setSaveProgress({ step: 'Updating catalog files...', progress: 50 })
+            const catalogUpdater = new CatalogUpdater(githubConfig)
+            const result = await catalogUpdater.updateAllCatalogs(newSong)
+            console.log('Catalog update result:', result)
+          }
+          
+          setSaveProgress({ step: 'Finalizing...', progress: 90 })
         } catch (error) {
           console.error('Failed to save to GitHub:', error)
           alert(`Warning: Song created locally but failed to save to GitHub: ${error.message}`)
         }
       }
       
-      // Add to local state (this would normally be handled by your backend)
+      // Add to local state
       updateSong(formData.song_id, newSong)
       
-      // Simulate save delay
-      await new Promise(resolve => setTimeout(resolve, 1000))
+      // Reload data to get updated catalogs
+      setSaveProgress({ step: 'Reloading data...', progress: 95 })
+      await reload()
       
+      setSaveProgress({ step: 'Complete!', progress: 100 })
+      
+      // Navigate to the new song page
       navigate(`/song/${formData.song_id}`)
     } catch (error) {
       console.error('Error saving song:', error)
@@ -257,6 +276,25 @@ const AddSongPage = () => {
             onConfigChange={setGitHubConfig}
             initialConfig={githubConfig}
           />
+        </div>
+      )}
+
+      {/* Save Progress */}
+      {saving && saveProgress.step && (
+        <div className="mb-8 card bg-gray-800/80">
+          <h3 className="text-lg font-medium mb-4">Saving Song</h3>
+          <div className="space-y-4">
+            <div className="flex items-center justify-between">
+              <span className="text-gray-300">{saveProgress.step}</span>
+              <span className="text-sm text-gray-400">{saveProgress.progress}%</span>
+            </div>
+            <div className="w-full bg-gray-700 rounded-full h-2">
+              <div
+                className="h-2 rounded-full bg-green-500 transition-all duration-300"
+                style={{ width: `${saveProgress.progress}%` }}
+              />
+            </div>
+          </div>
         </div>
       )}
 
@@ -589,6 +627,50 @@ const AddSongPage = () => {
             placeholder="Additional notes about the song..."
           />
         </div>
+
+        {/* GitHub Catalog Update Options */}
+        {githubConfig && (
+          <div className="card">
+            <div className="flex items-center gap-2 mb-6">
+              <Settings className="w-5 h-5 text-yellow-600" />
+              <h2 className="text-xl font-semibold">GitHub Repository Updates</h2>
+            </div>
+            
+            <div className="flex items-start gap-3">
+              <input
+                type="checkbox"
+                id="update-catalogs"
+                checked={updateCatalogs}
+                onChange={() => setUpdateCatalogs(!updateCatalogs)}
+                className="mt-1"
+              />
+              <div>
+                <label htmlFor="update-catalogs" className="font-medium cursor-pointer">
+                  Update catalog files
+                </label>
+                <p className="text-sm text-gray-400 mt-1">
+                  Automatically update catalog.json, search.json, theme files, and venue files
+                  when saving this song. This ensures your song appears in all relevant listings.
+                </p>
+              </div>
+            </div>
+            
+            {!updateCatalogs && (
+              <div className="mt-4 p-4 bg-yellow-600/20 border border-yellow-600/30 rounded-lg">
+                <div className="flex items-start gap-3">
+                  <AlertTriangle className="w-5 h-5 text-yellow-400 flex-shrink-0 mt-0.5" />
+                  <div>
+                    <h4 className="font-medium text-yellow-400 mb-1">Warning</h4>
+                    <p className="text-sm text-yellow-200">
+                      Without updating catalog files, your new song will not appear in search results,
+                      theme pages, or venue pages until you manually update those files or reload the application.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            )}
+          </div>
+        )}
       </div>
     </div>
   )

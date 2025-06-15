@@ -3,12 +3,14 @@ import { useParams, Link, useNavigate } from 'react-router-dom'
 import { useSongs } from '../context/SongContext'
 import GitHubConfig from '../components/GitHubConfig'
 import ImageUpload from '../components/ImageUpload'
-import { ArrowLeft, Save, Upload, X, Settings } from 'lucide-react'
+import { ArrowLeft, Save, Upload, X, Settings, AlertTriangle } from 'lucide-react'
+import { GitHubAPI } from '../utils/githubApi'
+import { CatalogUpdater } from '../utils/catalogUpdater'
 
 const EditSongPage = () => {
   const { songId } = useParams()
   const navigate = useNavigate()
-  const { getSongById, updateSong } = useSongs()
+  const { getSongById, updateSong, reload } = useSongs()
   
   const song = getSongById(songId)
   
@@ -18,7 +20,9 @@ const EditSongPage = () => {
     notes: '',
     sounds_like_acoustic: '',
     sounds_like_recording: '',
-    status: 'private'
+    status: 'private',
+    themes: [],
+    suggested_venues: []
   })
   
   const [images, setImages] = useState([])
@@ -26,6 +30,12 @@ const EditSongPage = () => {
   const [githubConfig, setGitHubConfig] = useState(null)
   const [showGitHubConfig, setShowGitHubConfig] = useState(false)
   const [saving, setSaving] = useState(false)
+  const [updateCatalogs, setUpdateCatalogs] = useState(true)
+  const [saveProgress, setSaveProgress] = useState({ step: '', progress: 0 })
+  
+  // Theme and venue management
+  const [newTheme, setNewTheme] = useState('')
+  const [newVenue, setNewVenue] = useState('')
 
   useEffect(() => {
     if (song) {
@@ -35,7 +45,9 @@ const EditSongPage = () => {
         notes: song.notes || '',
         sounds_like_acoustic: song.sounds_like_acoustic || '',
         sounds_like_recording: song.sounds_like_recording || '',
-        status: song.status || 'private'
+        status: song.status || 'private',
+        themes: song.themes || [],
+        suggested_venues: song.suggested_venues || []
       })
       
       // Load existing images and audio files if any
@@ -43,6 +55,11 @@ const EditSongPage = () => {
       setAudioFiles(song.audio_files || [])
     }
   }, [song])
+
+  // Get existing themes and venues from all songs
+  const { songs } = useSongs()
+  const existingThemes = [...new Set(songs.flatMap(song => song.themes || []))].sort()
+  const existingVenues = [...new Set(songs.flatMap(song => song.suggested_venues || []))].sort()
 
   const handleInputChange = (e) => {
     const { name, value } = e.target
@@ -75,25 +92,122 @@ const EditSongPage = () => {
     setAudioFiles(prev => prev.filter(audio => audio.id !== audioId))
   }
 
+  // Theme management
+  const addTheme = (theme) => {
+    const normalizedTheme = theme.toLowerCase().replace(/\s+/g, '_')
+    if (normalizedTheme && !formData.themes.includes(normalizedTheme)) {
+      setFormData(prev => ({
+        ...prev,
+        themes: [...prev.themes, normalizedTheme]
+      }))
+    }
+  }
+
+  const removeTheme = (theme) => {
+    setFormData(prev => ({
+      ...prev,
+      themes: prev.themes.filter(t => t !== theme)
+    }))
+  }
+
+  const handleAddNewTheme = () => {
+    if (newTheme.trim()) {
+      addTheme(newTheme.trim())
+      setNewTheme('')
+    }
+  }
+
+  // Venue management
+  const addVenue = (venue) => {
+    const normalizedVenue = venue.toLowerCase().replace(/\s+/g, '_')
+    if (normalizedVenue && !formData.suggested_venues.includes(normalizedVenue)) {
+      setFormData(prev => ({
+        ...prev,
+        suggested_venues: [...prev.suggested_venues, normalizedVenue]
+      }))
+    }
+  }
+
+  const removeVenue = (venue) => {
+    setFormData(prev => ({
+      ...prev,
+      suggested_venues: prev.suggested_venues.filter(v => v !== venue)
+    }))
+  }
+
+  const handleAddNewVenue = () => {
+    if (newVenue.trim()) {
+      addVenue(newVenue.trim())
+      setNewVenue('')
+    }
+  }
+
   const handleSave = async () => {
+    if (!formData.title.trim()) {
+      alert('Please enter a song title')
+      return
+    }
+
     setSaving(true)
     
     try {
       const updatedSong = {
+        ...song,
         ...formData,
         images,
         audio_files: audioFiles,
         updated_at: new Date().toISOString()
       }
       
+      // If GitHub is configured, save the song file to the repository
+      if (githubConfig) {
+        try {
+          // Step 1: Save the song file
+          setSaveProgress({ step: 'Saving song file...', progress: 20 })
+          const github = new GitHubAPI(
+            githubConfig.token,
+            githubConfig.owner,
+            githubConfig.repo
+          )
+
+          const songContent = JSON.stringify(updatedSong, null, 2)
+          const base64Content = btoa(unescape(encodeURIComponent(songContent)))
+          
+          await github.uploadFile(
+            `songs/${songId}.json`,
+            base64Content,
+            `Update song: ${formData.title}`,
+            githubConfig.branch || 'main'
+          )
+          
+          // Step 2: Update catalog files if requested
+          if (updateCatalogs) {
+            setSaveProgress({ step: 'Updating catalog files...', progress: 50 })
+            const catalogUpdater = new CatalogUpdater(githubConfig)
+            const result = await catalogUpdater.updateAllCatalogs(updatedSong)
+            console.log('Catalog update result:', result)
+          }
+          
+          setSaveProgress({ step: 'Finalizing...', progress: 90 })
+        } catch (error) {
+          console.error('Failed to save to GitHub:', error)
+          alert(`Warning: Song updated locally but failed to save to GitHub: ${error.message}`)
+        }
+      }
+      
+      // Update local state
       updateSong(songId, updatedSong)
       
-      // Simulate save delay
-      await new Promise(resolve => setTimeout(resolve, 1000))
+      // Reload data to get updated catalogs
+      setSaveProgress({ step: 'Reloading data...', progress: 95 })
+      await reload()
+      
+      setSaveProgress({ step: 'Complete!', progress: 100 })
       
       navigate(`/song/${songId}`)
     } catch (error) {
       console.error('Error saving song:', error)
+      alert('Failed to save song. Please try again.')
     } finally {
       setSaving(false)
     }
@@ -159,6 +273,25 @@ const EditSongPage = () => {
         </div>
       )}
 
+      {/* Save Progress */}
+      {saving && saveProgress.step && (
+        <div className="mb-8 card bg-gray-800/80">
+          <h3 className="text-lg font-medium mb-4">Saving Song</h3>
+          <div className="space-y-4">
+            <div className="flex items-center justify-between">
+              <span className="text-gray-300">{saveProgress.step}</span>
+              <span className="text-sm text-gray-400">{saveProgress.progress}%</span>
+            </div>
+            <div className="w-full bg-gray-700 rounded-full h-2">
+              <div
+                className="h-2 rounded-full bg-green-500 transition-all duration-300"
+                style={{ width: `${saveProgress.progress}%` }}
+              />
+            </div>
+          </div>
+        </div>
+      )}
+
       {/* Form */}
       <div className="space-y-6">
         {/* Basic Info */}
@@ -204,6 +337,160 @@ const EditSongPage = () => {
             className="w-full h-96"
             placeholder="Enter song lyrics..."
           />
+        </div>
+
+        {/* Themes */}
+        <div className="card">
+          <div className="flex items-center gap-2 mb-6">
+            <Tag className="w-5 h-5 text-blue-600" />
+            <h2 className="text-xl font-semibold">Themes</h2>
+          </div>
+          
+          {/* Current Themes */}
+          {formData.themes.length > 0 && (
+            <div className="mb-4">
+              <div className="flex flex-wrap gap-2">
+                {formData.themes.map((theme) => (
+                  <span
+                    key={theme}
+                    className="tag tag-theme flex items-center gap-2"
+                  >
+                    {theme.replace(/_/g, ' ')}
+                    <button
+                      onClick={() => removeTheme(theme)}
+                      className="hover:text-red-400"
+                    >
+                      <X className="w-3 h-3" />
+                    </button>
+                  </span>
+                ))}
+              </div>
+            </div>
+          )}
+
+          {/* Add Existing Theme */}
+          {existingThemes.length > 0 && (
+            <div className="mb-4">
+              <label className="block text-sm font-medium mb-2">Add Existing Theme</label>
+              <select
+                onChange={(e) => {
+                  if (e.target.value) {
+                    addTheme(e.target.value)
+                    e.target.value = ''
+                  }
+                }}
+                className="w-full"
+              >
+                <option value="">Select a theme...</option>
+                {existingThemes
+                  .filter(theme => !formData.themes.includes(theme))
+                  .map(theme => (
+                    <option key={theme} value={theme}>
+                      {theme.replace(/_/g, ' ')}
+                    </option>
+                  ))}
+              </select>
+            </div>
+          )}
+
+          {/* Add New Theme */}
+          <div>
+            <label className="block text-sm font-medium mb-2">Add New Theme</label>
+            <div className="flex gap-2">
+              <input
+                type="text"
+                value={newTheme}
+                onChange={(e) => setNewTheme(e.target.value)}
+                onKeyPress={(e) => e.key === 'Enter' && handleAddNewTheme()}
+                className="flex-1"
+                placeholder="Enter new theme"
+              />
+              <button
+                onClick={handleAddNewTheme}
+                className="btn btn-secondary"
+              >
+                <Plus className="w-4 h-4" />
+                Add
+              </button>
+            </div>
+          </div>
+        </div>
+
+        {/* Venues */}
+        <div className="card">
+          <div className="flex items-center gap-2 mb-6">
+            <MapPin className="w-5 h-5 text-green-600" />
+            <h2 className="text-xl font-semibold">Suggested Venues</h2>
+          </div>
+          
+          {/* Current Venues */}
+          {formData.suggested_venues.length > 0 && (
+            <div className="mb-4">
+              <div className="flex flex-wrap gap-2">
+                {formData.suggested_venues.map((venue) => (
+                  <span
+                    key={venue}
+                    className="tag tag-venue flex items-center gap-2"
+                  >
+                    {venue.replace(/_/g, ' ')}
+                    <button
+                      onClick={() => removeVenue(venue)}
+                      className="hover:text-red-400"
+                    >
+                      <X className="w-3 h-3" />
+                    </button>
+                  </span>
+                ))}
+              </div>
+            </div>
+          )}
+
+          {/* Add Existing Venue */}
+          {existingVenues.length > 0 && (
+            <div className="mb-4">
+              <label className="block text-sm font-medium mb-2">Add Existing Venue</label>
+              <select
+                onChange={(e) => {
+                  if (e.target.value) {
+                    addVenue(e.target.value)
+                    e.target.value = ''
+                  }
+                }}
+                className="w-full"
+              >
+                <option value="">Select a venue...</option>
+                {existingVenues
+                  .filter(venue => !formData.suggested_venues.includes(venue))
+                  .map(venue => (
+                    <option key={venue} value={venue}>
+                      {venue.replace(/_/g, ' ')}
+                    </option>
+                  ))}
+              </select>
+            </div>
+          )}
+
+          {/* Add New Venue */}
+          <div>
+            <label className="block text-sm font-medium mb-2">Add New Venue</label>
+            <div className="flex gap-2">
+              <input
+                type="text"
+                value={newVenue}
+                onChange={(e) => setNewVenue(e.target.value)}
+                onKeyPress={(e) => e.key === 'Enter' && handleAddNewVenue()}
+                className="flex-1"
+                placeholder="Enter new venue"
+              />
+              <button
+                onClick={handleAddNewVenue}
+                className="btn btn-secondary"
+              >
+                <Plus className="w-4 h-4" />
+                Add
+              </button>
+            </div>
+          </div>
         </div>
 
         {/* Sounds Like */}
@@ -310,6 +597,50 @@ const EditSongPage = () => {
             placeholder="Additional notes about the song..."
           />
         </div>
+
+        {/* GitHub Catalog Update Options */}
+        {githubConfig && (
+          <div className="card">
+            <div className="flex items-center gap-2 mb-6">
+              <Settings className="w-5 h-5 text-yellow-600" />
+              <h2 className="text-xl font-semibold">GitHub Repository Updates</h2>
+            </div>
+            
+            <div className="flex items-start gap-3">
+              <input
+                type="checkbox"
+                id="update-catalogs"
+                checked={updateCatalogs}
+                onChange={() => setUpdateCatalogs(!updateCatalogs)}
+                className="mt-1"
+              />
+              <div>
+                <label htmlFor="update-catalogs" className="font-medium cursor-pointer">
+                  Update catalog files
+                </label>
+                <p className="text-sm text-gray-400 mt-1">
+                  Automatically update catalog.json, search.json, theme files, and venue files
+                  when saving this song. This ensures your song appears in all relevant listings.
+                </p>
+              </div>
+            </div>
+            
+            {!updateCatalogs && (
+              <div className="mt-4 p-4 bg-yellow-600/20 border border-yellow-600/30 rounded-lg">
+                <div className="flex items-start gap-3">
+                  <AlertTriangle className="w-5 h-5 text-yellow-400 flex-shrink-0 mt-0.5" />
+                  <div>
+                    <h4 className="font-medium text-yellow-400 mb-1">Warning</h4>
+                    <p className="text-sm text-yellow-200">
+                      Without updating catalog files, your song changes will not be reflected in search results,
+                      theme pages, or venue pages until you manually update those files or reload the application.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            )}
+          </div>
+        )}
       </div>
     </div>
   )
