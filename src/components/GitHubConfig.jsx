@@ -114,7 +114,7 @@ const GitHubConfig = ({ onConfigChange, initialConfig = {} }) => {
             >
               GitHub Settings
             </a>
-            {' '}with 'repo' permissions
+            {' '}with 'repo\' permissions
           </p>
         </div>
 
