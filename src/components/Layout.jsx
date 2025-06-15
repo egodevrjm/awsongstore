@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link, useLocation } from 'react-router-dom'
-import { Music, Home, Tag, MapPin, Disc } from 'lucide-react'
+import { Music, Home, Sparkles } from 'lucide-react'
 
 const Layout = ({ children }) => {
   const location = useLocation()
@@ -13,27 +13,26 @@ const Layout = ({ children }) => {
   }
 
   return (
-    <div className="min-h-screen bg-gray-900">
+    <div className="min-h-screen">
       {/* Header */}
-      <header className="bg-black border-b border-gray-800 sticky top-0 z-50">
+      <header className="header">
         <div className="container">
-          <div className="flex items-center justify-between py-4">
-            <Link to="/" className="flex items-center gap-3">
-              <Music className="w-8 h-8 text-red-600" />
-              <div>
-                <h1 className="text-xl font-bold text-white">Alex Wilson</h1>
-                <p className="text-sm text-gray-400">Songbook</p>
+          <div className="header-content">
+            <Link to="/" className="logo">
+              <div className="relative">
+                <Music className="logo-icon" />
+                <Sparkles className="absolute -top-1 -right-1 w-4 h-4 text-yellow-400 animate-pulse" />
+              </div>
+              <div className="logo-text">
+                <h1>Alex Wilson</h1>
+                <p>Kentucky Songbook</p>
               </div>
             </Link>
 
-            <nav className="flex items-center gap-6">
+            <nav className="flex items-center gap-4">
               <Link 
                 to="/" 
-                className={`flex items-center gap-2 px-3 py-2 rounded-lg transition-colors ${
-                  isActive('/') 
-                    ? 'bg-red-600 text-white' 
-                    : 'text-gray-300 hover:text-white hover:bg-gray-800'
-                }`}
+                className={`nav-link ${isActive('/') ? 'active' : ''}`}
               >
                 <Home className="w-4 h-4" />
                 <span className="hidden sm:inline">Songs</span>
@@ -44,15 +43,26 @@ const Layout = ({ children }) => {
       </header>
 
       {/* Main Content */}
-      <main className="container py-8">
-        {children}
+      <main className="container py-12">
+        <div className="fade-in">
+          {children}
+        </div>
       </main>
 
       {/* Footer */}
-      <footer className="bg-black border-t border-gray-800 mt-16">
-        <div className="container py-8">
-          <div className="text-center text-gray-400">
-            <p>&copy; 2024 Alex Wilson Songbook. All rights reserved.</p>
+      <footer className="bg-black/50 border-t border-white/10 mt-20 backdrop-blur-20">
+        <div className="container py-12">
+          <div className="text-center">
+            <div className="flex items-center justify-center gap-3 mb-4">
+              <Music className="w-6 h-6 text-red-600" />
+              <span className="font-display text-xl font-semibold">Alex Wilson Songbook</span>
+            </div>
+            <p className="text-gray-400 mb-4">
+              Stories from Kentucky's coal country, told through song
+            </p>
+            <p className="text-gray-500 text-sm">
+              &copy; 2024 Alex Wilson. All rights reserved.
+            </p>
           </div>
         </div>
       </footer>
