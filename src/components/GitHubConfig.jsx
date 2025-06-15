@@ -75,9 +75,9 @@ const GitHubConfig = ({ onConfigChange, initialConfig = {} }) => {
 
   return (
     <div className="card">
-      <div className="flex items-center gap-3 mb-6">
-        <Github className="w-6 h-6 text-gray-400" />
-        <h3 className="text-lg font-semibold">GitHub Configuration</h3>
+      <div className="flex items-center gap-3 mb-4 md:mb-6">
+        <Github className="w-5 h-5 md:w-6 md:h-6 text-gray-400" />
+        <h3 className="text-lg md:text-xl font-semibold">GitHub Configuration</h3>
         {isValid && <CheckCircle className="w-5 h-5 text-green-500" />}
         {!isValid && config.token && <AlertCircle className="w-5 h-5 text-yellow-500" />}
       </div>
@@ -114,7 +114,7 @@ const GitHubConfig = ({ onConfigChange, initialConfig = {} }) => {
             >
               GitHub Settings
             </a>
-            {' '}with 'repo\' permissions
+            {' '}with 'repo' permissions
           </p>
         </div>
 

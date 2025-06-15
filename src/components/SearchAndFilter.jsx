@@ -120,11 +120,11 @@ const SearchAndFilter = ({
   const hasActiveFilters = searchTerm || selectedThemes.length > 0 || selectedVenues.length > 0
 
   return (
-    <div className="mb-12">
+    <div className="mb-8 md:mb-12">
       {/* Search and Controls */}
-      <div className="flex flex-col lg:flex-row gap-6 mb-6">
+      <div className="flex flex-col gap-4 md:gap-6 mb-4 md:mb-6">
         {/* Search */}
-        <div className="search-container flex-1">
+        <div className="search-container">
           <Search className="search-icon w-5 h-5" />
           <input
             type="text"
@@ -138,11 +138,11 @@ const SearchAndFilter = ({
         {/* Controls */}
         <div className="flex flex-wrap gap-3">
           {/* Sort */}
-          <div className="flex gap-2">
+          <div className="flex gap-2 flex-grow md:flex-grow-0">
             <select
               value={sortBy}
               onChange={(e) => setSortBy(e.target.value)}
-              className="px-4 py-3 min-w-[160px]"
+              className="px-3 py-2 md:px-4 md:py-3 flex-grow md:min-w-[160px]"
             >
               <option value="title">Sort by Title</option>
               <option value="themes">Sort by Themes</option>
@@ -151,7 +151,7 @@ const SearchAndFilter = ({
 
             <button
               onClick={() => setSortOrder(prev => prev === 'asc' ? 'desc' : 'asc')}
-              className="btn btn-ghost p-3"
+              className="btn btn-ghost p-2 md:p-3"
               title={`Sort ${sortOrder === 'asc' ? 'Descending' : 'Ascending'}`}
             >
               <SortAsc className={`w-5 h-5 transition-transform ${sortOrder === 'desc' ? 'rotate-180' : ''}`} />
@@ -162,7 +162,7 @@ const SearchAndFilter = ({
           <div className="flex border border-white/20 rounded-xl overflow-hidden backdrop-blur-10">
             <button
               onClick={() => onViewModeChange('grid')}
-              className={`p-3 transition-all ${
+              className={`p-2 md:p-3 transition-all ${
                 viewMode === 'grid' 
                   ? 'bg-red-600 text-white shadow-lg' 
                   : 'bg-white/5 text-gray-300 hover:bg-white/10'
@@ -173,7 +173,7 @@ const SearchAndFilter = ({
             </button>
             <button
               onClick={() => onViewModeChange('list')}
-              className={`p-3 transition-all ${
+              className={`p-2 md:p-3 transition-all ${
                 viewMode === 'list' 
                   ? 'bg-red-600 text-white shadow-lg' 
                   : 'bg-white/5 text-gray-300 hover:bg-white/10'
@@ -187,12 +187,12 @@ const SearchAndFilter = ({
           {/* Filter Toggle */}
           <button
             onClick={() => setShowFilters(!showFilters)}
-            className={`btn ${showFilters ? 'btn-primary' : 'btn-ghost'} px-6 relative`}
+            className={`btn ${showFilters ? 'btn-primary' : 'btn-ghost'} px-4 md:px-6 relative flex-grow md:flex-grow-0`}
           >
             <Filter className="w-5 h-5" />
-            <span className="hidden sm:inline">Filters</span>
+            <span className="hidden sm:inline ml-1">Filters</span>
             {hasActiveFilters && (
-              <span className="absolute -top-2 -right-2 bg-red-500 text-white text-xs rounded-full w-6 h-6 flex items-center justify-center font-bold shadow-lg">
+              <span className="absolute -top-2 -right-2 bg-red-500 text-white text-xs rounded-full w-5 h-5 flex items-center justify-center font-bold shadow-lg">
                 {(selectedThemes.length + selectedVenues.length + (searchTerm ? 1 : 0))}
               </span>
             )}
@@ -205,8 +205,8 @@ const SearchAndFilter = ({
         <div className="filter-panel mb-6">
           <div className="flex items-center justify-between mb-6">
             <div className="flex items-center gap-3">
-              <Sparkles className="w-6 h-6 text-yellow-400" />
-              <h3 className="text-xl font-semibold">Advanced Filters</h3>
+              <Sparkles className="w-5 h-5 text-yellow-400" />
+              <h3 className="text-lg md:text-xl font-semibold">Advanced Filters</h3>
             </div>
             {hasActiveFilters && (
               <button
@@ -214,12 +214,12 @@ const SearchAndFilter = ({
                 className="btn btn-ghost text-sm hover:text-red-400"
               >
                 <X className="w-4 h-4" />
-                Clear All
+                <span className="hidden sm:inline">Clear All</span>
               </button>
             )}
           </div>
 
-          <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-6 md:gap-8">
             {/* Themes */}
             <div>
               <div className="flex items-center gap-2 mb-4">
@@ -227,9 +227,9 @@ const SearchAndFilter = ({
                 <h4 className="font-semibold text-blue-400">Themes</h4>
                 <span className="text-sm text-gray-500">({allThemes.length})</span>
               </div>
-              <div className="max-h-64 overflow-y-auto space-y-3 pr-2">
+              <div className="max-h-48 md:max-h-64 overflow-y-auto space-y-2 md:space-y-3 pr-2">
                 {allThemes.map(theme => (
-                  <label key={theme} className="flex items-center gap-3 cursor-pointer group">
+                  <label key={theme} className="flex items-center gap-2 md:gap-3 cursor-pointer group">
                     <input
                       type="checkbox"
                       checked={selectedThemes.includes(theme)}
@@ -251,9 +251,9 @@ const SearchAndFilter = ({
                 <h4 className="font-semibold text-green-400">Venues</h4>
                 <span className="text-sm text-gray-500">({allVenues.length})</span>
               </div>
-              <div className="max-h-64 overflow-y-auto space-y-3 pr-2">
+              <div className="max-h-48 md:max-h-64 overflow-y-auto space-y-2 md:space-y-3 pr-2">
                 {allVenues.map(venue => (
-                  <label key={venue} className="flex items-center gap-3 cursor-pointer group">
+                  <label key={venue} className="flex items-center gap-2 md:gap-3 cursor-pointer group">
                     <input
                       type="checkbox"
                       checked={selectedVenues.includes(venue)}
@@ -272,7 +272,7 @@ const SearchAndFilter = ({
       )}
 
       {/* Results Count */}
-      <div className="flex items-center justify-between text-sm mb-6">
+      <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between text-sm mb-4 md:mb-6 gap-2">
         <div className="flex items-center gap-2 text-gray-400">
           <TrendingUp className="w-4 h-4" />
           <span>

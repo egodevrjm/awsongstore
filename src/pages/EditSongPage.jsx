@@ -3,7 +3,7 @@ import { useParams, Link, useNavigate } from 'react-router-dom'
 import { useSongs } from '../context/SongContext'
 import GitHubConfig from '../components/GitHubConfig'
 import ImageUpload from '../components/ImageUpload'
-import { ArrowLeft, Save, Upload, X, Settings, AlertTriangle } from 'lucide-react'
+import { ArrowLeft, Save, Upload, X, Settings, AlertTriangle, Plus } from 'lucide-react'
 import { GitHubAPI } from '../utils/githubApi'
 import { CatalogUpdater } from '../utils/catalogUpdater'
 
@@ -215,7 +215,7 @@ const EditSongPage = () => {
 
   if (!song) {
     return (
-      <div className="max-w-4xl mx-auto text-center py-12">
+      <div className="max-w-4xl mx-auto text-center py-8 md:py-12">
         <h1 className="text-2xl font-bold mb-2">Song Not Found</h1>
         <p className="text-gray-400 mb-6">The song you're trying to edit doesn't exist.</p>
         <Link to="/" className="btn btn-primary">
@@ -229,23 +229,23 @@ const EditSongPage = () => {
   return (
     <div className="max-w-4xl mx-auto">
       {/* Header */}
-      <div className="flex items-center justify-between mb-8">
+      <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4 mb-6 md:mb-8">
         <Link 
           to={`/song/${songId}`} 
           className="btn btn-ghost"
         >
           <ArrowLeft className="w-4 h-4" />
-          Back to Song
+          <span className="ml-1">Back to Song</span>
         </Link>
 
-        <div className="flex items-center gap-3">
+        <div className="flex items-center gap-2 sm:gap-3">
           <button
             onClick={() => setShowGitHubConfig(!showGitHubConfig)}
-            className={`btn ${githubConfig ? 'btn-secondary' : 'btn-ghost'}`}
+            className={`btn ${githubConfig ? 'btn-secondary' : 'btn-ghost'} btn-text-hidden-mobile`}
             title="GitHub Configuration"
           >
             <Settings className="w-4 h-4" />
-            GitHub
+            <span>GitHub</span>
           </button>
 
           <button
@@ -258,14 +258,14 @@ const EditSongPage = () => {
             ) : (
               <Save className="w-4 h-4" />
             )}
-            {saving ? 'Saving...' : 'Save Changes'}
+            <span className="ml-1">{saving ? 'Saving...' : 'Save'}</span>
           </button>
         </div>
       </div>
 
       {/* GitHub Configuration */}
       {showGitHubConfig && (
-        <div className="mb-8">
+        <div className="mb-6 md:mb-8">
           <GitHubConfig 
             onConfigChange={setGitHubConfig}
             initialConfig={githubConfig}
@@ -275,7 +275,7 @@ const EditSongPage = () => {
 
       {/* Save Progress */}
       {saving && saveProgress.step && (
-        <div className="mb-8 card bg-gray-800/80">
+        <div className="mb-6 md:mb-8 card bg-gray-800/80">
           <h3 className="text-lg font-medium mb-4">Saving Song</h3>
           <div className="space-y-4">
             <div className="flex items-center justify-between">
@@ -298,7 +298,7 @@ const EditSongPage = () => {
         <div className="card">
           <h2 className="text-xl font-semibold mb-6">Song Details</h2>
           
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-4 md:gap-6">
             <div>
               <label className="block text-sm font-medium mb-2">Title</label>
               <input
@@ -334,7 +334,7 @@ const EditSongPage = () => {
             name="lyrics"
             value={formData.lyrics}
             onChange={handleInputChange}
-            className="w-full h-96"
+            className="w-full h-64 md:h-96"
             placeholder="Enter song lyrics..."
           />
         </div>
@@ -359,6 +359,7 @@ const EditSongPage = () => {
                     <button
                       onClick={() => removeTheme(theme)}
                       className="hover:text-red-400"
+                      aria-label={`Remove ${theme} theme`}
                     >
                       <X className="w-3 h-3" />
                     </button>
@@ -410,7 +411,7 @@ const EditSongPage = () => {
                 className="btn btn-secondary"
               >
                 <Plus className="w-4 h-4" />
-                Add
+                <span className="hidden sm:inline ml-1">Add</span>
               </button>
             </div>
           </div>
@@ -436,6 +437,7 @@ const EditSongPage = () => {
                     <button
                       onClick={() => removeVenue(venue)}
                       className="hover:text-red-400"
+                      aria-label={`Remove ${venue} venue`}
                     >
                       <X className="w-3 h-3" />
                     </button>
@@ -487,7 +489,7 @@ const EditSongPage = () => {
                 className="btn btn-secondary"
               >
                 <Plus className="w-4 h-4" />
-                Add
+                <span className="hidden sm:inline ml-1">Add</span>
               </button>
             </div>
           </div>
@@ -504,7 +506,7 @@ const EditSongPage = () => {
                 name="sounds_like_acoustic"
                 value={formData.sounds_like_acoustic}
                 onChange={handleInputChange}
-                className="w-full h-24"
+                className="w-full h-20 md:h-24"
                 placeholder="Describe how the acoustic version sounds..."
               />
             </div>
@@ -515,7 +517,7 @@ const EditSongPage = () => {
                 name="sounds_like_recording"
                 value={formData.sounds_like_recording}
                 onChange={handleInputChange}
-                className="w-full h-24"
+                className="w-full h-20 md:h-24"
                 placeholder="Describe how the recorded version sounds..."
               />
             </div>
@@ -541,7 +543,7 @@ const EditSongPage = () => {
           <div className="mb-4">
             <label className="btn btn-secondary cursor-pointer">
               <Upload className="w-4 h-4" />
-              Upload Audio
+              <span className="ml-1">Upload Audio</span>
               <input
                 type="file"
                 multiple
@@ -558,24 +560,26 @@ const EditSongPage = () => {
           {audioFiles.length > 0 && (
             <div className="space-y-3">
               {audioFiles.map((audio) => (
-                <div key={audio.id} className="flex items-center justify-between bg-gray-800 p-3 rounded-lg">
+                <div key={audio.id} className="flex flex-col sm:flex-row sm:items-center sm:justify-between bg-gray-800 p-3 rounded-lg gap-3">
                   <div className="flex items-center gap-3">
                     <div className="w-8 h-8 bg-purple-600 rounded flex items-center justify-center">
                       <span className="text-xs font-bold">♪</span>
                     </div>
-                    <div>
-                      <p className="font-medium">{audio.name}</p>
+                    <div className="flex-1 min-w-0">
+                      <p className="font-medium truncate">{audio.name}</p>
                       <p className="text-xs text-gray-400">{audio.type}</p>
                     </div>
                   </div>
                   
-                  <div className="flex items-center gap-2">
-                    <audio controls className="h-8">
+                  <div className="flex flex-col sm:flex-row items-start sm:items-center gap-2">
+                    <audio controls className="w-full sm:w-auto h-8">
                       <source src={audio.url} type={audio.type} />
+                      Your browser does not support the audio element.
                     </audio>
                     <button
                       onClick={() => removeAudio(audio.id)}
                       className="btn btn-ghost p-2 text-red-400 hover:text-red-300"
+                      aria-label="Remove audio"
                     >
                       <X className="w-4 h-4" />
                     </button>
@@ -593,7 +597,7 @@ const EditSongPage = () => {
             name="notes"
             value={formData.notes}
             onChange={handleInputChange}
-            className="w-full h-32"
+            className="w-full h-24 md:h-32"
             placeholder="Additional notes about the song..."
           />
         </div>

@@ -88,7 +88,7 @@ const ImageUpload = ({
     <div className="space-y-6">
       {/* Upload Area */}
       <div
-        className={`border-2 border-dashed rounded-lg p-8 text-center transition-all ${
+        className={`border-2 border-dashed rounded-lg p-4 sm:p-8 text-center transition-all ${
           dragOver
             ? 'border-red-400 bg-red-400/10'
             : 'border-gray-600 hover:border-gray-500'
@@ -102,20 +102,20 @@ const ImageUpload = ({
           }
         }}
       >
-        <Upload className="w-12 h-12 text-gray-400 mx-auto mb-4" />
-        <h3 className="text-lg font-medium mb-2">Upload Images</h3>
-        <p className="text-gray-400 mb-4">
+        <Upload className="w-10 h-10 sm:w-12 sm:h-12 text-gray-400 mx-auto mb-3 sm:mb-4" />
+        <h3 className="text-base sm:text-lg font-medium mb-2">Upload Images</h3>
+        <p className="text-gray-400 mb-3 sm:mb-4 text-sm sm:text-base">
           Drag and drop images here, or click to select files
         </p>
-        <p className="text-sm text-gray-500">
+        <p className="text-xs sm:text-sm text-gray-500">
           Supports: JPG, PNG, GIF, WebP (Max {maxImages} images)
         </p>
         
         {!githubConfig && (
-          <div className="mt-4 p-3 bg-yellow-600/20 border border-yellow-600/30 rounded-lg">
+          <div className="mt-3 sm:mt-4 p-2 sm:p-3 bg-yellow-600/20 border border-yellow-600/30 rounded-lg">
             <div className="flex items-center gap-2 justify-center">
               <AlertCircle className="w-4 h-4 text-yellow-400" />
-              <span className="text-sm text-yellow-200">
+              <span className="text-xs sm:text-sm text-yellow-200">
                 Configure GitHub settings to upload images
               </span>
             </div>
@@ -140,7 +140,7 @@ const ImageUpload = ({
           {Object.entries(uploadProgress).map(([fileId, progress]) => (
             <div key={fileId} className="bg-gray-800 rounded-lg p-3">
               <div className="flex items-center justify-between mb-2">
-                <span className="text-sm font-medium">
+                <span className="text-sm font-medium truncate max-w-[200px]">
                   {fileId.split('_').slice(1).join('_')}
                 </span>
                 <div className="flex items-center gap-2">
@@ -186,7 +186,7 @@ const ImageUpload = ({
           <h4 className="font-medium mb-4">
             Uploaded Images ({images.length}/{maxImages})
           </h4>
-          <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
+          <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-3 sm:gap-4">
             {images.map((image) => {
               const progress = getProgressInfo(image.id)
               

@@ -67,37 +67,39 @@ ${song.sounds_like_recording ? `Sounds Like (Recording): ${song.sounds_like_reco
   return (
     <div className="max-w-4xl mx-auto">
       {/* Header */}
-      <div className="flex items-center justify-between mb-8">
+      <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4 mb-6 md:mb-8">
         <Link 
           to="/" 
           className="btn btn-ghost"
         >
           <ArrowLeft className="w-4 h-4" />
-          Back to Songs
+          <span className="ml-1">Back</span>
         </Link>
 
         <div className="flex items-center gap-2">
           <button
             onClick={handleCopy}
-            className="btn btn-secondary"
+            className="btn btn-secondary btn-text-hidden-mobile"
+            aria-label="Copy song details"
           >
             <Copy className="w-4 h-4" />
-            Copy Details
+            <span>Copy Details</span>
           </button>
           
           <Link
             to={`/song/${songId}/edit`}
-            className="btn btn-primary"
+            className="btn btn-primary btn-text-hidden-mobile"
+            aria-label="Edit song"
           >
             <Edit className="w-4 h-4" />
-            Edit Song
+            <span>Edit Song</span>
           </Link>
         </div>
       </div>
 
       {/* Song Title and Status */}
-      <div className="mb-8">
-        <h1 className="text-4xl font-bold mb-4">{song.title}</h1>
+      <div className="mb-6 md:mb-8">
+        <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold mb-3 md:mb-4">{song.title}</h1>
         
         {song.status && (
           <span className="inline-block px-3 py-1 bg-gray-700 text-gray-300 rounded-lg text-sm">
@@ -107,7 +109,7 @@ ${song.sounds_like_recording ? `Sounds Like (Recording): ${song.sounds_like_reco
       </div>
 
       {/* Main Content Grid */}
-      <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
+      <div className="grid grid-cols-1 lg:grid-cols-3 gap-6 md:gap-8">
         {/* Lyrics - Main Content */}
         <div className="lg:col-span-2 space-y-6">
           <div className="card">
@@ -179,7 +181,7 @@ ${song.sounds_like_recording ? `Sounds Like (Recording): ${song.sounds_like_reco
               
               <div className="space-y-3">
                 {song.audio_files.map((audio) => (
-                  <div key={audio.id} className="flex items-center justify-between bg-gray-800 p-3 rounded-lg">
+                  <div key={audio.id} className="flex flex-col sm:flex-row sm:items-center sm:justify-between bg-gray-800 p-3 rounded-lg gap-3">
                     <div className="flex items-center gap-3">
                       <div className="w-8 h-8 bg-purple-600 rounded flex items-center justify-center">
                         <span className="text-xs font-bold">♪</span>
@@ -190,8 +192,9 @@ ${song.sounds_like_recording ? `Sounds Like (Recording): ${song.sounds_like_reco
                       </div>
                     </div>
                     
-                    <audio controls className="h-8">
+                    <audio controls className="w-full sm:w-auto h-8">
                       <source src={audio.url} type={audio.type} />
+                      Your browser does not support the audio element.
                     </audio>
                   </div>
                 ))}

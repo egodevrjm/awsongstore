@@ -36,7 +36,7 @@ ${song.sounds_like_recording ? `Sounds Like (Recording): ${song.sounds_like_reco
             </h3>
           </Link>
           
-          <div className="flex items-center gap-2 mb-3">
+          <div className="flex flex-wrap items-center gap-2 mb-3">
             {song.status && (
               <span className="inline-flex items-center gap-1 px-2 py-1 text-xs bg-gray-700/50 text-gray-300 rounded-lg border border-white/10">
                 <div className="w-2 h-2 bg-green-400 rounded-full"></div>
@@ -56,6 +56,7 @@ ${song.sounds_like_recording ? `Sounds Like (Recording): ${song.sounds_like_reco
             onClick={handleCopy}
             className="btn btn-ghost p-2 hover:bg-red-600/20 hover:text-red-400"
             title="Copy song details"
+            aria-label="Copy song details"
           >
             <Copy className="w-4 h-4" />
           </button>
@@ -65,6 +66,7 @@ ${song.sounds_like_recording ? `Sounds Like (Recording): ${song.sounds_like_reco
               to={`/song/${songId}/edit`}
               className="btn btn-ghost p-2 hover:bg-blue-600/20 hover:text-blue-400"
               title="Edit song"
+              aria-label="Edit song"
             >
               <Edit className="w-4 h-4" />
             </Link>
@@ -162,7 +164,10 @@ ${song.sounds_like_recording ? `Sounds Like (Recording): ${song.sounds_like_reco
           <span>View Details</span>
         </Link>
         
-        <button className="flex items-center gap-1 text-sm text-gray-500 hover:text-red-400 transition-colors">
+        <button 
+          className="flex items-center gap-1 text-sm text-gray-500 hover:text-red-400 transition-colors"
+          aria-label="Favorite song"
+        >
           <Heart className="w-4 h-4" />
         </button>
       </div>
