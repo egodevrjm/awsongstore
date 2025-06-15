@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link, useLocation } from 'react-router-dom'
-import { Music, Home, Sparkles } from 'lucide-react'
+import { Music, Home, Sparkles, Plus } from 'lucide-react'
 
 const Layout = ({ children }) => {
   const location = useLocation()
@@ -36,6 +36,14 @@ const Layout = ({ children }) => {
               >
                 <Home className="w-4 h-4" />
                 <span className="hidden sm:inline">Songs</span>
+              </Link>
+              
+              <Link 
+                to="/song/new" 
+                className={`nav-link ${isActive('/song/new') ? 'active' : ''}`}
+              >
+                <Plus className="w-4 h-4" />
+                <span className="hidden sm:inline">Add Song</span>
               </Link>
             </nav>
           </div>

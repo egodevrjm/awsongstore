@@ -139,11 +139,24 @@ export const SongProvider = ({ children }) => {
   }
 
   const updateSong = (songId, updatedData) => {
-    setSongs(prevSongs => 
-      prevSongs.map(song => 
-        song.id === songId ? { ...song, ...updatedData } : song
+    setSongs(prevSongs => {
+      // Check if the song already exists
+      const existingSong = prevSongs.find(song => 
+        song.song_id === songId || song.id === songId
       )
-    )
+      
+      if (existingSong) {
+        // Update existing song
+        return prevSongs.map(song => 
+          (song.song_id === songId || song.id === songId) 
+            ? { ...song, ...updatedData } 
+            : song
+        )
+      } else {
+        // Add new song
+        return [...prevSongs, { ...updatedData, id: songId }]
+      }
+    })
   }
 
   const getSongById = (songId) => {

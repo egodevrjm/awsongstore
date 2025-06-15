@@ -1,8 +1,9 @@
 import React, { useState } from 'react'
+import { Link } from 'react-router-dom'
 import { useSongs } from '../context/SongContext'
 import SongGrid from '../components/SongGrid'
 import SearchAndFilter from '../components/SearchAndFilter'
-import { Music, Sparkles, MapPin, Tag, TrendingUp } from 'lucide-react'
+import { Music, Sparkles, MapPin, Tag, TrendingUp, Plus } from 'lucide-react'
 
 const HomePage = () => {
   const { songs, loading, error } = useSongs()
@@ -53,6 +54,21 @@ const HomePage = () => {
             Explore the complete collection of heartfelt ballads, working-class anthems, 
             and tales of resilience from Appalachia's mountains.
           </p>
+        </div>
+
+        {/* Quick Actions */}
+        <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
+          <Link
+            to="/song/new"
+            className="btn btn-primary text-lg px-8 py-4"
+          >
+            <Plus className="w-5 h-5" />
+            Add New Song
+          </Link>
+          
+          <div className="text-gray-500 text-sm">
+            or browse the existing collection below
+          </div>
         </div>
 
         {/* Stats */}
