@@ -11,7 +11,8 @@ import {
   MapPin, 
   FileText,
   Volume2,
-  Disc
+  Image as ImageIcon,
+  ExternalLink
 } from 'lucide-react'
 
 const SongPage = () => {
@@ -108,7 +109,7 @@ ${song.sounds_like_recording ? `Sounds Like (Recording): ${song.sounds_like_reco
       {/* Main Content Grid */}
       <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
         {/* Lyrics - Main Content */}
-        <div className="lg:col-span-2">
+        <div className="lg:col-span-2 space-y-6">
           <div className="card">
             <div className="flex items-center gap-2 mb-4">
               <FileText className="w-5 h-5 text-red-600" />
@@ -124,9 +125,83 @@ ${song.sounds_like_recording ? `Sounds Like (Recording): ${song.sounds_like_reco
             )}
           </div>
 
+          {/* Images */}
+          {song.images && song.images.length > 0 && (
+            <div className="card">
+              <div className="flex items-center gap-2 mb-4">
+                <ImageIcon className="w-5 h-5 text-purple-600" />
+                <h2 className="text-xl font-semibold">Images</h2>
+              </div>
+              
+              <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+                {song.images.map((image) => (
+                  <div key={image.id} className="relative group">
+                    <img
+                      src={image.url}
+                      alt={image.name}
+                      className="w-full h-48 object-cover rounded-lg"
+                      loading="lazy"
+                    />
+                    
+                    {/* Image Overlay */}
+                    <div className="absolute inset-0 bg-black/50 opacity-0 group-hover:opacity-100 transition-opacity rounded-lg flex items-center justify-center">
+                      <div className="flex gap-2">
+                        {image.githubUrl && (
+                          <a
+                            href={image.githubUrl}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="btn btn-ghost p-2 text-white hover:text-blue-400"
+                            title="View on GitHub"
+                          >
+                            <ExternalLink className="w-4 h-4" />
+                          </a>
+                        )}
+                      </div>
+                    </div>
+                    
+                    <p className="text-xs text-gray-400 mt-2 truncate" title={image.name}>
+                      {image.name}
+                    </p>
+                  </div>
+                ))}
+              </div>
+            </div>
+          )}
+
+          {/* Audio Files */}
+          {song.audio_files && song.audio_files.length > 0 && (
+            <div className="card">
+              <div className="flex items-center gap-2 mb-4">
+                <Volume2 className="w-5 h-5 text-green-600" />
+                <h2 className="text-xl font-semibold">Audio Files</h2>
+              </div>
+              
+              <div className="space-y-3">
+                {song.audio_files.map((audio) => (
+                  <div key={audio.id} className="flex items-center justify-between bg-gray-800 p-3 rounded-lg">
+                    <div className="flex items-center gap-3">
+                      <div className="w-8 h-8 bg-purple-600 rounded flex items-center justify-center">
+                        <span className="text-xs font-bold">♪</span>
+                      </div>
+                      <div>
+                        <p className="font-medium">{audio.name}</p>
+                        <p className="text-xs text-gray-400">{audio.type}</p>
+                      </div>
+                    </div>
+                    
+                    <audio controls className="h-8">
+                      <source src={audio.url} type={audio.type} />
+                    </audio>
+                  </div>
+                ))}
+              </div>
+            </div>
+          )}
+
           {/* Notes */}
           {song.notes && (
-            <div className="card mt-6">
+            <div className="card">
               <h2 className="text-xl font-semibold mb-4">Notes</h2>
               <div className="text-gray-300 whitespace-pre-wrap">
                 {song.notes}

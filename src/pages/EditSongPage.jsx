@@ -1,7 +1,9 @@
 import React, { useState, useEffect } from 'react'
 import { useParams, Link, useNavigate } from 'react-router-dom'
 import { useSongs } from '../context/SongContext'
-import { ArrowLeft, Save, Upload, X } from 'lucide-react'
+import GitHubConfig from '../components/GitHubConfig'
+import ImageUpload from '../components/ImageUpload'
+import { ArrowLeft, Save, Upload, X, Settings } from 'lucide-react'
 
 const EditSongPage = () => {
   const { songId } = useParams()
@@ -21,6 +23,8 @@ const EditSongPage = () => {
   
   const [images, setImages] = useState([])
   const [audioFiles, setAudioFiles] = useState([])
+  const [githubConfig, setGitHubConfig] = useState(null)
+  const [showGitHubConfig, setShowGitHubConfig] = useState(false)
   const [saving, setSaving] = useState(false)
 
   useEffect(() => {
@@ -48,25 +52,6 @@ const EditSongPage = () => {
     }))
   }
 
-  const handleImageUpload = (e) => {
-    const files = Array.from(e.target.files)
-    files.forEach(file => {
-      if (file.type.startsWith('image/')) {
-        const reader = new FileReader()
-        reader.onload = (event) => {
-          const newImage = {
-            id: Date.now() + Math.random(),
-            name: file.name,
-            url: event.target.result,
-            type: file.type
-          }
-          setImages(prev => [...prev, newImage])
-        }
-        reader.readAsDataURL(file)
-      }
-    })
-  }
-
   const handleAudioUpload = (e) => {
     const files = Array.from(e.target.files)
     files.forEach(file => {
@@ -84,10 +69,6 @@ const EditSongPage = () => {
         reader.readAsDataURL(file)
       }
     })
-  }
-
-  const removeImage = (imageId) => {
-    setImages(prev => prev.filter(img => img.id !== imageId))
   }
 
   const removeAudio = (audioId) => {
@@ -143,19 +124,40 @@ const EditSongPage = () => {
           Back to Song
         </Link>
 
-        <button
-          onClick={handleSave}
-          disabled={saving}
-          className="btn btn-primary"
-        >
-          {saving ? (
-            <div className="spinner" />
-          ) : (
-            <Save className="w-4 h-4" />
-          )}
-          {saving ? 'Saving...' : 'Save Changes'}
-        </button>
+        <div className="flex items-center gap-3">
+          <button
+            onClick={() => setShowGitHubConfig(!showGitHubConfig)}
+            className={`btn ${githubConfig ? 'btn-secondary' : 'btn-ghost'}`}
+            title="GitHub Configuration"
+          >
+            <Settings className="w-4 h-4" />
+            GitHub
+          </button>
+
+          <button
+            onClick={handleSave}
+            disabled={saving}
+            className="btn btn-primary"
+          >
+            {saving ? (
+              <div className="spinner" />
+            ) : (
+              <Save className="w-4 h-4" />
+            )}
+            {saving ? 'Saving...' : 'Save Changes'}
+          </button>
+        </div>
       </div>
+
+      {/* GitHub Configuration */}
+      {showGitHubConfig && (
+        <div className="mb-8">
+          <GitHubConfig 
+            onConfigChange={setGitHubConfig}
+            initialConfig={githubConfig}
+          />
+        </div>
+      )}
 
       {/* Form */}
       <div className="space-y-6">
@@ -236,41 +238,13 @@ const EditSongPage = () => {
         {/* Images */}
         <div className="card">
           <h2 className="text-xl font-semibold mb-6">Images</h2>
-          
-          <div className="mb-4">
-            <label className="btn btn-secondary cursor-pointer">
-              <Upload className="w-4 h-4" />
-              Upload Images
-              <input
-                type="file"
-                multiple
-                accept="image/*"
-                onChange={handleImageUpload}
-                className="hidden"
-              />
-            </label>
-          </div>
-
-          {images.length > 0 && (
-            <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
-              {images.map((image) => (
-                <div key={image.id} className="relative group">
-                  <img
-                    src={image.url}
-                    alt={image.name}
-                    className="w-full h-32 object-cover rounded-lg"
-                  />
-                  <button
-                    onClick={() => removeImage(image.id)}
-                    className="absolute top-2 right-2 bg-red-600 text-white rounded-full p-1 opacity-0 group-hover:opacity-100 transition-opacity"
-                  >
-                    <X className="w-4 h-4" />
-                  </button>
-                  <p className="text-xs text-gray-400 mt-1 truncate">{image.name}</p>
-                </div>
-              ))}
-            </div>
-          )}
+          <ImageUpload
+            songId={songId}
+            images={images}
+            onImagesChange={setImages}
+            githubConfig={githubConfig}
+            maxImages={10}
+          />
         </div>
 
         {/* Audio Files */}
@@ -289,6 +263,9 @@ const EditSongPage = () => {
                 className="hidden"
               />
             </label>
+            <p className="text-sm text-gray-500 mt-2">
+              Note: Audio files are stored locally in the browser. For permanent storage, consider using a cloud service.
+            </p>
           </div>
 
           {audioFiles.length > 0 && (
