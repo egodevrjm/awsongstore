@@ -26,15 +26,25 @@ export const SongProvider = ({ children }) => {
     try {
       setLoading(true)
       
+      // Determine if we're running on Netlify or locally
+      const isNetlify = window.location.hostname.includes('netlify.app')
+      const baseUrl = isNetlify 
+        ? 'https://raw.githubusercontent.com/egodevrjm/awsongstore/main'
+        : ''
+      
+      console.log('Loading data from:', baseUrl || 'local server')
+      
       // Load catalog first for faster initial load
       let catalogData = []
       try {
-        const catalogResponse = await fetch('/catalog.json')
+        const catalogResponse = await fetch(`${baseUrl}/catalog.json`)
         if (catalogResponse.ok) {
           catalogData = await catalogResponse.json()
+        } else {
+          console.warn('Failed to load catalog, status:', catalogResponse.status)
         }
       } catch (err) {
-        console.warn('Failed to load catalog')
+        console.warn('Failed to load catalog:', err)
       }
       
       // Load all song files
@@ -72,29 +82,36 @@ export const SongProvider = ({ children }) => {
 
       const songPromises = songFiles.map(async (songId) => {
         try {
-          const response = await fetch(`/songs/${songId}.json`)
+          const response = await fetch(`${baseUrl}/songs/${songId}.json`)
           if (response.ok) {
             const songData = await response.json()
             return { ...songData, id: songId }
+          } else {
+            console.warn(`Failed to load song: ${songId}, status: ${response.status}`)
           }
         } catch (err) {
-          console.warn(`Failed to load song: ${songId}`)
+          console.warn(`Failed to load song: ${songId}`, err)
         }
         return null
       })
 
       const songResults = await Promise.all(songPromises)
       const loadedSongs = songResults.filter(song => song !== null)
+      
+      console.log(`Loaded ${loadedSongs.length} songs`)
 
       // Load albums
       try {
-        const albumsResponse = await fetch('/albums.json')
+        const albumsResponse = await fetch(`${baseUrl}/albums.json`)
         if (albumsResponse.ok) {
           const albumsData = await albumsResponse.json()
           setAlbums(albumsData)
+          console.log(`Loaded ${albumsData.length} albums`)
+        } else {
+          console.warn('Failed to load albums, status:', albumsResponse.status)
         }
       } catch (err) {
-        console.warn('Failed to load albums')
+        console.warn('Failed to load albums:', err)
       }
 
       // Load themes
@@ -108,19 +125,22 @@ export const SongProvider = ({ children }) => {
 
       const themePromises = themeFiles.map(async (theme) => {
         try {
-          const response = await fetch(`/themes/${theme}.json`)
+          const response = await fetch(`${baseUrl}/themes/${theme}.json`)
           if (response.ok) {
             const themeData = await response.json()
             return [theme, themeData]
+          } else {
+            console.warn(`Failed to load theme: ${theme}, status: ${response.status}`)
           }
         } catch (err) {
-          console.warn(`Failed to load theme: ${theme}`)
+          console.warn(`Failed to load theme: ${theme}`, err)
         }
         return null
       })
 
       const themeResults = await Promise.all(themePromises)
       const loadedThemes = Object.fromEntries(themeResults.filter(theme => theme !== null))
+      console.log(`Loaded ${Object.keys(loadedThemes).length} themes`)
 
       // Load venues
       const venueFiles = [
@@ -131,19 +151,22 @@ export const SongProvider = ({ children }) => {
 
       const venuePromises = venueFiles.map(async (venue) => {
         try {
-          const response = await fetch(`/venues/${venue}.json`)
+          const response = await fetch(`${baseUrl}/venues/${venue}.json`)
           if (response.ok) {
             const venueData = await response.json()
             return [venue, venueData]
+          } else {
+            console.warn(`Failed to load venue: ${venue}, status: ${response.status}`)
           }
         } catch (err) {
-          console.warn(`Failed to load venue: ${venue}`)
+          console.warn(`Failed to load venue: ${venue}`, err)
         }
         return null
       })
 
       const venueResults = await Promise.all(venuePromises)
       const loadedVenues = Object.fromEntries(venueResults.filter(venue => venue !== null))
+      console.log(`Loaded ${Object.keys(loadedVenues).length} venues`)
 
       setSongs(loadedSongs)
       setThemes(loadedThemes)

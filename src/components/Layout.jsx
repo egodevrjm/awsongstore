@@ -1,10 +1,13 @@
 import React, { useState } from 'react'
 import { Link, useLocation } from 'react-router-dom'
-import { Music, Home, Sparkles, Plus, Menu, X } from 'lucide-react'
+import { Music, Home, Sparkles, Plus, Menu, X, RefreshCw } from 'lucide-react'
+import { useSongs } from '../context/SongContext'
 
 const Layout = ({ children }) => {
   const location = useLocation()
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false)
+  const { reload } = useSongs()
+  const [isReloading, setIsReloading] = useState(false)
 
   const isActive = (path) => {
     if (path === '/') {
@@ -19,6 +22,12 @@ const Layout = ({ children }) => {
 
   const closeMobileMenu = () => {
     setMobileMenuOpen(false)
+  }
+
+  const handleReload = async () => {
+    setIsReloading(true)
+    await reload()
+    setIsReloading(false)
   }
 
   return (
@@ -55,6 +64,15 @@ const Layout = ({ children }) => {
                 <Plus className="w-4 h-4" />
                 <span>Add Song</span>
               </Link>
+
+              <button
+                onClick={handleReload}
+                className="nav-link"
+                disabled={isReloading}
+              >
+                <RefreshCw className={`w-4 h-4 ${isReloading ? 'animate-spin' : ''}`} />
+                <span>{isReloading ? 'Reloading...' : 'Refresh Data'}</span>
+              </button>
             </nav>
 
             {/* Mobile Menu Button */}
@@ -115,6 +133,18 @@ const Layout = ({ children }) => {
               <Plus className="w-5 h-5" />
               <span>Add Song</span>
             </Link>
+
+            <button
+              onClick={() => {
+                handleReload();
+                closeMobileMenu();
+              }}
+              className="nav-link text-lg"
+              disabled={isReloading}
+            >
+              <RefreshCw className={`w-5 h-5 ${isReloading ? 'animate-spin' : ''}`} />
+              <span>{isReloading ? 'Reloading...' : 'Refresh Data'}</span>
+            </button>
           </nav>
           
           <div className="mt-auto pb-8 text-center text-gray-500 text-sm">
