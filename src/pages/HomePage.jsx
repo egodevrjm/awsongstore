@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 import { useSongs } from '../context/SongContext'
 import SongGrid from '../components/SongGrid'
 import SearchAndFilter from '../components/SearchAndFilter'
-import { Music, Sparkles, MapPin, Tag, TrendingUp, Plus, RefreshCw } from 'lucide-react'
+import { Music, Sparkles, MapPin, Tag, Plus, RefreshCw } from 'lucide-react'
 
 const HomePage = () => {
   const { songs, loading, error, reload } = useSongs()
