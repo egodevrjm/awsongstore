@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import { Link, useLocation } from 'react-router-dom'
-import { Music, Home, Sparkles, Plus, Menu, X, RefreshCw } from 'lucide-react'
+import { Music, Home, Plus, Menu, X, RefreshCw } from 'lucide-react'
 import { useSongs } from '../context/SongContext'
 
 const Layout = ({ children }) => {
@@ -31,15 +31,14 @@ const Layout = ({ children }) => {
   }
 
   return (
-    <div className="min-h-screen">
+    <div className="min-h-screen flex flex-col">
       {/* Header */}
       <header className="header">
         <div className="container">
           <div className="header-content">
             <Link to="/" className="logo">
-              <div className="relative">
+              <div className="logo-icon-container">
                 <Music className="logo-icon" />
-                <Sparkles className="absolute -top-1 -right-1 w-4 h-4 text-yellow-400 animate-pulse" />
               </div>
               <div className="logo-text">
                 <h1>Alex Wilson</h1>
@@ -96,9 +95,8 @@ const Layout = ({ children }) => {
         <div className="container h-full flex flex-col">
           <div className="flex items-center justify-between py-6">
             <Link to="/" className="logo" onClick={closeMobileMenu}>
-              <div className="relative">
+              <div className="logo-icon-container">
                 <Music className="logo-icon" />
-                <Sparkles className="absolute -top-1 -right-1 w-4 h-4 text-yellow-400 animate-pulse" />
               </div>
               <div className="logo-text">
                 <h1>Alex Wilson</h1>
@@ -148,14 +146,13 @@ const Layout = ({ children }) => {
           </nav>
           
           <div className="mt-auto pb-8 text-center text-gray-500 text-sm">
-            <p>Alex Wilson Songbook</p>
-            <p className="mt-2">&copy; 2024 All rights reserved</p>
+            <p>&copy; 2024 Alex Wilson Songbook</p>
           </div>
         </div>
       </div>
 
       {/* Main Content */}
-      <main className="container py-6 md:py-8 lg:py-12">
+      <main className="container py-6 md:py-8 lg:py-12 flex-grow">
         <div className="fade-in">
           {children}
         </div>
@@ -163,18 +160,9 @@ const Layout = ({ children }) => {
 
       {/* Footer */}
       <footer className="bg-black/50 border-t border-white/10 mt-8 md:mt-12 lg:mt-20 backdrop-blur-20">
-        <div className="container py-6 md:py-8 lg:py-12">
-          <div className="text-center">
-            <div className="flex items-center justify-center gap-3 mb-4">
-              <Music className="w-6 h-6 text-red-600" />
-              <span className="font-display text-xl font-semibold">Alex Wilson Songbook</span>
-            </div>
-            <p className="text-sm md:text-base text-gray-400 max-w-3xl mx-auto mb-4">
-              Stories from Kentucky's coal country, told through song
-            </p>
-            <p className="text-xs md:text-sm text-gray-500">
-              &copy; 2024 Alex Wilson. All rights reserved.
-            </p>
+        <div className="container py-4 md:py-6">
+          <div className="text-center text-sm text-gray-500">
+            <p>&copy; 2024 Alex Wilson Songbook. All rights reserved.</p>
           </div>
         </div>
       </footer>
